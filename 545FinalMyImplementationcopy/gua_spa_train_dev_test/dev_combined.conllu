@@ -1,0 +1,3348 @@
+#dev1: Obligarle alguien pa que me escriba ? No señorito ani nde kangy
+Obligarle	es	0	b-cc
+alguien	es	0	i-cc
+pa	es	0	i-cc
+que	es	0	i-cc
+me	es	0	i-cc
+escriba	es	0	i-cc
+?	other	0	0
+No	es	0	b-cc
+señorito	es	0	i-cc
+ani	gn	0	0
+nde	gn	0	0
+kangy	gn	0	0
+
+#dev2: @USER Nde putito opina sobre LGTB umia , nde rente del mbae
+@USER	ne	b-per	0
+Nde	gn	0	0
+putito	es	0	b-cc
+opina	es	0	i-cc
+sobre	es	0	i-cc
+LGTB	ne	b-org	0
+umia	gn	0	0
+,	other	0	0
+nde	gn	0	0
+rente	gn	0	0
+del	es	0	b-cc
+mbae	gn	0	0
+
+#dev3: @USER segueee nomá ... masiadoite da gustoite guaranime
+@USER	ne	b-per	0
+segueee	es	0	b-ul
+nomá	mix	0	0
+...	other	0	0
+masiadoite	mix	0	0
+da	es	0	b-ul
+gustoite	mix	0	0
+guaranime	gn	0	0
+
+#dev4: Amombe’úse peême umi marandu omohu’ãva tembiapo ” , he’i viceministro .
+Amombe’úse	gn	0	0
+peême	gn	0	0
+umi	gn	0	0
+marandu	gn	0	0
+omohu’ãva	gn	0	0
+tembiapo	gn	0	0
+”	other	0	0
+,	other	0	0
+he’i	gn	0	0
+viceministro	es	0	b-ul
+.	other	0	0
+
+#dev5: Ojesarekóvo novena fiesta patronal católica Tupas^y Ka’akupe .
+Ojesarekóvo	gn	0	0
+novena	es	0	b-ul
+fiesta	es	0	i-ul
+patronal	es	0	i-ul
+católica	es	0	i-ul
+Tupas^y	ne	b-per	0
+Ka’akupe	ne	i-per	0
+.	other	0	0
+
+#dev6: Mayma mbo’ehára oplantea hikuái jahechápa titular Tekombo’egua omoañete reivindicación oñondivépa , peteî ajuste salarial 0.2 , escalafón docente , reemplazo maternidad ha bonificación familiar rehe .
+Mayma	gn	0	0
+mbo’ehára	gn	0	0
+oplantea	mix	0	0
+hikuái	gn	0	0
+jahechápa	gn	0	0
+titular	es	0	b-ul
+Tekombo’egua	ne	b-org	0
+omoañete	gn	0	0
+reivindicación	es	0	b-ul
+oñondivépa	gn	0	0
+,	other	0	0
+peteî	gn	0	0
+ajuste	es	0	b-ul
+salarial	es	0	i-ul
+0.2	other	0	0
+,	other	0	0
+escalafón	es	0	b-ul
+docente	es	0	i-ul
+,	other	0	0
+reemplazo	es	0	b-ul
+maternidad	es	0	i-ul
+ha	gn	0	0
+bonificación	es	0	b-ul
+familiar	es	0	i-ul
+rehe	gn	0	0
+.	other	0	0
+
+#dev7: Ko’ã mba’e omondo tecnología yvaite haombotapykuéma libreta física ndorekóiva omantene haguã seguridad omantenévo umi registro dosis orekóva .
+Ko’ã	gn	0	0
+mba’e	gn	0	0
+omondo	gn	0	0
+tecnología	es	0	b-ul
+yvaite	gn	0	0
+haombotapykuéma	gn	0	0
+libreta	es	0	b-ul
+física	es	0	i-ul
+ndorekóiva	gn	0	0
+omantene	mix	0	0
+haguã	gn	0	0
+seguridad	es	0	b-ul
+omantenévo	gn	0	0
+umi	gn	0	0
+registro	es	0	b-ul
+dosis	es	0	i-ul
+orekóva	gn	0	0
+.	other	0	0
+
+#dev8: @USER una cagadas tus propagandas , con todo lo que robas tenes que hacer una estilo holywood nunga por ahí .. Muerte al pato cornudo !
+@USER	ne	b-org	0
+una	es	0	b-cc
+cagadas	es	0	i-cc
+tus	es	0	i-cc
+propagandas	es	0	i-cc
+,	other	0	0
+con	es	0	b-cc
+todo	es	0	i-cc
+lo	es	0	i-cc
+que	es	0	i-cc
+robas	es	0	i-cc
+tenes	es	0	i-cc
+que	es	0	i-cc
+hacer	es	0	i-cc
+una	es	0	i-cc
+estilo	es	0	i-cc
+holywood	ne	b-org	0
+nunga	gn	0	0
+por	es	0	b-cc
+ahí	es	0	i-cc
+..	other	0	0
+Muerte	es	0	b-cc
+al	es	0	i-cc
+pato	es	0	i-cc
+cornudo	es	0	i-cc
+!	other	0	0
+
+#dev9: “ Hembipotápe oî tojehecha presupuesto ary 2020 oúva Educación nombohasáigui monto yvatevéva presupuesto ” , oîvagui .
+“	other	0	0
+Hembipotápe	gn	0	0
+oî	gn	0	0
+tojehecha	gn	0	0
+presupuesto	es	0	b-ul
+ary	gn	0	0
+2020	other	0	0
+oúva	gn	0	0
+Educación	ne	b-org	0
+nombohasáigui	gn	0	0
+monto	es	0	b-ul
+yvatevéva	gn	0	0
+presupuesto	gn	0	0
+”	other	0	0
+,	other	0	0
+oîvagui	gn	0	0
+.	other	0	0
+
+#dev10: " @USER : ja.upata umia oñe.eva guaramine JAJAJA " guaraNime , ndaha'ei guaraMiNe jajajajaja
+"	other	0	0
+@USER	ne	b-per	0
+:	other	0	0
+ja.upata	gn	0	0
+umia	gn	0	0
+oñe.eva	gn	0	0
+guaramine	gn	0	0
+JAJAJA	es	0	b-ul
+"	other	0	0
+guaraNime	gn	0	0
+,	other	0	0
+ndaha'ei	gn	0	0
+guaraMiNe	foreign	0	0
+jajajajaja	es	0	b-ul
+
+#dev11: Concejales asuncenos ohejáma Junta ohóma Congreso gotyo
+Concejales	es	0	b-ul
+asuncenos	es	0	i-ul
+ohejáma	gn	0	0
+Junta	ne	b-org	0
+ohóma	gn	0	0
+Congreso	ne	b-org	0
+gotyo	gn	0	0
+
+#dev12: Mbae sentido oreko la vida URL
+Mbae	gn	0	0
+sentido	es	0	b-ul
+oreko	gn	0	0
+la	es	0	b-ul
+vida	es	0	i-ul
+URL	other	0	0
+
+#dev13: Mbae sentido oreko la vida con este equipooooo
+Mbae	gn	0	0
+sentido	es	0	b-ul
+oreko	gn	0	0
+la	es	0	b-cc
+vida	es	0	i-cc
+con	es	0	i-cc
+este	es	0	i-cc
+equipooooo	es	0	i-cc
+
+#dev14: Ohechauka sacrificio ha voluntad omoañetévo ikerayvoty
+Ohechauka	gn	0	0
+sacrificio	es	0	b-ul
+ha	gn	0	0
+voluntad	es	0	b-ul
+omoañetévo	gn	0	0
+ikerayvoty	gn	0	0
+
+#dev15: RT @USER : Hoy hablamos todos en guarani heee ! #diadelidiomaguarani / mba'eteko pio nde reñe'e haguã avañe'eme ?
+RT	foreign	0	0
+@USER	ne	b-per	0
+:	other	0	0
+Hoy	es	0	b-cc
+hablamos	es	0	i-cc
+todos	es	0	i-cc
+en	es	0	i-cc
+guarani	es	0	i-cc
+heee	gn	0	0
+!	other	0	0
+#diadelidiomaguarani	es	0	b-cc
+/	other	0	0
+mba'eteko	gn	0	0
+pio	gn	0	0
+nde	gn	0	0
+reñe'e	gn	0	0
+haguã	gn	0	0
+avañe'eme	gn	0	0
+?	other	0	0
+
+#dev16: EHECHAMÍNA Paraguái Ñe’ẽnguéra Sãmbyhyha @USER NEMOMARANDU !!! ;)
+EHECHAMÍNA	gn	0	0
+Paraguái	ne	b-org	0
+Ñe’ẽnguéra	ne	i-org	0
+Sãmbyhyha	ne	i-org	0
+@USER	ne	b-org	0
+NEMOMARANDU	gn	0	0
+!!!	other	0	0
+;)	other	0	0
+
+#dev17: @USER Rojapota hina (: #TuguyVai
+@USER	ne	b-per	0
+Rojapota	gn	0	0
+hina	gn	0	0
+(:	other	0	0
+#TuguyVai	gn	0	0
+
+#dev18: Castiglioni oñembotavy ha tarde oñeñatõi Secretaría de Prevención de Lavado de Dinero o Bienes ( Seprelad ) , omomarandúvo Fiscalía ko'ã situación Messer , okañýva justicia Brasil-gui péva Lava Jato káso rehe .
+Castiglioni	ne	b-per	0
+oñembotavy	gn	0	0
+ha	gn	0	0
+tarde	es	0	b-ul
+oñeñatõi	gn	0	0
+Secretaría	ne	b-org	0
+de	ne	i-org	0
+Prevención	ne	i-org	0
+de	ne	i-org	0
+Lavado	ne	i-org	0
+de	ne	i-org	0
+Dinero	ne	i-org	0
+o	ne	i-org	0
+Bienes	ne	i-org	0
+(	other	0	0
+Seprelad	ne	b-org	0
+)	other	0	0
+,	other	0	0
+omomarandúvo	gn	0	0
+Fiscalía	ne	b-org	0
+ko'ã	gn	0	0
+situación	es	0	b-ul
+Messer	ne	b-per	0
+,	other	0	0
+okañýva	gn	0	0
+justicia	ne	b-org	0
+Brasil-gui	ne	i-org	0
+péva	gn	0	0
+Lava	foreign	0	0
+Jato	foreign	0	0
+káso	gn	0	0
+rehe	gn	0	0
+.	other	0	0
+
+#dev19: TTM ha PÑS omba’apo guarani jepurumemerã URL
+TTM	ne	b-org	0
+ha	gn	0	0
+PÑS	ne	b-org	0
+omba’apo	gn	0	0
+guarani	gn	0	0
+jepurumemerã	gn	0	0
+URL	other	0	0
+
+#dev20: @USER Pero terehona embojahu pira mbae nde pombero ra'y o , uaaa limón jaja
+@USER	ne	b-per	0
+Pero	es	0	b-ul
+terehona	gn	0	0
+embojahu	gn	0	0
+pira	gn	0	0
+mbae	gn	0	0
+nde	gn	0	0
+pombero	gn	0	0
+ra'y	gn	0	0
+o	gn	0	0
+,	other	0	0
+uaaa	gn	0	0
+limón	es	0	b-ul
+jaja	es	0	i-ul
+
+#dev21: Ko actividad acuática oñemotenonde 17:00 aravo guive pileta de natación club social Yasyretãme .
+Ko	gn	0	0
+actividad	es	0	b-ul
+acuática	es	0	i-ul
+oñemotenonde	gn	0	0
+17:00	other	0	0
+aravo	gn	0	0
+guive	gn	0	0
+pileta	es	0	b-ul
+de	es	0	i-ul
+natación	es	0	i-ul
+club	ne	b-loc	0
+social	ne	i-loc	0
+Yasyretãme	ne	i-loc	0
+.	other	0	0
+
+#dev22: @USER Hola che como hago para obtener sus servicios de cabletv …?
+@USER	ne	b-org	0
+Hola	es	0	b-cc
+che	es	0	i-cc
+como	es	0	i-cc
+hago	es	0	i-cc
+para	es	0	i-cc
+obtener	es	0	i-cc
+sus	es	0	i-cc
+servicios	es	0	i-cc
+de	es	0	i-cc
+cabletv	es	0	i-cc
+…?	other	0	0
+
+#dev23: “ Messer oime procesado ha oñeinvestigava'erã ” , he'i kuehe vicepresidente de la República electo , Hugo Velázquez .
+“	other	0	0
+Messer	ne	b-per	0
+oime	gn	0	0
+procesado	es	0	b-cc
+ha	gn	0	0
+oñeinvestigava'erã	mix	0	0
+”	other	0	0
+,	other	0	0
+he'i	gn	0	0
+kuehe	gn	0	0
+vicepresidente	es	0	b-cc
+de	es	0	i-cc
+la	es	0	i-cc
+República	es	0	i-cc
+electo	es	0	i-cc
+,	other	0	0
+Hugo	ne	b-per	0
+Velázquez	ne	i-per	0
+.	other	0	0
+
+#dev24: Gobierno opoi G.300.000 millones salud ha pytuhême’ê tributaria-rã
+Gobierno	ne	b-org	0
+opoi	gn	0	0
+G.300.000	other	0	0
+millones	es	0	b-ul
+salud	es	0	i-ul
+ha	gn	0	0
+pytuhême’ê	gn	0	0
+tributaria-rã	mix	0	0
+
+#dev25: " mba'epico nde che rekaka kue emandata cheve " - mi mamá
+"	other	0	0
+mba'epico	gn	0	0
+nde	gn	0	0
+che	gn	0	0
+rekaka	gn	0	0
+kue	gn	0	0
+emandata	gn	0	0
+cheve	gn	0	0
+"	other	0	0
+-	other	0	0
+mi	es	0	b-cc
+mamá	es	0	i-cc
+
+#dev26: Presidente Mario Abdo Benítez he’iomohendávo reestructuración ome’êva umi gasto superfluo ha’eháicha pago hora extra , viático , combustible ha ambue mbytépe , oñeasigna G.300.000 millones para salud .
+Presidente	ne	b-per	0
+Mario	ne	i-per	0
+Abdo	ne	i-per	0
+Benítez	ne	i-per	0
+he’iomohendávo	gn	0	0
+reestructuración	es	0	b-ul
+ome’êva	gn	0	0
+umi	gn	0	0
+gasto	es	0	b-ul
+superfluo	es	0	i-ul
+ha’eháicha	gn	0	0
+pago	es	0	b-ul
+hora	es	0	i-ul
+extra	es	0	i-ul
+,	other	0	0
+viático	es	0	b-ul
+,	other	0	0
+combustible	es	0	b-ul
+ha	gn	0	0
+ambue	gn	0	0
+mbytépe	gn	0	0
+,	other	0	0
+oñeasigna	mix	0	0
+G.300.000	other	0	0
+millones	es	0	b-cc
+para	es	0	i-cc
+salud	es	0	i-cc
+.	other	0	0
+
+#dev27: Mbae sentido oreko la vida lgmt si no tengo amigos con quién salir
+Mbae	gn	0	0
+sentido	es	0	b-cc
+oreko	gn	0	0
+la	es	0	b-cc
+vida	es	0	i-cc
+lgmt	other	0	0
+si	es	0	b-cc
+no	es	0	i-cc
+tengo	es	0	i-cc
+amigos	es	0	i-cc
+con	es	0	i-cc
+quién	es	0	i-cc
+salir	es	0	i-cc
+
+#dev28: SEN ojerúre pytyvõ ciudadanía-pe , ojerurévo ojehechávo calle a los números (021) 440-997/8 .
+SEN	ne	b-org	0
+ojerúre	gn	0	0
+pytyvõ	gn	0	0
+ciudadanía-pe	mix	0	0
+,	other	0	0
+ojerurévo	gn	0	0
+ojehechávo	gn	0	0
+calle	es	0	b-cc
+a	es	0	i-cc
+los	es	0	i-cc
+números	es	0	i-cc
+(021) 440-997/8	other	0	0
+.	other	0	0
+
+#dev29: Peteî universidad de Encarnación omoî| ñemitîÿ 500 yvyramáta'i peteî korapy guasu omonéîva municipalida tavaguasu Encarnación gotyo .
+Peteî	gn	0	0
+universidad	es	0	b-cc
+de	es	0	i-cc
+Encarnación	ne	b-loc	0
+omoî|	gn	0	0
+ñemitîÿ	gn	0	0
+500	other	0	0
+yvyramáta'i	gn	0	0
+peteî	gn	0	0
+korapy	gn	0	0
+guasu	gn	0	0
+omonéîva	gn	0	0
+municipalida	ne	b-org	0
+tavaguasu	ne	i-org	0
+Encarnación	ne	i-org	0
+gotyo	gn	0	0
+.	other	0	0
+
+#dev30: Are guive ombo’e heta aranduo ikatekatevévape , América ha Europa-gua .
+Are	gn	0	0
+guive	gn	0	0
+ombo’e	gn	0	0
+heta	gn	0	0
+aranduo	gn	0	0
+ikatekatevévape	gn	0	0
+,	other	0	0
+América	ne	b-loc	0
+ha	gn	0	0
+Europa-gua	ne	b-loc	0
+.	other	0	0
+
+#dev31: @USER Ani nde malose
+@USER	ne	b-per	0
+Ani	gn	0	0
+nde	gn	0	0
+malose	mix	0	0
+
+#dev32: JAJAJAJAJ y cosa que cuando te bardean en guaraní duele más . Mba'e piko oreko oñe'ê haguere ñane ñe'ê guaranime , tuicha mba'e la TAVY ajepa ! Ejeheka ngana nde agraciado'imi haguã ha ni upeichaverõ . ( Saludos Europeo , espero que te mejores con tus chistes )
+JAJAJAJAJ	es	0	b-cc
+y	es	0	i-cc
+cosa	es	0	i-cc
+que	es	0	i-cc
+cuando	es	0	i-cc
+te	es	0	i-cc
+bardean	es	0	i-cc
+en	es	0	i-cc
+guaraní	es	0	i-cc
+duele	es	0	i-cc
+más	es	0	i-cc
+.	other	0	0
+Mba'e	gn	0	0
+piko	gn	0	0
+oreko	gn	0	0
+oñe'ê	gn	0	0
+haguere	gn	0	0
+ñane	gn	0	0
+ñe'ê	gn	0	0
+guaranime	gn	0	0
+,	other	0	0
+tuicha	gn	0	0
+mba'e	gn	0	0
+la	es	0	b-ul
+TAVY	gn	0	0
+ajepa	gn	0	0
+!	other	0	0
+Ejeheka	gn	0	0
+ngana	gn	0	0
+nde	gn	0	0
+agraciado'imi	mix	0	0
+haguã	gn	0	0
+ha	gn	0	0
+ni	gn	0	0
+upeichaverõ	gn	0	0
+.	other	0	0
+(	other	0	0
+Saludos	es	0	b-cc
+Europeo	es	0	i-cc
+,	other	0	0
+espero	es	0	b-cc
+que	es	0	i-cc
+te	es	0	i-cc
+mejores	es	0	i-cc
+con	es	0	i-cc
+tus	es	0	i-cc
+chistes	es	0	i-cc
+)	other	0	0
+
+#dev33: Canillas ojerúre , abogado Mauricio Ozuna rupive , G. 1,114 millones .
+Canillas	ne	b-per	0
+ojerúre	gn	0	0
+,	other	0	0
+abogado	es	0	b-cc
+Mauricio	ne	b-per	0
+Ozuna	ne	i-per	0
+rupive	gn	0	0
+,	other	0	0
+G.	other	0	0
+1,114	other	0	0
+millones	es	0	b-cc
+.	other	0	0
+
+#dev34: Haipy guaraníme ikatúva oñemboguejy reínte Haihára Mauro Lugo oikuave’ẽ ñandéve reiete PDF-pe poteĩ hembiapokue guaraníme térã ñe’ẽkõime ( guarani ha castellano ) . URL
+Haipy	gn	0	0
+guaraníme	gn	0	0
+ikatúva	gn	0	0
+oñemboguejy	gn	0	0
+reínte	gn	0	0
+Haihára	gn	0	0
+Mauro	ne	b-per	0
+Lugo	ne	i-per	0
+oikuave’ẽ	gn	0	0
+ñandéve	gn	0	0
+reiete	gn	0	0
+PDF-pe	mix	0	0
+poteĩ	gn	0	0
+hembiapokue	gn	0	0
+guaraníme	gn	0	0
+térã	gn	0	0
+ñe’ẽkõime	gn	0	0
+(	other	0	0
+guarani	gn	0	0
+ha	gn	0	0
+castellano	es	0	b-cc
+)	other	0	0
+.	other	0	0
+URL	other	0	0
+
+#dev35: #Marandu @USER omombaretevékuri chokokuekuéra rembiapo , oñotýva papa ha sevói hi'áva #PyNoticias
+#Marandu	gn	0	0
+@USER	ne	b-org	0
+omombaretevékuri	gn	0	0
+chokokuekuéra	gn	0	0
+rembiapo	gn	0	0
+,	other	0	0
+oñotýva	gn	0	0
+papa	es	0	b-cc
+ha	gn	0	0
+sevói	gn	0	0
+hi'áva	gn	0	0
+#PyNoticias	ne	b-org	0
+
+#dev36: Umi che angirū #lacalle pegua maitei peēme guarã . Ko árape ndaikatumoai aporohendu , aimegui mbo'ehao guaranime guape :)
+Umi	gn	0	0
+che	gn	0	0
+angirū	gn	0	0
+#lacalle	other	0	0
+pegua	gn	0	0
+maitei	gn	0	0
+peēme	gn	0	0
+guarã	gn	0	0
+.	other	0	0
+Ko	gn	0	0
+árape	gn	0	0
+ndaikatumoai	gn	0	0
+aporohendu	gn	0	0
+,	other	0	0
+aimegui	gn	0	0
+mbo'ehao	gn	0	0
+guaranime	gn	0	0
+guape	gn	0	0
+:)	other	0	0
+
+#dev37: Karai legislador , oimeháme comisión bicameral-pe ha’e upe aty guive oinvestiga tembiapo financiera Darío Messer oime jave Paraguáipe , he’i marandu paha ko organismo oentregáva Fiscalía abril ára ohasávape , upe guive , ndaipóri imputación .
+Karai	gn	0	0
+legislador	es	0	b-cc
+,	other	0	0
+oimeháme	gn	0	0
+comisión	ne	b-org	0
+bicameral-pe	ne	i-org	0
+ha’e	gn	0	0
+upe	gn	0	0
+aty	gn	0	0
+guive	gn	0	0
+oinvestiga	mix	0	0
+tembiapo	gn	0	0
+financiera	es	0	b-cc
+Darío	ne	b-per	0
+Messer	ne	i-per	0
+oime	gn	0	0
+jave	gn	0	0
+Paraguáipe	ne	b-loc	0
+,	other	0	0
+he’i	gn	0	0
+marandu	gn	0	0
+paha	gn	0	0
+ko	gn	0	0
+organismo	es	0	b-cc
+oentregáva	mix	0	0
+Fiscalía	ne	b-org	0
+abril	es	0	b-ul
+ára	gn	0	0
+ohasávape	gn	0	0
+,	other	0	0
+upe	gn	0	0
+guive	gn	0	0
+,	other	0	0
+ndaipóri	gn	0	0
+imputación	es	0	b-cc
+.	other	0	0
+
+#dev38: @USER Peva iporâ ! :D embo´earâ ndehaitema ko´âga ambuepe ikatuhaguâicha opavave oñe´êkuaa guaranime ! :D
+@USER	ne	b-per	0
+Peva	gn	0	0
+iporâ	gn	0	0
+!	other	0	0
+:D	other	0	0
+embo´earâ	gn	0	0
+ndehaitema	gn	0	0
+ko´âga	gn	0	0
+ambuepe	gn	0	0
+ikatuhaguâicha	gn	0	0
+opavave	gn	0	0
+oñe´êkuaa	gn	0	0
+guaranime	gn	0	0
+!	other	0	0
+:D	other	0	0
+
+#dev39: @USER La cara de Vagner Love mirándose con Ronaldinho . Mbae pío la oikoa hei !!
+@USER	ne	b-per	0
+La	es	0	b-cc
+cara	es	0	i-cc
+de	es	0	i-cc
+Vagner	ne	b-per	0
+Love	ne	i-per	0
+mirándose	es	0	b-cc
+con	es	0	i-cc
+Ronaldinho	ne	b-per	0
+.	other	0	0
+Mbae	gn	0	0
+pío	gn	0	0
+la	mix	0	0
+oikoa	gn	0	0
+hei	gn	0	0
+!!	other	0	0
+
+#dev40: Oñemba’apóta Central Tavusúpe ojeporumeme hag̃ua guarani URL
+Oñemba’apóta	gn	0	0
+Central	ne	b-loc	0
+Tavusúpe	ne	i-loc	0
+ojeporumeme	gn	0	0
+hag̃ua	gn	0	0
+guarani	gn	0	0
+URL	other	0	0
+
+#dev41: Ombyasy época de la llanura “ kolo'okuéra rehe ojejahéi ” , ha “ upéva ivai ” .
+Ombyasy	gn	0	0
+época	es	0	b-cc
+de	es	0	i-cc
+la	es	0	i-cc
+llanura	es	0	i-cc
+“	other	0	0
+kolo'okuéra	gn	0	0
+rehe	gn	0	0
+ojejahéi	gn	0	0
+”	other	0	0
+,	other	0	0
+ha	gn	0	0
+“	other	0	0
+upéva	gn	0	0
+ivai	gn	0	0
+”	other	0	0
+.	other	0	0
+
+#dev42: Heta jepopete ogueraha Adele ko pyharepe #Grammy pe opurahei rire .
+Heta	gn	0	0
+jepopete	gn	0	0
+ogueraha	gn	0	0
+Adele	ne	b-per	0
+ko	gn	0	0
+pyharepe	gn	0	0
+#Grammy	ne	b-org	0
+pe	gn	0	0
+opurahei	gn	0	0
+rire	gn	0	0
+.	other	0	0
+
+#dev43: Nenecho oipyhy ary 2019 intendencia oheja rire Mario Ferreiro , omongoráva hikuái oje’égui oikehague pokarême .
+Nenecho	ne	b-per	0
+oipyhy	gn	0	0
+ary	gn	0	0
+2019	other	0	0
+intendencia	es	0	b-cc
+oheja	gn	0	0
+rire	gn	0	0
+Mario	ne	b-per	0
+Ferreiro	ne	i-per	0
+,	other	0	0
+omongoráva	gn	0	0
+hikuái	gn	0	0
+oje’égui	gn	0	0
+oikehague	gn	0	0
+pokarême	gn	0	0
+.	other	0	0
+
+#dev44: @USER porfavor dejen de robarme .ya no disimulan ma luego , porque pio a mi ...
+@USER	ne	b-org	0
+porfavor	es	0	b-cc
+dejen	es	0	i-cc
+de	es	0	i-cc
+robarme	es	0	i-cc
+.ya	es	0	i-cc
+no	es	0	i-cc
+disimulan	es	0	i-cc
+ma	gn	0	0
+luego	es	0	b-ul
+,	other	0	0
+porque	es	0	b-cc
+pio	gn	0	0
+a	es	0	b-cc
+mi	es	0	i-cc
+...	other	0	0
+
+#dev45: Retablo , oñemohu'ã potaitehina
+Retablo	es	0	b-cc
+,	other	0	0
+oñemohu'ã	gn	0	0
+potaitehina	gn	0	0
+
+#dev46: @USER Perjuicio umi ñembo hacker kuera Avisanos cuando creas de vuelta
+@USER	ne	b-per	0
+Perjuicio	es	0	b-cc
+umi	gn	0	0
+ñembo	gn	0	0
+hacker	foreign	0	0
+kuera	gn	0	0
+Avisanos	es	0	b-cc
+cuando	es	0	i-cc
+creas	es	0	i-cc
+de	es	0	i-cc
+vuelta	es	0	i-cc
+
+#dev47: Omoheñói ha oisâmbyhýkuri Alcándara Editora .
+Omoheñói	gn	0	0
+ha	gn	0	0
+oisâmbyhýkuri	gn	0	0
+Alcándara	ne	b-org	0
+Editora	ne	i-org	0
+.	other	0	0
+
+#dev48: Ohendu tyapu hatã cerro San José gotyo .
+Ohendu	gn	0	0
+tyapu	gn	0	0
+hatã	gn	0	0
+cerro	es	0	b-cc
+San	ne	b-loc	0
+José	ne	i-loc	0
+gotyo	gn	0	0
+.	other	0	0
+
+#dev49: Que gua'u se creen esas que dicen " chapita la inea " Nderevi la inea nde mba'e sa'yju . Eho ejahu mba'e
+Que	es	0	b-cc
+gua'u	gn	0	0
+se	es	0	b-cc
+creen	es	0	i-cc
+esas	es	0	i-cc
+que	es	0	i-cc
+dicen	es	0	i-cc
+"	other	0	0
+chapita	es	0	b-cc
+la	es	0	b-ul
+inea	gn	0	0
+"	other	0	0
+Nderevi	gn	0	0
+la	es	0	b-ul
+inea	gn	0	0
+nde	gn	0	0
+mba'e	gn	0	0
+sa'yju	gn	0	0
+.	other	0	0
+Eho	gn	0	0
+ejahu	gn	0	0
+mba'e	gn	0	0
+
+#dev50: @USER Vos na cuidate primero .. Ani jaha jau cafécito mbae
+@USER	ne	b-per	0
+Vos	es	0	b-cc
+na	gn	0	0
+cuidate	es	0	b-cc
+primero	es	0	i-cc
+..	other	0	0
+Ani	gn	0	0
+jaha	gn	0	0
+jau	gn	0	0
+cafécito	es	0	b-cc
+mbae	gn	0	0
+
+#dev51: Ministro de Tecnologías Información-gua , Alejandro Peralta Vierci , oikuaauka ko marandu documento omotenondéva programa Agenda Digital reheguáva upe Contraloría General de la República .
+Ministro	ne	b-per	0
+de	ne	i-per	0
+Tecnologías	ne	i-per	0
+Información-gua	ne	i-per	0
+,	other	0	0
+Alejandro	ne	b-per	0
+Peralta	ne	i-per	0
+Vierci	ne	i-per	0
+,	other	0	0
+oikuaauka	gn	0	0
+ko	gn	0	0
+marandu	gn	0	0
+documento	es	0	b-cc
+omotenondéva	gn	0	0
+programa	es	0	b-cc
+Agenda	es	0	i-cc
+Digital	es	0	i-cc
+reheguáva	gn	0	0
+upe	gn	0	0
+Contraloría	ne	b-org	0
+General	ne	i-org	0
+de	ne	i-org	0
+la	ne	i-org	0
+República	ne	i-org	0
+.	other	0	0
+
+#dev52: Tribunal omopotî Ibáñez-pe
+Tribunal	es	0	b-cc
+omopotî	gn	0	0
+Ibáñez-pe	ne	b-per	0
+
+#dev53: Oguerovia yvy orekóva valor ambiental péva oikévo reserva forestal Ybera , k{ova omoherakuävo , opyta p’eteî “ precedente nefasto ” .
+Oguerovia	gn	0	0
+yvy	gn	0	0
+orekóva	gn	0	0
+valor	es	0	b-cc
+ambiental	es	0	i-cc
+péva	gn	0	0
+oikévo	gn	0	0
+reserva	ne	b-loc	0
+forestal	ne	i-loc	0
+Ybera	ne	i-loc	0
+,	other	0	0
+k{ova	gn	0	0
+omoherakuävo	gn	0	0
+,	other	0	0
+opyta	gn	0	0
+p’eteî	gn	0	0
+“	other	0	0
+precedente	es	0	b-cc
+nefasto	es	0	i-cc
+”	other	0	0
+.	other	0	0
+
+#dev54: Ko domingo , extitular ANDE-gua , Pedro Ferreira , figura clave escándalo político osêva firma acta bilateral ko’ã gobierno Brasil ha Paraguay péva Itaipú Binacional , odenunsia redes sociales rupi hese peteî “ campaña sucia ” desprestigio ha omongy’aségui chupe .
+Ko	gn	0	0
+domingo	es	0	b-cc
+,	other	0	0
+extitular	es	0	b-cc
+ANDE-gua	ne	b-org	0
+,	other	0	0
+Pedro	ne	b-per	0
+Ferreira	ne	i-per	0
+,	other	0	0
+figura	es	0	b-ul
+clave	es	0	i-ul
+escándalo	es	0	i-ul
+político	es	0	i-ul
+osêva	gn	0	0
+firma	es	0	b-ul
+acta	es	0	i-ul
+bilateral	es	0	i-ul
+ko’ã	gn	0	0
+gobierno	es	0	b-cc
+Brasil	ne	b-loc	0
+ha	gn	0	0
+Paraguay	ne	b-loc	0
+péva	gn	0	0
+Itaipú	ne	b-org	0
+Binacional	ne	i-org	0
+,	other	0	0
+odenunsia	mix	0	0
+redes	es	0	b-cc
+sociales	es	0	i-cc
+rupi	gn	0	0
+hese	gn	0	0
+peteî	gn	0	0
+“	other	0	0
+campaña	es	0	b-cc
+sucia	es	0	i-cc
+”	other	0	0
+desprestigio	es	0	b-cc
+ha	gn	0	0
+omongy’aségui	gn	0	0
+chupe	gn	0	0
+.	other	0	0
+
+#dev55: Umi kasilla Avenida Quinta gotyo oñemopu'ãva'ekue , ojeitypaiteva'erã
+Umi	gn	0	0
+kasilla	mix	0	0
+Avenida	ne	b-loc	0
+Quinta	ne	i-loc	0
+gotyo	gn	0	0
+oñemopu'ãva'ekue	gn	0	0
+,	other	0	0
+ojeitypaiteva'erã	gn	0	0
+
+#dev56: Oñeporandúva ome'êvo ojoaju pedido EPP , omoañete , pero ko'ãva umi vecino orekóva secuestrado grupo criminal avei , incluso , ojekuaa .
+Oñeporandúva	gn	0	0
+ome'êvo	gn	0	0
+ojoaju	gn	0	0
+pedido	es	0	b-cc
+EPP	ne	b-org	0
+,	other	0	0
+omoañete	gn	0	0
+,	other	0	0
+pero	es	0	b-cc
+ko'ãva	gn	0	0
+umi	gn	0	0
+vecino	es	0	b-ul
+orekóva	gn	0	0
+secuestrado	es	0	b-ul
+grupo	es	0	i-ul
+criminal	es	0	i-ul
+avei	gn	0	0
+,	other	0	0
+incluso	es	0	b-cc
+,	other	0	0
+ojekuaa	gn	0	0
+.	other	0	0
+
+#dev57: @USER Mbae nde tavymaio vairo
+@USER	ne	b-per	0
+Mbae	gn	0	0
+nde	gn	0	0
+tavymaio	gn	0	0
+vairo	gn	0	0
+
+#dev58: KO’ÁPE OĨ LINGÜISTA KATUPYRY ISRAEL-GUA OHESA’ỸIJOVA’EKUE URL
+KO’ÁPE	gn	0	0
+OĨ	gn	0	0
+LINGÜISTA	es	0	b-cc
+KATUPYRY	gn	0	0
+ISRAEL-GUA	ne	b-loc	0
+OHESA’ỸIJOVA’EKUE	gn	0	0
+URL	other	0	0
+
+#dev59: Moopio tavycho .
+Moopio	gn	0	0
+tavycho	gn	0	0
+.	other	0	0
+
+#dev60: @USER mbore me roba doble mba'e D :
+@USER	ne	b-org	0
+mbore	gn	0	0
+me	es	0	b-cc
+roba	es	0	i-cc
+doble	es	0	i-cc
+mba'e	gn	0	0
+D	other	0	0
+:	other	0	0
+
+#dev61: @USER Reñe'e poraiterei la guaranime ! Nde ngo paraguayoteete ! Rohayhueterei ndeve Javi !! Aguije !! Ikatu , ikatu !! ☺️
+@USER	ne	b-per	0
+Reñe'e	gn	0	0
+poraiterei	gn	0	0
+la	es	0	b-ul
+guaranime	gn	0	0
+!	other	0	0
+Nde	gn	0	0
+ngo	gn	0	0
+paraguayoteete	gn	0	0
+!	other	0	0
+Rohayhueterei	gn	0	0
+ndeve	gn	0	0
+Javi	ne	b-per	0
+!!	other	0	0
+Aguije	gn	0	0
+!!	other	0	0
+Ikatu	gn	0	0
+,	other	0	0
+ikatu	gn	0	0
+!!	other	0	0
+☺️	other	0	0
+
+#dev62: @USER Oimene heta nde chica
+@USER	ne	b-per	0
+Oimene	gn	0	0
+heta	gn	0	0
+nde	gn	0	0
+chica	es	0	0
+
+#dev63: Upéi ovava’ekue Buenos Aires-pe ha upépe ohai ñe’êpoty ha ombohetia’e opaite aty ojapóvajepi Paraguaygua oikóva upépe , péicha oikuaajepe José Asunción Flores , Emilio Bobadilla Cáceres , Félix Pérez Cardozo ha Agustín Barboza-pe .
+Upéi	gn	0	0
+ovava’ekue	gn	0	0
+Buenos	ne	b-loc	0
+Aires-pe	ne	i-loc	0
+ha	gn	0	0
+upépe	gn	0	0
+ohai	gn	0	0
+ñe’êpoty	gn	0	0
+ha	gn	0	0
+ombohetia’e	gn	0	0
+opaite	gn	0	0
+aty	gn	0	0
+ojapóvajepi	gn	0	0
+Paraguaygua	ne	b-loc	0
+oikóva	gn	0	0
+upépe	gn	0	0
+,	other	0	0
+péicha	gn	0	0
+oikuaajepe	gn	0	0
+José	ne	b-per	0
+Asunción	ne	i-per	0
+Flores	ne	i-per	0
+,	other	0	0
+Emilio	ne	b-per	0
+Bobadilla	ne	i-per	0
+Cáceres	ne	i-per	0
+,	other	0	0
+Félix	ne	b-per	0
+Pérez	ne	i-per	0
+Cardozo	ne	i-per	0
+ha	gn	0	0
+Agustín	ne	b-per	0
+Barboza-pe	ne	i-per	0
+.	other	0	0
+
+#dev64: Vy'apavê maymáva paraguayo kuérape oñe'êva guaranime ko mokõipapo javépe hi'ara hína . Ko ñane ñe'ê niko eirete ka'aguýicha he'ê asýva ...
+Vy'apavê	gn	0	0
+maymáva	gn	0	0
+paraguayo	mix	0	0
+kuérape	gn	0	0
+oñe'êva	gn	0	0
+guaranime	gn	0	0
+ko	gn	0	0
+mokõipapo	gn	0	0
+javépe	gn	0	0
+hi'ara	gn	0	0
+hína	gn	0	0
+.	other	0	0
+Ko	gn	0	0
+ñane	gn	0	0
+ñe'ê	gn	0	0
+niko	gn	0	0
+eirete	gn	0	0
+ka'aguýicha	gn	0	0
+he'ê	gn	0	0
+asýva	gn	0	0
+...	other	0	0
+
+#dev65: Ko’ẽrõ , jasypo 15 jasypápe , 6:00 guive Paraguái aravópe , Instituto Cervantes España pegua oguenohẽta hembiapo guasu “ Anuario del Instituto Cervantes
+Ko’ẽrõ	gn	0	0
+,	other	0	0
+jasypo	gn	0	0
+15	other	0	0
+jasypápe	gn	0	0
+,	other	0	0
+6:00	gn	0	0
+guive	other	0	0
+Paraguái	other	0	0
+aravópe	gn	0	0
+,	other	0	0
+Instituto	ne	b-org	0
+Cervantes	ne	i-org	0
+España	ne	i-org	0
+pegua	gn	0	0
+oguenohẽta	gn	0	0
+hembiapo	gn	0	0
+guasu	gn	0	0
+“	other	0	0
+Anuario	es	0	0
+del	es	0	0
+Instituto	ne	b-org	0
+Cervantes	ne	i-org	0
+
+#dev66: Viuda orekóta pensión graciable del Estado-gui pe iména orekova'ekueha omanóvo oho hendive .
+Viuda	es	0	0
+orekóta	gn	0	0
+pensión	es	0	0
+graciable	es	0	0
+del	es	0	0
+Estado-gui	mix	0	0
+pe	gn	0	0
+iména	gn	0	0
+orekova'ekueha	gn	0	0
+omanóvo	gn	0	0
+oho	gn	0	0
+hendive	gn	0	0
+.	other	0	0
+
+#dev67: @USER vuelvo a repetir , ani nde kaaaangyyy
+@USER	ne	b-per	0
+vuelvo	es	0	0
+a	es	0	0
+repetir	es	0	0
+,	other	0	0
+ani	gn	0	0
+nde	gn	0	0
+kaaaangyyy	gn	0	0
+
+#dev68: BBVA oñevende filial paraguaya GNB
+BBVA	ne	b-org	0
+oñevende	mix	0	0
+filial	es	0	0
+paraguaya	es	0	0
+GNB	ne	b-org	0
+
+#dev69: Reikuaávapa - ¿ Sabías ? Guaraní es la lengua más usada en los hogares paraguayos - Guaraní ñe'ẽ niko upe ojeporuvéva ñane retãyguakuéra rogapýpe #DíaInternacionaldelaLenguaMaterna
+Reikuaávapa	gn	0	0
+-	other	0	0
+¿	other	0	0
+Sabías	es	0	0
+?	other	0	0
+Guaraní	es	0	0
+es	es	0	0
+la	es	0	0
+lengua	es	0	0
+más	es	0	0
+usada	es	0	0
+en	es	0	0
+los	es	0	0
+hogares	es	0	0
+paraguayos	es	0	0
+-	other	0	0
+Guaraní	es	0	0
+ñe'ẽ	gn	0	0
+niko	gn	0	0
+upe	gn	0	0
+ojeporuvéva	gn	0	0
+ñane	gn	0	0
+retãyguakuéra	gn	0	0
+rogapýpe	gn	0	0
+#DíaInternacionaldelaLenguaMaterna	es	0	0
+
+#dev70: Ndikatúi omonéî prueba escrita al respeto .
+Ndikatúi	gn	0	0
+omonéî	gn	0	0
+prueba	es	0	0
+escrita	es	0	0
+al	es	0	0
+respeto	es	0	0
+.	other	0	0
+
+#dev71: Maria rekove ohechauka ñandéve Tupã ojapoha mba’e guasu umi tapicha oñemomba’eguasu’ỹvagui .
+Maria	ne	b-per	0
+rekove	gn	0	0
+ohechauka	gn	0	0
+ñandéve	gn	0	0
+Tupã	ne	b-per	0
+ojapoha	gn	0	0
+mba’e	gn	0	0
+guasu	gn	0	0
+umi	gn	0	0
+tapicha	gn	0	0
+oñemomba’eguasu’ỹvagui	gn	0	0
+.	other	0	0
+
+#dev72: Mba'e mi gente pio nde carruaje URL
+Mba'e	gn	0	0
+mi	es	0	0
+gente	es	0	0
+pio	gn	0	0
+nde	gn	0	0
+carruaje	es	0	0
+URL	other	0	0
+
+#dev73: Ha'e ningo roguapyháicha PCC ( Primer Comando da Capital , de Brasil ) ” , he'i funcionario .
+Ha'e	gn	0	0
+ningo	gn	0	0
+roguapyháicha	gn	0	0
+PCC	ne	b-org	0
+(	other	0	0
+Primer	ne	b-org	0
+Comando	ne	i-org	0
+da	ne	i-org	0
+Capital	ne	i-org	0
+,	other	0	0
+de	es	0	0
+Brasil	ne	b-loc	0
+)	other	0	0
+”	other	0	0
+,	other	0	0
+he'i	gn	0	0
+funcionario	es	0	0
+.	other	0	0
+
+#dev74: Oiporúvo recurso imba'éva , oñeha'ã oikuauaka umi propuesta gente-kuérape .
+Oiporúvo	gn	0	0
+recurso	es	0	0
+imba'éva	gn	0	0
+,	other	0	0
+oñeha'ã	gn	0	0
+oikuauaka	gn	0	0
+umi	gn	0	0
+propuesta	es	0	0
+gente-kuérape	mix	0	0
+.	other	0	0
+
+#dev75: Paraguái Ñe’ẽnguéra Sãmbyhyha ( PÑS ) oñembyasy ha omombe’u hekovejeiha Guaná aty moakãhára , Faustino Ramírez , 64 arýpe URL
+Paraguái	ne	b-org	0
+Ñe’ẽnguéra	ne	i-org	0
+Sãmbyhyha	ne	i-org	0
+(	other	0	0
+PÑS	ne	b-org	0
+)	other	0	0
+oñembyasy	gn	0	0
+ha	gn	0	0
+omombe’u	gn	0	0
+hekovejeiha	gn	0	0
+Guaná	foreign	0	0
+aty	gn	0	0
+moakãhára	gn	0	0
+,	other	0	0
+Faustino	ne	b-per	0
+Ramírez	ne	i-per	0
+,	other	0	0
+64	other	0	0
+arýpe	gn	0	0
+URL	other	0	0
+
+#dev76: Embajador Unión Europea ( UE)-gua , Paolo Berizzi , ohóta ovisita distrito Ayolas ha Santiago oñomongetávo mburuvichakuéra upe tendá ndive avei umi productor éira rehe omba'apóva-pe
+Embajador	es	0	0
+Unión	es	0	0
+Europea	es	0	0
+(	other	0	0
+UE)-gua	ne	b-loc	0
+,	other	0	0
+Paolo	ne	b-per	0
+Berizzi	ne	i-per	0
+,	other	0	0
+ohóta	gn	0	0
+ovisita	mix	0	0
+distrito	es	0	0
+Ayolas	ne	b-loc	0
+ha	gn	0	0
+Santiago	ne	b-loc	0
+oñomongetávo	gn	0	0
+mburuvichakuéra	gn	0	0
+upe	gn	0	0
+tendá	gn	0	0
+ndive	gn	0	0
+avei	gn	0	0
+umi	gn	0	0
+productor	es	0	0
+éira	gn	0	0
+rehe	gn	0	0
+omba'apóva-pe	gn	0	0
+
+#dev77: Ko'ã mba'e oapunta formulario orekóva declaración jurada oimehápe ítems noñemencionáiva Constitución Nacional , ha'éva estado de deudas o gravámenes oguahëva patrimonio funcionario Poder Judicial .
+Ko'ã	gn	0	0
+mba'e	gn	0	0
+oapunta	mix	0	0
+formulario	es	0	0
+orekóva	gn	0	0
+declaración	es	0	0
+jurada	es	0	0
+oimehápe	gn	0	0
+ítems	es	0	0
+noñemencionáiva	mix	0	0
+Constitución	es	0	0
+Nacional	es	0	0
+,	other	0	0
+ha'éva	gn	0	0
+estado	es	0	0
+de	es	0	0
+deudas	es	0	0
+o	es	0	0
+gravámenes	es	0	0
+oguahëva	gn	0	0
+patrimonio	es	0	0
+funcionario	es	0	0
+Poder	ne	b-org	0
+Judicial	ne	i-org	0
+.	other	0	0
+
+#dev78: Emomorã ko ára
+Emomorã	gn	0	0
+ko	gn	0	0
+ára	gn	0	0
+
+#dev79: Rio Paraguái oguejy un metro rupi Paraguaýpe
+Rio	ne	b-loc	0
+Paraguái	ne	i-loc	0
+oguejy	gn	0	0
+un	es	0	0
+metro	es	0	0
+rupi	gn	0	0
+Paraguaýpe	ne	b-loc	0
+
+#dev80: Que puta los que te apuran todo en el carril derecho . Ehasa che lomo ari cuate , mbae jaeta ndeve 🤬
+Que	es	0	0
+puta	es	0	0
+los	es	0	0
+que	es	0	0
+te	es	0	0
+apuran	es	0	0
+todo	es	0	0
+en	es	0	0
+el	es	0	0
+carril	es	0	0
+derecho	es	0	0
+.	other	0	0
+Ehasa	gn	0	0
+che	gn	0	0
+lomo	es	0	0
+ari	gn	0	0
+cuate	es	0	0
+,	other	0	0
+mbae	gn	0	0
+jaeta	gn	0	0
+ndeve	gn	0	0
+🤬	other	0	0
+
+#dev81: @USER Ejapomina nde avei ... Nde rire che ajapone
+@USER	ne	b-per	0
+Ejapomina	gn	0	0
+nde	gn	0	0
+avei	gn	0	0
+...	other	0	0
+Nde	gn	0	0
+rire	gn	0	0
+che	gn	0	0
+ajapone	gn	0	0
+
+#dev82: Isy ndoikói hendivekuéra oheja guive upe óga pe kuimba'e omaltratágui oka'u jave , he'i hikuái .
+Isy	gn	0	0
+ndoikói	gn	0	0
+hendivekuéra	gn	0	0
+oheja	gn	0	0
+guive	gn	0	0
+upe	gn	0	0
+óga	gn	0	0
+pe	gn	0	0
+kuimba'e	gn	0	0
+omaltratágui	mix	0	0
+oka'u	gn	0	0
+jave	gn	0	0
+,	other	0	0
+he'i	gn	0	0
+hikuái	gn	0	0
+.	other	0	0
+
+#dev83: @USER resalta que campaña Rohendu Che Ñe´ê llegó a más de 50 mil paraguayos URL
+@USER	ne	b-org	0
+resalta	es	0	0
+que	es	0	0
+campaña	es	0	0
+Rohendu	gn	0	0
+Che	gn	0	0
+Ñe´ê	gn	0	0
+llegó	es	0	0
+a	es	0	0
+más	es	0	0
+de	es	0	0
+50	other	0	0
+mil	es	0	0
+paraguayos	es	0	0
+URL	other	0	0
+
+#dev84: Ministro Esteban Aquino , Secretaría Nacional de Inteligencia , omombe’u oñomongetávo radio abc Cardinal ndive ko’ã temas oiméva “ mesa ári ” káso Cynthia Tarragó , opytáva presa Estados Unidos-pe oje’e rire viru johéipyre rehe .
+Ministro	es	0	0
+Esteban	ne	b-per	0
+Aquino	ne	i-per	0
+,	other	0	0
+Secretaría	ne	b-org	0
+Nacional	ne	i-org	0
+de	ne	i-org	0
+Inteligencia	ne	i-org	0
+,	other	0	0
+omombe’u	gn	0	0
+oñomongetávo	gn	0	0
+radio	es	0	0
+abc	ne	b-org	0
+Cardinal	ne	i-org	0
+ndive	gn	0	0
+ko’ã	gn	0	0
+temas	es	0	0
+oiméva	gn	0	0
+“	other	0	0
+mesa	es	0	0
+ári	gn	0	0
+”	other	0	0
+káso	gn	0	0
+Cynthia	ne	b-per	0
+Tarragó	ne	i-per	0
+,	other	0	0
+opytáva	gn	0	0
+presa	es	0	0
+Estados	ne	b-loc	0
+Unidos-pe	ne	i-loc	0
+oje’e	gn	0	0
+rire	gn	0	0
+viru	gn	0	0
+johéipyre	gn	0	0
+rehe	gn	0	0
+.	other	0	0
+
+#dev85: Omoañete ruta Mcal. Estigarribia oipe'ava'e hokê tránsito jasypa guive
+Omoañete	gn	0	0
+ruta	es	0	0
+Mcal.	ne	b-loc	0
+Estigarribia	ne	i-loc	0
+oipe'ava'e	gn	0	0
+hokê	gn	0	0
+tránsito	es	0	0
+jasypa	gn	0	0
+guive	gn	0	0
+
+#dev86: Tekove niko mba'eñongatupy , emyesakâke
+Tekove	gn	0	0
+niko	gn	0	0
+mba'eñongatupy	gn	0	0
+,	other	0	0
+emyesakâke	gn	0	0
+
+#dev87: Así debe ser en cualquier parte del mundo ! Ñandehegui nio la okyhyje ara hikuai ... Ndaha'ei ñande shuguikuera URL
+Así	es	0	0
+debe	es	0	0
+ser	es	0	0
+en	es	0	0
+cualquier	es	0	0
+parte	es	0	0
+del	es	0	0
+mundo	es	0	0
+!	other	0	0
+Ñandehegui	gn	0	0
+nio	gn	0	0
+la	gn	0	0
+okyhyje	gn	0	0
+ara	gn	0	0
+hikuai	gn	0	0
+...	other	0	0
+Ndaha'ei	gn	0	0
+ñande	gn	0	0
+shuguikuera	gn	0	0
+URL	other	0	0
+
+#dev88: Ko'ápe oiko karuguasu peteî caravana rire ombotýva campaña octavo departamento-pe .
+Ko'ápe	gn	0	0
+oiko	gn	0	0
+karuguasu	gn	0	0
+peteî	gn	0	0
+caravana	es	0	0
+rire	gn	0	0
+ombotýva	gn	0	0
+campaña	es	0	0
+octavo	es	0	0
+departamento-pe	mix	0	0
+.	other	0	0
+
+#dev89: Yo te dije que me iba a morir pq de verdad me duele algo no es que te exatrañe , mba'e muy pronto estaremos junto katu , mbore
+Yo	es	0	0
+te	es	0	0
+dije	es	0	0
+que	es	0	0
+me	es	0	0
+iba	es	0	0
+a	es	0	0
+morir	es	0	0
+pq	es	0	0
+de	es	0	0
+verdad	es	0	0
+me	es	0	0
+duele	es	0	0
+algo	es	0	0
+no	es	0	0
+es	es	0	0
+que	es	0	0
+te	es	0	0
+exatrañe	es	0	0
+,	other	0	0
+mba'e	gn	0	0
+muy	es	0	0
+pronto	es	0	0
+estaremos	es	0	0
+junto	es	0	0
+katu	gn	0	0
+,	other	0	0
+mbore	gn	0	0
+
+#dev90: OPROMETE PETEÎ ESTADIO ha HOSPITAL
+OPROMETE	mix	0	0
+PETEÎ	gn	0	0
+ESTADIO	es	0	0
+ha	gn	0	0
+HOSPITAL	es	0	0
+
+#dev91: Ko agüelita Delfina ojekuaa ichupe arapokõindy ohasávape peteî pasajero colectivo-pe ofotografia opirakutu jave ohóvo , ha hi'ajakápe oreko ryguasu rupi'a ha kesu ovendéva .
+Ko	gn	0	0
+agüelita	es	0	0
+Delfina	ne	b-per	0
+ojekuaa	gn	0	0
+ichupe	gn	0	0
+arapokõindy	gn	0	0
+ohasávape	gn	0	0
+peteî	gn	0	0
+pasajero	es	0	0
+colectivo-pe	mix	0	0
+ofotografia	mix	0	0
+opirakutu	gn	0	0
+jave	gn	0	0
+ohóvo	gn	0	0
+,	other	0	0
+ha	gn	0	0
+hi'ajakápe	gn	0	0
+oreko	gn	0	0
+ryguasu	gn	0	0
+rupi'a	gn	0	0
+ha	gn	0	0
+kesu	gn	0	0
+ovendéva	mix	0	0
+.	other	0	0
+
+#dev92: 2 de diciembre : Día de la Abolición de la Esclavitud TEMBIGUÁI - ESCLAVO 02-12-2020 DAVID GALEANO OLIVERA URL a través de @USER
+2	other	0	0
+de	es	0	0
+diciembre	es	0	0
+:	other	0	0
+Día	es	0	0
+de	es	0	0
+la	es	0	0
+Abolición	es	0	0
+de	es	0	0
+la	es	0	0
+Esclavitud	es	0	0
+TEMBIGUÁI	gn	0	0
+-	other	0	0
+ESCLAVO	es	0	0
+02-12-2020	other	0	0
+DAVID	ne	b-per	0
+GALEANO	ne	i-per	0
+OLIVERA	ne	i-per	0
+URL	other	0	0
+a	es	0	0
+través	es	0	0
+de	es	0	0
+@USER	ne	b-org	0
+
+#dev93: Péicha avei omombe’u karai Hugo Ramírez , historiador ha miembro “ Consejo Literario San José-mi Ayolas-gua ” , oikuaaukáva mba’éichapa ko distrito heñói ha okakuaa ko’ã ára ohóvape avei .
+Péicha	gn	0	0
+avei	gn	0	0
+omombe’u	gn	0	0
+karai	gn	0	0
+Hugo	ne	b-per	0
+Ramírez	ne	i-per	0
+,	other	0	0
+historiador	es	0	0
+ha	gn	0	0
+miembro	es	0	0
+“	other	0	0
+Consejo	ne	b-org	0
+Literario	ne	i-org	0
+San	ne	i-org	0
+José-mi	ne	i-org	0
+Ayolas-gua	ne	i-org	0
+”	other	0	0
+,	other	0	0
+oikuaaukáva	gn	0	0
+mba’éichapa	gn	0	0
+ko	gn	0	0
+distrito	es	0	0
+heñói	gn	0	0
+ha	gn	0	0
+okakuaa	gn	0	0
+ko’ã	gn	0	0
+ára	gn	0	0
+ohóvape	gn	0	0
+avei	gn	0	0
+.	other	0	0
+
+#dev94: Mañana sábado ! Día del trabajador , Clásico , Centenario de Luque heta mbae oî para bebeeer 😆😆🍺
+Mañana	es	0	0
+sábado	es	0	0
+!	other	0	0
+Día	es	0	0
+del	es	0	0
+trabajador	es	0	0
+,	other	0	0
+Clásico	es	0	0
+,	other	0	0
+Centenario	es	0	0
+de	es	0	0
+Luque	es	0	0
+heta	gn	0	0
+mbae	gn	0	0
+oî	gn	0	0
+para	es	0	0
+bebeeer	es	0	0
+😆😆🍺	other	0	0
+
+#dev95: TSJE oikuaauka 31 de enero ha'e periodo de inscripción umi candidatura elecciones generales 22 de abril , según calendario electoral .
+TSJE	ne	b-org	0
+oikuaauka	gn	0	0
+31	other	0	0
+de	es	0	0
+enero	es	0	0
+ha'e	gn	0	0
+periodo	es	0	0
+de	es	0	0
+inscripción	es	0	0
+umi	gn	0	0
+candidatura	es	0	0
+elecciones	es	0	0
+generales	es	0	0
+22	other	0	0
+de	es	0	0
+abril	es	0	0
+,	other	0	0
+según	es	0	0
+calendario	es	0	0
+electoral	es	0	0
+.	other	0	0
+
+#dev96: Ko ente oadministra préstamo Banco Europeo de Inversiones ha peteî donación UE ome'êva omokyre'ÿ ha ombopyahu red de distribución electricidad Yasyretã Villa Hayes peve , ojogua umi equipo , instalación ha conexiones eléctrica umi ohasa asývape ivaígui tenda .
+Ko	gn	0	0
+ente	gn	0	0
+oadministra	mix	0	0
+préstamo	es	0	0
+Banco	ne	b-org	0
+Europeo	ne	i-org	0
+de	ne	i-org	0
+Inversiones	ne	i-org	0
+ha	gn	0	0
+peteî	gn	0	0
+donación	es	0	0
+UE	ne	b-org	0
+ome'êva	gn	0	0
+omokyre'ÿ	gn	0	0
+ha	gn	0	0
+ombopyahu	gn	0	0
+red	es	0	0
+de	es	0	0
+distribución	es	0	0
+electricidad	es	0	0
+Yasyretã	ne	b-loc	0
+Villa	ne	b-loc	0
+Hayes	ne	i-loc	0
+peve	gn	0	0
+,	other	0	0
+ojogua	gn	0	0
+umi	gn	0	0
+equipo	es	0	0
+,	other	0	0
+instalación	es	0	0
+ha	gn	0	0
+conexiones	es	0	0
+eléctrica	es	0	0
+umi	gn	0	0
+ohasa	gn	0	0
+asývape	gn	0	0
+ivaígui	gn	0	0
+tenda	gn	0	0
+.	other	0	0
+
+#dev97: Chugui oikókuri pa’i ára 10 jasypoapy ary 1904-pe , Tupâo Santa María in Monte Santo , Piazza del Popolo , Róma-pe .
+Chugui	gn	0	0
+oikókuri	gn	0	0
+pa’i	gn	0	0
+ára	gn	0	0
+10	other	0	0
+jasypoapy	gn	0	0
+ary	gn	0	0
+1904-pe	other	0	0
+,	other	0	0
+Tupâo	ne	b-org	0
+Santa	ne	i-org	0
+María	ne	i-org	0
+in	ne	i-org	0
+Monte	ne	i-org	0
+Santo	ne	i-org	0
+,	other	0	0
+Piazza	ne	b-loc	0
+del	ne	i-loc	0
+Popolo	ne	i-loc	0
+,	other	0	0
+Róma-pe	gn	0	0
+.	other	0	0
+
+#dev98: Independientemente ko'ã káso pohanohára ogueraháva , Caja Fiscal ohasáva déficit ha Hacienda oikuaaukáma omba'apóha reforma rehe , lo que implica modificar las condiciones de jubilación .
+Independientemente	es	0	0
+ko'ã	gn	0	0
+káso	gn	0	0
+pohanohára	gn	0	0
+ogueraháva	gn	0	0
+,	gn	0	0
+Caja	ne	b-org	0
+Fiscal	ne	i-org	0
+ohasáva	gn	0	0
+déficit	es	0	0
+ha	gn	0	0
+Hacienda	ne	b-org	0
+oikuaaukáma	gn	0	0
+omba'apóha	gn	0	0
+reforma	es	0	0
+rehe	gn	0	0
+,	other	0	0
+lo	es	0	0
+que	es	0	0
+implica	es	0	0
+modificar	es	0	0
+las	es	0	0
+condiciones	es	0	0
+de	es	0	0
+jubilación	es	0	0
+.	other	0	0
+
+#dev99: @USER ha mba'e piko eipota ha'e ndeve , aÑe'ete la guaranime entoncero jajajajaja
+@USER	ne	b-per	0
+ha	gn	0	0
+mba'e	gn	0	0
+piko	gn	0	0
+eipota	gn	0	0
+ha'e	gn	0	0
+ndeve	gn	0	0
+,	other	0	0
+aÑe'ete	gn	0	0
+la	gn	0	0
+guaranime	gn	0	0
+entoncero	mix	0	0
+jajajajaja	es	0	0
+
+#dev100: Kóva documento orekóva empresa omoañetévo oreko dato , ojeborra 6 meses guarda obligatoria .
+Kóva	gn	0	0
+documento	es	0	0
+orekóva	gn	0	0
+empresa	es	0	0
+omoañetévo	gn	0	0
+oreko	gn	0	0
+dato	es	0	0
+,	other	0	0
+ojeborra	mix	0	0
+6	other	0	0
+meses	es	0	0
+guarda	es	0	0
+obligatoria	es	0	0
+.	other	0	0
+
+#dev101: Ombyai upepista klande oîva parque nacional Paso Bravo-pe
+Ombyai	gn	0	0
+upepista	mix	0	0
+klande	gn	0	0
+oîva	gn	0	0
+parque	ne	b-loc	0
+nacional	ne	i-loc	0
+Paso	ne	i-loc	0
+Bravo-pe	ne	i-loc	0
+
+#dev102: Umi miembro Corriente Sindical Clasista omotenonde “ cacerolazo ” ndoguerohorýirigui presidente Mario Abdo Benítez-pe , umi mba'erepy hi'upyrãva ojupipaitégui .
+Umi	gn	0	0
+miembro	es	0	0
+Corriente	ne	b-org	0
+Sindical	ne	i-org	0
+Clasista	ne	i-org	0
+omotenonde	gn	0	0
+“	other	0	0
+cacerolazo	es	0	0
+”	other	0	0
+ndoguerohorýirigui	gn	0	0
+presidente	es	0	0
+Mario	ne	b-per	0
+Abdo	ne	i-per	0
+Benítez-pe	ne	i-per	0
+,	other	0	0
+umi	gn	0	0
+mba'erepy	gn	0	0
+hi'upyrãva	gn	0	0
+ojupipaitégui	gn	0	0
+.	other	0	0
+
+#dev103: Marandu Mitâpyahu Danilo Estigarribia oguerekóva 17 ary , ojeporavókuri 7 mil pyahukuéra apytégui , ñane retâ rérape oîhaǧua “ Cumbre Juvenil Sobre Cambio Climático reheguápe oikótava 21 ha 22 ko jasýpe táva Nueva York tetâ Estados Unidos-pe péva rehegua reikuaavéta #PyNoticias jave
+Marandu	gn	0	0
+Mitâpyahu	gn	0	0
+Danilo	ne	b-per	0
+Estigarribia	ne	i-per	0
+oguerekóva	gn	0	0
+17	other	0	0
+ary	gn	0	0
+,	other	0	0
+ojeporavókuri	gn	0	0
+7	other	0	0
+mil	es	0	0
+pyahukuéra	gn	0	0
+apytégui	gn	0	0
+,	other	0	0
+ñane	gn	0	0
+retâ	gn	0	0
+rérape	gn	0	0
+oîhaǧua	gn	0	0
+“	other	0	0
+Cumbre	ne	b-org	0
+Juvenil	ne	i-org	0
+Sobre	ne	i-org	0
+Cambio	ne	i-org	0
+Climático	ne	i-org	0
+reheguápe	gn	0	0
+oikótava	gn	0	0
+21	other	0	0
+ha	gn	0	0
+22	other	0	0
+ko	gn	0	0
+jasýpe	gn	0	0
+táva	gn	0	0
+Nueva	ne	b-loc	0
+York	ne	i-loc	0
+tetâ	gn	0	0
+Estados	ne	b-loc	0
+Unidos-pe	ne	i-loc	0
+péva	gn	0	0
+rehegua	gn	0	0
+reikuaavéta	gn	0	0
+#PyNoticias	other	0	0
+jave	gn	0	0
+
+#dev104: Oñeñeha’ã oñemombareteve ypykuéra ñe’ẽ oĩva Boquerón-pe URL @USER
+Oñeñeha’ã	gn	0	0
+oñemombareteve	gn	0	0
+ypykuéra	gn	0	0
+ñe’ẽ	gn	0	0
+oĩva	gn	0	0
+Boquerón-pe	ne	b-loc	0
+URL	other	0	0
+@USER	ne	b-org	0
+
+#dev105: Jasyporundy ary 2005-pe , oî jave Tetâitándi Jokupytyrâ Motenondehárarô , heta oipytyvôkuri oñeĝuahê haĝua peteî ñe'ême oñemyasâi haĝua py'aguapy ha tekoguapy'andu mokôive Koréa-pe , upe mba'épe oñeĝuahêkuri oñemboajerirékuri Mokôivéva Ñe'ême'ê Mboka Tororô puruguigua Korea Yvateguápe , upe ñemboaje omoneíkuri upe mboyve poteî aty omba'apova'ekue upevarâ .
+Jasyporundy	gn	0	0
+ary	gn	0	0
+2005-pe	other	0	0
+,	other	0	0
+oî	gn	0	0
+jave	gn	0	0
+Tetâitándi	gn	0	0
+Jokupytyrâ	gn	0	0
+Motenondehárarô	gn	0	0
+,	other	0	0
+heta	gn	0	0
+oipytyvôkuri	gn	0	0
+oñeĝuahê	gn	0	0
+haĝua	gn	0	0
+peteî	gn	0	0
+ñe'ême	gn	0	0
+oñemyasâi	gn	0	0
+haĝua	gn	0	0
+py'aguapy	gn	0	0
+ha	gn	0	0
+tekoguapy'andu	gn	0	0
+mokôive	gn	0	0
+Koréa-pe	ne	b-loc	0
+,	other	0	0
+upe	gn	0	0
+mba'épe	gn	0	0
+oñeĝuahêkuri	gn	0	0
+oñemboajerirékuri	gn	0	0
+Mokôivéva	gn	0	0
+Ñe'ême'ê	gn	0	0
+Mboka	gn	0	0
+Tororô	gn	0	0
+puruguigua	gn	0	0
+Korea	ne	b-loc	0
+Yvateguápe	gn	0	0
+,	other	0	0
+upe	gn	0	0
+ñemboaje	gn	0	0
+omoneíkuri	gn	0	0
+upe	gn	0	0
+mboyve	gn	0	0
+poteî	gn	0	0
+aty	gn	0	0
+omba'apova'ekue	gn	0	0
+upevarâ	gn	0	0
+.	other	0	0
+
+#dev106: @USER , guaraní para periodistas deportivos ya no más , ¿ mba'eicha pio nde kampañagua ha ndereñe'ekuai guaranime ?
+@USER	ne	b-per	0
+,	other	0	0
+guaraní	es	0	0
+para	es	0	0
+periodistas	es	0	0
+deportivos	es	0	0
+ya	es	0	0
+no	es	0	0
+más	es	0	0
+,	other	0	0
+¿	other	0	0
+mba'eicha	gn	0	0
+pio	gn	0	0
+nde	gn	0	0
+kampañagua	gn	0	0
+ha	gn	0	0
+ndereñe'ekuai	gn	0	0
+guaranime	gn	0	0
+?	other	0	0
+
+#dev107: Ejogua cheve cerveza nde ecobrapa ramo he'i papá . Okk 🤣
+Ejogua	gn	0	0
+cheve	gn	0	0
+cerveza	es	0	0
+nde	gn	0	0
+ecobrapa	gn	0	0
+ramo	gn	0	0
+he'i	gn	0	0
+papá	es	0	0
+.	other	0	0
+Okk	foreign	0	0
+🤣	other	0	0
+
+#dev108: Ministerio de Industria y Comercio ( MIC ) omomarandu proyecto de construcción planta de celulosa orekóva inversión oguahëvo aproximadamente 3,200 millones dólares departamento Concepción omonéïva .
+Ministerio	ne	b-org	0
+de	ne	i-org	0
+Industria	ne	i-org	0
+y	ne	i-org	0
+Comercio	ne	i-org	0
+(	other	0	0
+MIC	ne	b-org	0
+)	other	0	0
+omomarandu	gn	0	0
+proyecto	es	0	0
+de	es	0	0
+construcción	es	0	0
+planta	es	0	0
+de	es	0	0
+celulosa	es	0	0
+orekóva	gn	0	0
+inversión	es	0	0
+oguahëvo	gn	0	0
+aproximadamente	es	0	0
+3,200	other	0	0
+millones	es	0	0
+dólares	es	0	0
+departamento	es	0	0
+Concepción	ne	b-loc	0
+omonéïva	gn	0	0
+.	other	0	0
+
+#dev109: @USER Acá apareció otro idiota ... cara de pija . Pone tu cu ... mbae de perfil nde tavycho .
+@USER	ne	b-per	0
+Acá	es	0	0
+apareció	es	0	0
+otro	es	0	0
+idiota	es	0	0
+...	other	0	0
+cara	es	0	0
+de	es	0	0
+pija	es	0	0
+.	other	0	0
+Pone	es	0	0
+tu	es	0	0
+cu	es	0	0
+...	other	0	0
+mbae	gn	0	0
+de	es	0	0
+perfil	es	0	0
+nde	gn	0	0
+tavycho	gn	0	0
+.	other	0	0
+
+#dev110: A eso le llamo ser ridículo 🤡 A ni que na amano ha peju pe nde rasê gua’u 🤡 Ahí mismo resucito ha rohova jokane ara
+A	es	0	0
+eso	es	0	0
+le	es	0	0
+llamo	es	0	0
+ser	es	0	0
+ridículo	es	0	0
+🤡	other	0	0
+A	es	0	0
+ni	es	0	0
+que	es	0	0
+na	gn	0	0
+amano	gn	0	0
+ha	gn	0	0
+peju	gn	0	0
+pe	gn	0	0
+nde	gn	0	0
+rasê	gn	0	0
+gua’u	gn	0	0
+🤡	other	0	0
+Ahí	es	0	0
+mismo	es	0	0
+resucito	es	0	0
+ha	gn	0	0
+rohova	gn	0	0
+jokane	gn	0	0
+ara	gn	0	0
+
+#dev111: Un año sin Edelio Morínigo . Pepoípy chugui ... URL
+Un	es	0	0
+año	es	0	0
+sin	es	0	0
+Edelio	ne	b-per	0
+Morínigo	ne	i-per	0
+.	other	0	0
+Pepoípy	gn	0	0
+chugui	gn	0	0
+...	other	0	0
+URL	other	0	0
+
+#dev112: Jehupytyrãme ojehupi ñe’ê tuguy pochy ha orekóva forma iñambuéva , hetaiterei artista omoirûva festival .
+Jehupytyrãme	gn	0	0
+ojehupi	gn	0	0
+ñe’ê	gn	0	0
+tuguy	gn	0	0
+pochy	gn	0	0
+ha	gn	0	0
+orekóva	gn	0	0
+forma	es	0	0
+iñambuéva	gn	0	0
+,	other	0	0
+hetaiterei	gn	0	0
+artista	es	0	0
+omoirûva	gn	0	0
+festival	es	0	0
+.	other	0	0
+
+#dev113: Canto indígena “ Oñe’ẽmbáma kavureju ” del Grupo “ Kuña reko yvoty ” . El Grupo está integrado por mujeres de los pueblos indígenas Avá Guaraní y Aché . Ehecha ha emoasãimína orendive . En el 2019 se conmemora el Año Internacional de las Lenguas Indígenas .
+Canto	es	0	0
+indígena	es	0	0
+“	other	0	0
+Oñe’ẽmbáma	gn	0	0
+kavureju	gn	0	0
+”	other	0	0
+del	es	0	0
+Grupo	es	0	0
+“	other	0	0
+Kuña	ne	b-org	0
+reko	ne	i-org	0
+yvoty	ne	i-org	0
+”	other	0	0
+.	other	0	0
+El	es	0	0
+Grupo	es	0	0
+está	es	0	0
+integrado	es	0	0
+por	es	0	0
+mujeres	es	0	0
+de	es	0	0
+los	es	0	0
+pueblos	es	0	0
+indígenas	es	0	0
+Avá	ne	b-org	0
+Guaraní	ne	i-org	0
+y	es	0	0
+Aché	ne	b-org	0
+.	other	0	0
+Ehecha	gn	0	0
+ha	gn	0	0
+emoasãimína	gn	0	0
+orendive	gn	0	0
+.	other	0	0
+En	es	0	0
+el	es	0	0
+2019	other	0	0
+se	es	0	0
+conmemora	es	0	0
+el	es	0	0
+Año	es	0	0
+Internacional	es	0	0
+de	es	0	0
+las	es	0	0
+Lenguas	es	0	0
+Indígenas	es	0	0
+.	other	0	0
+
+#dev114: Junta oipyhy medida ko’ã nota presentada gobernador Carlos Arrechea ( ANR ) , ojeruréva cuerpo legislativo orekóva estudio ojehechávo ha tojehesape’a hikuái ko mba’ejerure oîva rehe ha’eva peteî emergencia departamental ikatu haguã oñembosako’i umi tembiporu omombia haguã virus COVID-19 .
+Junta	es	0	0
+oipyhy	gn	0	0
+medida	es	0	0
+ko’ã	gn	0	0
+nota	es	0	0
+presentada	es	0	0
+gobernador	es	0	0
+Carlos	ne	b-per	0
+Arrechea	ne	i-per	0
+(	other	0	0
+ANR	ne	b-org	0
+)	other	0	0
+,	other	0	0
+ojeruréva	gn	0	0
+cuerpo	es	0	0
+legislativo	es	0	0
+orekóva	gn	0	0
+estudio	es	0	0
+ojehechávo	gn	0	0
+ha	gn	0	0
+tojehesape’a	gn	0	0
+hikuái	gn	0	0
+ko	gn	0	0
+mba’ejerure	gn	0	0
+oîva	gn	0	0
+rehe	gn	0	0
+ha’eva	gn	0	0
+peteî	gn	0	0
+emergencia	es	0	0
+departamental	es	0	0
+ikatu	gn	0	0
+haguã	gn	0	0
+oñembosako’i	gn	0	0
+umi	gn	0	0
+tembiporu	gn	0	0
+omombia	gn	0	0
+haguã	gn	0	0
+virus	es	0	0
+COVID-19	other	0	0
+.	other	0	0
+
+#dev115: Haitter ojapo peteî conferencia de prensa ko miércoles ka'aru odefendéva millonario aporte umi tupão evangélica ha católica , oaseguráva ko'ã institución ha'éva parte activa Educación ha Salud de la gente .
+Haitter	ne	b-per	0
+ojapo	gn	0	0
+peteî	gn	0	0
+conferencia	es	0	0
+de	es	0	0
+prensa	es	0	0
+ko	gn	0	0
+miércoles	es	0	0
+ka'aru	gn	0	0
+odefendéva	gn	0	0
+millonario	es	0	0
+aporte	es	0	0
+umi	gn	0	0
+tupão	gn	0	0
+evangélica	es	0	0
+ha	gn	0	0
+católica	es	0	0
+,	other	0	0
+oaseguráva	gn	0	0
+ko'ã	gn	0	0
+institución	es	0	0
+ha'éva	gn	0	0
+parte	es	0	0
+activa	es	0	0
+Educación	es	0	0
+ha	es	0	0
+Salud	es	0	0
+de	es	0	0
+la	es	0	0
+gente	es	0	0
+.	other	0	0
+
+#dev116: Ñande rekove ojekopa rehe ojuehe niko ñapensava’erã peteĩ arapy rehe año , jaikovepahápe oñondivepa .
+Ñande	gn	0	0
+rekove	gn	0	0
+ojekopa	gn	0	0
+rehe	gn	0	0
+ojuehe	gn	0	0
+niko	gn	0	0
+ñapensava’erã	gn	0	0
+peteĩ	gn	0	0
+arapy	gn	0	0
+rehe	gn	0	0
+año	es	0	0
+,	other	0	0
+jaikovepahápe	gn	0	0
+oñondivepa	gn	0	0
+.	other	0	0
+
+#dev117: Peteî filmación ojepóiva redes sociales rupive , peteî funcionario planta de tratamiento aguatera estatal o{iva río Tevicuarymí rembe’ýre Yataitýpe , omomba’e guasu opavavépe anite oñemboy’u Essap y ome’{eva ndorekovéigui upe insumo ha’éva sulfato de aluminio AI(SO4)3 ojeporúva y potable .
+Peteî	gn	0	0
+filmación	es	0	0
+ojepóiva	gn	0	0
+redes	es	0	0
+sociales	es	0	0
+rupive	gn	0	0
+,	other	0	0
+peteî	gn	0	0
+funcionario	es	0	0
+planta	es	0	0
+de	es	0	0
+tratamiento	es	0	0
+aguatera	es	0	0
+estatal	es	0	0
+o{iva	gn	0	0
+río	ne	b-loc	0
+Tevicuarymí	ne	i-loc	0
+rembe’ýre	gn	0	0
+Yataitýpe	ne	b-loc	0
+,	other	0	0
+omomba’e	gn	0	0
+guasu	gn	0	0
+opavavépe	gn	0	0
+anite	gn	0	0
+oñemboy’u	gn	0	0
+Essap	ne	b-org	0
+y	es	0	0
+ome’{eva	gn	0	0
+ndorekovéigui	gn	0	0
+upe	gn	0	0
+insumo	es	0	0
+ha’éva	gn	0	0
+sulfato	es	0	0
+de	es	0	0
+aluminio	es	0	0
+AI(SO4)3	other	0	0
+ojeporúva	gn	0	0
+y	es	0	0
+potable	es	0	0
+.	other	0	0
+
+#dev118: Ojepytaso pokõi ary impedimento función pública exsenador cartista .
+Ojepytaso	gn	0	0
+pokõi	gn	0	0
+ary	gn	0	0
+impedimento	es	0	0
+función	es	0	0
+pública	es	0	0
+exsenador	es	0	0
+cartista	es	0	0
+.	other	0	0
+
+#dev119: Che ko nde mba’e 😍😍😍
+Che	gn	0	0
+ko	gn	0	0
+nde	gn	0	0
+mba’e	gn	0	0
+😍😍😍	other	0	0
+
+#dev120: Salón Mangoré Gobernación de Misiones , San Juan Bautista-pe , JICA oikuaauka ko jueves , 0.625 aravo jave ruta turística ojehechahápe umi mba’e yma guare mba'éichapa iñambue ojuehegui ha oñemoherakuãva’erã gueteri .
+Salón	ne	b-loc	0
+Mangoré	ne	i-loc	0
+Gobernación	ne	i-loc	0
+de	ne	i-loc	0
+Misiones	ne	i-loc	0
+,	other	0	0
+San	ne	b-loc	0
+Juan	ne	i-loc	0
+Bautista-pe	ne	i-loc	0
+,	other	0	0
+JICA	ne	b-org	0
+oikuaauka	gn	0	0
+ko	gn	0	0
+jueves	es	0	0
+,	other	0	0
+0.625	other	0	0
+aravo	gn	0	0
+jave	gn	0	0
+ruta	es	0	0
+turística	es	0	0
+ojehechahápe	gn	0	0
+umi	gn	0	0
+mba’e	gn	0	0
+yma	gn	0	0
+guare	gn	0	0
+mba'éichapa	gn	0	0
+iñambue	gn	0	0
+ojuehegui	gn	0	0
+ha	gn	0	0
+oñemoherakuãva’erã	gn	0	0
+gueteri	gn	0	0
+.	other	0	0
+
+#dev121: @USER Pero mba'eve ndere japoi nde karruaje ... Eru la vacuna nde tembo
+@USER	ne	b-org	0
+Pero	es	0	0
+mba'eve	gn	0	0
+ndere	gn	0	0
+japoi	gn	0	0
+nde	gn	0	0
+karruaje	mix	0	0
+...	other	0	0
+Eru	gn	0	0
+la	es	0	0
+vacuna	es	0	0
+nde	gn	0	0
+tembo	gn	0	0
+
+#dev122: Ko’ã candidato oikuave’êva partido político ome’êva cargo electivo ñanemotî .
+Ko’ã	gn	0	0
+candidato	es	0	0
+oikuave’êva	gn	0	0
+partido	es	0	0
+político	es	0	0
+ome’êva	gn	0	0
+cargo	es	0	0
+electivo	es	0	0
+ñanemotî	gn	0	0
+.	other	0	0
+
+#dev123: Tuguy pochy popular ndaijapyráiva
+Tuguy	gn	0	0
+pochy	gn	0	0
+popular	es	0	0
+ndaijapyráiva	gn	0	0
+
+#dev124: " Poder decir adiòs es crecer " Epoi chugui nde añamemby 🌬️
+"	other	0	0
+Poder	es	0	0
+decir	es	0	0
+adiòs	es	0	0
+es	es	0	0
+crecer	es	0	0
+"	other	0	0
+Epoi	gn	0	0
+chugui	gn	0	0
+nde	gn	0	0
+añamemby	gn	0	0
+🌬️	other	0	0
+
+#dev125: Weinroth iomba'apo Cuerpo de Paz tavaguasu Eusebio Ayala-pe .
+Weinroth	ne	b-per	0
+iomba'apo	gn	0	0
+Cuerpo	ne	b-org	0
+de	ne	i-org	0
+Paz	ne	i-org	0
+tavaguasu	gn	0	0
+Eusebio	ne	b-loc	0
+Ayala-pe	ne	i-loc	0
+.	other	0	0
+
+#dev126: Naiporâingo jaike péicha upépe .
+Naiporâingo	gn	0	0
+jaike	gn	0	0
+péicha	gn	0	0
+upépe	gn	0	0
+.	other	0	0
+
+#dev127: @USER callate nde tembo tavy entra en tu revi mba'e
+@USER	ne	b-per	0
+callate	es	0	0
+nde	gn	0	0
+tembo	gn	0	0
+tavy	gn	0	0
+entra	es	0	0
+en	es	0	0
+tu	es	0	0
+revi	gn	0	0
+mba'e	gn	0	0
+
+#dev128: " Ko mbyry'ái reheve ajahuseminte araka'eve peve ! Aikose pe y oñehehâ guype terâ peteî tina-me ! " @USER
+"	other	0	0
+Ko	gn	0	0
+mbyry'ái	gn	0	0
+reheve	gn	0	0
+ajahuseminte	gn	0	0
+araka'eve	gn	0	0
+peve	gn	0	0
+!	other	0	0
+Aikose	gn	0	0
+pe	gn	0	0
+y	gn	0	0
+oñehehâ	gn	0	0
+guype	gn	0	0
+terâ	gn	0	0
+peteî	gn	0	0
+tina-me	mix	0	0
+!	other	0	0
+"	other	0	0
+@USER	ne	b-per	0
+
+#dev129: Ojekuaa oîha peteî planillero Ka'asapápe
+Ojekuaa	gn	0	0
+oîha	gn	0	0
+peteî	gn	0	0
+planillero	es	0	0
+Ka'asapápe	gn	0	0
+
+#dev130: Paraguay ; un país plurilingüe y pluricultural - URL @USER
+Paraguay	ne	b-org	0
+;	other	0	0
+un	es	0	0
+país	es	0	0
+plurilingüe	es	0	0
+y	es	0	0
+pluricultural	es	0	0
+-	other	0	0
+URL	other	0	0
+@USER	ne	b-org	0
+
+#dev131: Me quiere invitar un brownie y no es espacial mbae sentido oreko la vida así ?
+Me	es	0	0
+quiere	es	0	0
+invitar	es	0	0
+un	es	0	0
+brownie	es	0	0
+y	es	0	0
+no	es	0	0
+es	es	0	0
+espacial	es	0	0
+mbae	gn	0	0
+sentido	es	0	0
+oreko	gn	0	0
+la	es	0	0
+vida	es	0	0
+así	es	0	0
+?	other	0	0
+
+#dev132: Ko mymba , especie guasu vira ( Mazama gouazoubira ) , ojuhu hikuái Refugio Faunístico de Atinguy péva Entidad Binacional Yasyretã evaluación clínica ha rehabilitación .
+Ko	gn	0	0
+mymba	gn	0	0
+,	other	0	0
+especie	es	0	0
+guasu	gn	0	0
+vira	gn	0	0
+(	other	0	0
+Mazama	foreign	0	0
+gouazoubira	foreign	0	0
+)	other	0	0
+,	other	0	0
+ojuhu	gn	0	0
+hikuái	gn	0	0
+Refugio	ne	b-org	0
+Faunístico	ne	i-org	0
+de	ne	i-org	0
+Atinguy	ne	i-org	0
+péva	gn	0	0
+Entidad	ne	b-org	0
+Binacional	ne	i-org	0
+Yasyretã	ne	i-org	0
+evaluación	es	0	0
+clínica	es	0	0
+ha	gn	0	0
+rehabilitación	es	0	0
+.	other	0	0
+
+#dev133: Upéi oikókuri chugui tembikuaajára .
+Upéi	gn	0	0
+oikókuri	gn	0	0
+chugui	gn	0	0
+tembikuaajára	gn	0	0
+.	other	0	0
+
+#dev134: @USER Ani peicha , ani nde violento
+@USER	ne	b-per	0
+Ani	gn	0	0
+peicha	gn	0	0
+,	other	0	0
+ani	gn	0	0
+nde	gn	0	0
+violento	es	0	0
+
+#dev135: Gobierno pererï Abdo Benítez ou porã Brasil-pe oñepyrüvo Anexo C jehecha
+Gobierno	es	0	0
+pererï	gn	0	0
+Abdo	ne	b-per	0
+Benítez	ne	i-per	0
+ou	gn	0	0
+porã	gn	0	0
+Brasil-pe	ne	b-loc	0
+oñepyrüvo	gn	0	0
+Anexo	es	0	0
+C	other	0	0
+jehecha	gn	0	0
+
+#dev136: Conacyt omoherakuã ganadores Premio Periodismo Científico Merkosur ha Premio Nacional Periodismo Científico rehegua
+Conacyt	ne	b-org	0
+omoherakuã	gn	0	0
+ganadores	es	0	0
+Premio	es	0	0
+Periodismo	es	0	0
+Científico	es	0	0
+Merkosur	ne	b-org	0
+ha	gn	0	0
+Premio	es	0	0
+Nacional	es	0	0
+Periodismo	es	0	0
+Científico	es	0	0
+rehegua	es	0	0
+
+#dev137: DESALOJAN A INDÍGENAS DE YVA POTY : URL
+DESALOJAN	es	0	0
+A	es	0	0
+INDÍGENAS	es	0	0
+DE	es	0	0
+YVA	ne	b-loc	0
+POTY	ne	i-loc	0
+:	other	0	0
+URL	other	0	0
+
+#dev138: @USER Reipota nde chikorã avei sandra 🙄
+@USER	ne	b-per	0
+Reipota	gn	0	0
+nde	gn	0	0
+chikorã	gn	0	0
+avei	gn	0	0
+sandra	ne	b-per	0
+🙄	other	0	0
+
+#dev139: Parroquia Ka'asapa omondóma cargamento pytyvõ .
+Parroquia	es	0	0
+Ka'asapa	ne	b-loc	0
+omondóma	gn	0	0
+cargamento	es	0	0
+pytyvõ	gn	0	0
+.	other	0	0
+
+#dev140: Mokõiha Congreso Tekombo’e , Arandupy ha Kuaandy
+Mokõiha	gn	0	0
+Congreso	ne	b-org	0
+Tekombo’e	gn	0	0
+,	other	0	0
+Arandupy	gn	0	0
+ha	gn	0	0
+Kuaandy	gn	0	0
+
+#dev141: @USER Mbae jey
+@USER	ne	b-per	0
+Mbae	gn	0	0
+jey	gn	0	0
+
+#dev142: Péva supuesta relación influencia odenunsiáva abogado Juan Martín Barba , oñe'êva presunta irregularidad selección candidato ministro máxima instancia judicial .
+Péva	gn	0	0
+supuesta	es	0	b-ul
+relación	es	0	i-ul
+influencia	es	0	i-ul
+odenunsiáva	mix	0	0
+abogado	es	0	b-ul
+Juan	ne	b-per	0
+Martín	ne	i-per	0
+Barba	ne	i-per	0
+,	other	0	0
+oñe'êva	gn	0	0
+presunta	es	0	b-ul
+irregularidad	es	0	i-ul
+selección	es	0	i-ul
+candidato	es	0	i-ul
+ministro	es	0	i-ul
+máxima	es	0	i-ul
+instancia	es	0	i-ul
+judicial	es	0	i-ul
+.	other	0	0
+
+#dev143: Pemosē la ohóva pende rógape ko semana santape ! Heta yvykua oñeikotevēta hina ...
+Pemosē	gn	0	0
+la	es	0	b-ul
+ohóva	gn	0	0
+pende	gn	0	0
+rógape	gn	0	0
+ko	gn	0	0
+semana	es	0	b-ul
+santape	mix	0	0
+!	other	0	0
+Heta	gn	0	0
+yvykua	gn	0	0
+oñeikotevēta	gn	0	0
+hina	gn	0	0
+...	other	0	0
+
+#dev144: Nde ya no son más simpáticos los jeans kuera hina ....
+Nde	gn	0	0
+ya	es	0	b-cc
+no	es	0	i-cc
+son	es	0	i-cc
+más	es	0	i-cc
+simpáticos	es	0	i-cc
+los	es	0	i-cc
+jeans	foreign	0	0
+kuera	gn	0	0
+hina	gn	0	0
+....	other	0	0
+
+#dev145: Ndofaltái cuestionamiento gobierno ha organismo de seguridad , ko'ãva akã ári oity hikuái oavisa ndorekóigui voluntad ombogue haguã flagelo tuguy pocchy ha ojerúre omantene haguã Fuerza Tarea Conjuntanosê porãiva chupekuéra mba'eve .
+Ndofaltái	mix	0	0
+cuestionamiento	es	0	b-ul
+gobierno	ne	b-org	0
+ha	gn	0	0
+organismo	ne	b-org	0
+de	ne	i-org	0
+seguridad	ne	i-org	0
+,	other	0	0
+ko'ãva	gn	0	0
+akã	gn	0	0
+ári	gn	0	0
+oity	gn	0	0
+hikuái	gn	0	0
+oavisa	mix	0	0
+ndorekóigui	gn	0	0
+voluntad	es	0	b-ul
+ombogue	gn	0	0
+haguã	gn	0	0
+flagelo	es	0	b-ul
+tuguy	gn	0	0
+pocchy	gn	0	0
+ha	gn	0	0
+ojerúre	gn	0	0
+omantene	mix	0	0
+haguã	gn	0	0
+Fuerza	ne	b-org	0
+Tarea	ne	i-org	0
+Conjuntanosê	ne	i-org	0
+porãiva	gn	0	0
+chupekuéra	gn	0	0
+mba'eve	gn	0	0
+.	other	0	0
+
+#dev146: “ Omomarandúva no traicionái ” , he’i ministro de Educación , Eduardo Petta , ojerurévo comisión legislativa reposición recorte ojapóva Hacienda proyecto presupuesto 2021 ohepyme’êvo julio guive aumento salarial 16% mbo’ehárape guarã .
+“	other	0	0
+Omomarandúva	gn	0	0
+no	es	0	b-ul
+traicionái	mix	0	0
+”	other	0	0
+,	other	0	0
+he’i	gn	0	0
+ministro	es	0	b-ul
+de	es	0	i-ul
+Educación	ne	b-org	0
+,	other	0	0
+Eduardo	ne	b-per	0
+Petta	ne	i-per	0
+,	other	0	0
+ojerurévo	gn	0	0
+comisión	es	0	b-ul
+legislativa	es	0	i-ul
+reposición	es	0	i-ul
+recorte	es	0	i-ul
+ojapóva	gn	0	0
+Hacienda	ne	b-org	0
+proyecto	es	0	b-ul
+presupuesto	es	0	i-ul
+2021	other	0	0
+ohepyme’êvo	gn	0	0
+julio	es	0	b-ul
+guive	gn	0	0
+aumento	es	0	b-ul
+salarial	es	0	i-ul
+16%	other	0	0
+mbo’ehárape	gn	0	0
+guarã	gn	0	0
+.	other	0	0
+
+#dev147: Ko normativa ogueroguatáva jasyteî 2020 jave .
+Ko	gn	0	0
+normativa	es	0	b-ul
+ogueroguatáva	gn	0	0
+jasyteî	gn	0	0
+2020	other	0	0
+jave	gn	0	0
+.	other	0	0
+
+#dev148: @USER Aprende a escribir primero nde karai tuja'i puerkesa , nde tujama ha eiko hatã gua'u
+@USER	ne	b-per	0
+Aprende	es	0	b-cc
+a	es	0	i-cc
+escribir	es	0	i-cc
+primero	es	0	i-cc
+nde	gn	0	0
+karai	gn	0	0
+tuja'i	gn	0	0
+puerkesa	gn	0	0
+,	other	0	0
+nde	gn	0	0
+tujama	gn	0	0
+ha	gn	0	0
+eiko	gn	0	0
+hatã	gn	0	0
+gua'u	gn	0	0
+
+#dev149: Ministro Aguilera omomba'e campaña “ ohekáva omombiávo tekotevêmby mbo'ehaho mboriahumívape ” .
+Ministro	es	0	b-ul
+Aguilera	ne	b-per	0
+omomba'e	gn	0	0
+campaña	es	0	b-ul
+“	other	0	0
+ohekáva	gn	0	0
+omombiávo	gn	0	0
+tekotevêmby	gn	0	0
+mbo'ehaho	gn	0	0
+mboriahumívape	gn	0	0
+”	other	0	0
+.	other	0	0
+
+#dev150: @USER Aja nde porã nde mitakuña ❤️
+@USER	ne	b-per	0
+Aja	gn	0	0
+nde	gn	0	0
+porã	gn	0	0
+nde	gn	0	0
+mitakuña	gn	0	0
+❤️	other	0	0
+
+#dev151: Versión en guaraní , ohasáva ha oñemohenda porãhína ñe'ê jehai , oñeha’arõ impresión ikatu haguã oñeme’ê moñe’êrã .
+Versión	es	0	b-cc
+en	es	0	i-cc
+guaraní	es	0	i-cc
+,	other	0	0
+ohasáva	gn	0	0
+ha	gn	0	0
+oñemohenda	gn	0	0
+porãhína	gn	0	0
+ñe'ê	gn	0	0
+jehai	gn	0	0
+,	other	0	0
+oñeha’arõ	gn	0	0
+impresión	es	0	b-ul
+ikatu	gn	0	0
+haguã	gn	0	0
+oñeme’ê	gn	0	0
+moñe’êrã	gn	0	0
+.	other	0	0
+
+#dev152: Jepénte péva oreko habitat natural ojeitypa ningo pe ka'agui ha noñepenái “ ley de deforestación cero ” ha ambue oïva vigente , upéicha ombocháke flora ha umi ojeguerekóva techapyrã ramo ha ambue variedad fauna-pe .
+Jepénte	gn	0	0
+péva	gn	0	0
+oreko	gn	0	0
+habitat	es	0	0
+natural	es	0	0
+ojeitypa	gn	0	0
+ningo	gn	0	0
+pe	gn	0	0
+ka'agui	gn	0	0
+ha	gn	0	0
+noñepenái	gn	0	0
+“	other	0	0
+ley	es	0	0
+de	es	0	0
+deforestación	es	0	0
+cero	es	0	0
+”	other	0	0
+ha	gn	0	0
+ambue	gn	0	0
+oïva	gn	0	0
+vigente	es	0	0
+,	other	0	0
+upéicha	gn	0	0
+ombocháke	gn	0	0
+flora	es	0	0
+ha	gn	0	0
+umi	gn	0	0
+ojeguerekóva	gn	0	0
+techapyrã	gn	0	0
+ramo	gn	0	0
+ha	gn	0	0
+ambue	gn	0	0
+variedad	es	0	0
+fauna-pe	mix	0	0
+.	other	0	0
+
+#dev153: Ambue acusado rehe ho’a avei tukumbo ndahasýiva delito tráfico de influencias .
+Ambue	gn	0	0
+acusado	es	0	0
+rehe	gn	0	0
+ho’a	gn	0	0
+avei	gn	0	0
+tukumbo	gn	0	0
+ndahasýiva	gn	0	0
+delito	es	0	0
+tráfico	es	0	0
+de	es	0	0
+influencias	es	0	0
+.	other	0	0
+
+#dev154: Ojekuaa 1995 jave heñói ciudadana paraguaya isy ome'êva'ekue adopción-pe ndaipu'ákáigui heta imembýgui ha oreko jave dos años peteî pareja estadounidense , Shimon ha Rochelle Klein , ikatu haguã oiko porãve .
+Ojekuaa	gn	0	0
+1995	other	0	0
+jave	gn	0	0
+heñói	gn	0	0
+ciudadana	es	0	0
+paraguaya	es	0	0
+isy	gn	0	0
+ome'êva'ekue	gn	0	0
+adopción-pe	mix	0	0
+ndaipu'ákáigui	gn	0	0
+heta	gn	0	0
+imembýgui	gn	0	0
+ha	gn	0	0
+oreko	gn	0	0
+jave	gn	0	0
+dos	es	0	0
+años	es	0	0
+peteî	gn	0	0
+pareja	es	0	0
+estadounidense	es	0	0
+,	other	0	0
+Shimon	ne	b-per	0
+ha	gn	0	0
+Rochelle	ne	b-per	0
+Klein	ne	i-per	0
+,	other	0	0
+ikatu	gn	0	0
+haguã	gn	0	0
+oiko	gn	0	0
+porãve	gn	0	0
+.	other	0	0
+
+#dev155: ABC remiandu : Oñepyrû guive fuerzas de tarea conjunta rembiapo Concepción ha San Pedro departamento-pe , koágã ... URL
+ABC	ne	b-org	0
+remiandu	gn	0	0
+:	other	0	0
+Oñepyrû	gn	0	0
+guive	gn	0	0
+fuerzas	es	0	0
+de	es	0	0
+tarea	es	0	0
+conjunta	es	0	0
+rembiapo	gn	0	0
+Concepción	ne	b-loc	0
+ha	gn	0	0
+San	ne	b-loc	0
+Pedro	ne	i-loc	0
+departamento-pe	mix	0	0
+,	other	0	0
+koágã	gn	0	0
+...	other	0	0
+URL	other	0	0
+
+#dev156: Reikove aja , eñandúke reikoveha
+Reikove	gn	0	0
+aja	gn	0	0
+,	other	0	0
+eñandúke	gn	0	0
+reikoveha	gn	0	0
+
+#dev157: #Marandu Organización Internacional de Trabajo niko , omo’îrû aǧuiete ñane retâme , ikatu haǧuáicha , mayma tavaygua omba’apo hekópe , péva omomba’ékuri ñane retâ sambyhyhára karai Mario Abdo Benítez
+#Marandu	gn	0	0
+Organización	ne	b-org	0
+Internacional	ne	i-org	0
+de	ne	i-org	0
+Trabajo	ne	i-org	0
+niko	gn	0	0
+,	other	0	0
+omo’îrû	gn	0	0
+aǧuiete	gn	0	0
+ñane	gn	0	0
+retâme	gn	0	0
+,	other	0	0
+ikatu	gn	0	0
+haǧuáicha	gn	0	0
+,	other	0	0
+mayma	gn	0	0
+tavaygua	gn	0	0
+omba’apo	gn	0	0
+hekópe	gn	0	0
+,	other	0	0
+péva	gn	0	0
+omomba’ékuri	gn	0	0
+ñane	gn	0	0
+retâ	gn	0	0
+sambyhyhára	gn	0	0
+karai	gn	0	0
+Mario	ne	b-per	0
+Abdo	ne	i-per	0
+Benítez	ne	i-per	0
+
+#dev158: @USER Ufffff quien sabe mba'e macanada pa oiko pepe hina 🤔 dio no guarde
+@USER	ne	b-per	0
+Ufffff	es	0	0
+quien	es	0	0
+sabe	es	0	0
+mba'e	gn	0	0
+macanada	es	0	0
+pa	es	0	0
+oiko	gn	0	0
+pepe	gn	0	0
+hina	gn	0	0
+🤔	other	0	0
+dio	es	0	0
+no	es	0	0
+guarde	es	0	0
+
+#dev159: Ary 1955-pe ohókuri Río de Janeiro , Brasil-pe oñemoarandu haĝua Mba'ejegua Mbo'ehaópe ha oikókuri chugui Mba'e'apohára .
+Ary	gn	0	0
+1955-pe	other	0	0
+ohókuri	gn	0	0
+Río	ne	b-loc	0
+de	ne	i-loc	0
+Janeiro	ne	i-loc	0
+,	other	0	0
+Brasil-pe	ne	b-loc	0
+oñemoarandu	gn	0	0
+haĝua	gn	0	0
+Mba'ejegua	ne	b-org	0
+Mbo'ehaópe	ne	i-org	0
+ha	gn	0	0
+oikókuri	gn	0	0
+chugui	gn	0	0
+Mba'e'apohára	gn	0	0
+.	other	0	0
+
+#dev160: Dirección del Registro Electoral , dependiente Tribunal Superior de Justicia Electoral , oikuaauka inscripción Registro Cívico Permanente ( RCP ) oñemotenonde oficinas electoral Nueva Italia , Villeta , Limpio , Capiatá ( oficina 2 ) , Luque ( oficina 1 ) , Ñemby , Itauguá , Itá ha Registro Electoral Luque ( oficina 2 ) -pe
+Dirección	es	0	0
+del	es	0	0
+Registro	ne	b-org	0
+Electoral	ne	i-org	0
+,	other	0	0
+dependiente	es	0	0
+Tribunal	ne	b-org	0
+Superior	ne	i-org	0
+de	ne	i-org	0
+Justicia	ne	i-org	0
+Electoral	ne	i-org	0
+,	other	0	0
+oikuaauka	gn	0	0
+inscripción	es	0	0
+Registro	ne	b-org	0
+Cívico	ne	i-org	0
+Permanente	ne	i-org	0
+(	other	0	0
+RCP	ne	b-org	0
+)	other	0	0
+oñemotenonde	gn	0	0
+oficinas	es	0	0
+electoral	es	0	0
+Nueva	ne	b-loc	0
+Italia	ne	i-loc	0
+,	other	0	0
+Villeta	ne	b-loc	0
+,	other	0	0
+Limpio	ne	b-loc	0
+,	other	0	0
+Capiatá	ne	b-loc	0
+(	other	0	0
+oficina	es	0	0
+2	other	0	0
+)	other	0	0
+,	other	0	0
+Luque	ne	b-loc	0
+(	other	0	0
+oficina	es	0	0
+1	other	0	0
+)	other	0	0
+,	other	0	0
+Ñemby	ne	b-loc	0
+,	other	0	0
+Itauguá	ne	b-loc	0
+,	other	0	0
+Itá	ne	b-loc	0
+ha	gn	0	0
+Registro	es	0	0
+Electoral	es	0	0
+Luque	ne	b-loc	0
+(	other	0	0
+oficina	es	0	0
+2	other	0	0
+)	other	0	0
+-pe	gn	0	0
+
+#dev161: Omokyre'ÿva campaña , Marco Nicolás Bo , imandu'a oñepyrûvo ome'ëvo aguyje Ministerio de Educación-pe .
+Omokyre'ÿva	gn	0	0
+campaña	es	0	0
+,	other	0	0
+Marco	ne	b-per	0
+Nicolás	ne	i-per	0
+Bo	ne	i-per	0
+,	other	0	0
+imandu'a	gn	0	0
+oñepyrûvo	gn	0	0
+ome'ëvo	gn	0	0
+aguyje	gn	0	0
+Ministerio	ne	b-org	0
+de	ne	i-org	0
+Educación-pe	ne	i-org	0
+.	other	0	0
+
+#dev162: Oñondivepa ikatu jahapejoko ko mba'asy vai hérava Covid-19 - Todos juntos podemos frenar la propagación del Covid-19 . #COVID19 #QuedateEnCasa #NosCuidamosEntreTodos
+Oñondivepa	gn	0	0
+ikatu	gn	0	0
+jahapejoko	gn	0	0
+ko	gn	0	0
+mba'asy	gn	0	0
+vai	gn	0	0
+hérava	gn	0	0
+Covid-19	foreign	0	0
+-	other	0	0
+Todos	es	0	0
+juntos	es	0	0
+podemos	es	0	0
+frenar	es	0	0
+la	es	0	0
+propagación	es	0	0
+del	es	0	0
+Covid-19	foreign	0	0
+.	other	0	0
+#COVID19	foreign	0	0
+#QuedateEnCasa	es	0	0
+#NosCuidamosEntreTodos	es	0	0
+
+#dev163: atwitteata guaranime ya que ndapentendemo'ãi ah JAJAJ @USER PARAGUAY NEEDS DOSOGAS
+atwitteata	mix	0	0
+guaranime	gn	0	0
+ya	es	0	b-ul
+que	es	0	i-ul
+ndapentendemo'ãi	mix	0	0
+ah	es	0	b-ul
+JAJAJ	es	0	i-ul
+@USER	ne	b-per	0
+PARAGUAY	ne	b-loc	0
+NEEDS	foreign	0	0
+DOSOGAS	ne	b-org	0
+
+#dev164: Festival de Teatro oguerohorývo Raquel Rojas ko miércoles ka'aru jave ojeguerohory ha osê porãiterei Club El Porvenir distrito Ypakarai .
+Festival	es	0	b-ul
+de	es	0	i-ul
+Teatro	es	0	i-ul
+oguerohorývo	gn	0	0
+Raquel	ne	b-per	0
+Rojas	ne	i-per	0
+ko	gn	0	0
+miércoles	es	0	b-ul
+ka'aru	gn	0	0
+jave	gn	0	0
+ojeguerohory	gn	0	0
+ha	gn	0	0
+osê	gn	0	0
+porãiterei	gn	0	0
+Club	ne	b-org	0
+El	ne	i-org	0
+Porvenir	ne	i-org	0
+distrito	es	0	b-ul
+Ypakarai	ne	b-loc	0
+.	other	0	0
+
+#dev165: “ Universidad ombohovái misión omotenondéva acción concreta comunidad pytyvõme , orekóva educación ambiental ha'éva transversal , ome'êvo techapyrã omoañetéva participación comunitaria construcción de la ciudadanía ” , omohu'ã nota informativa universidad-pe .
+“	other	0	0
+Universidad	es	0	b-ul
+ombohovái	gn	0	0
+misión	es	0	b-ul
+omotenondéva	gn	0	0
+acción	es	0	b-ul
+concreta	es	0	i-ul
+comunidad	es	0	i-ul
+pytyvõme	gn	0	0
+,	other	0	0
+orekóva	gn	0	0
+educación	es	0	b-ul
+ambiental	es	0	i-ul
+ha'éva	gn	0	0
+transversal	es	0	b-ul
+,	other	0	0
+ome'êvo	gn	0	0
+techapyrã	gn	0	0
+omoañetéva	gn	0	0
+participación	es	0	b-ul
+comunitaria	es	0	i-ul
+construcción	es	0	i-ul
+de	es	0	i-ul
+la	es	0	i-ul
+ciudadanía	es	0	i-ul
+”	other	0	0
+,	other	0	0
+omohu'ã	gn	0	0
+nota	es	0	b-ul
+informativa	es	0	i-ul
+universidad-pe	mix	0	0
+.	other	0	0
+
+#dev166: @USER ndengo ko kueheve nde re ñe'e guaranime nde tovatavy , ni ndere hai kuaai !
+@USER	ne	b-per	0
+ndengo	gn	0	0
+ko	gn	0	0
+kueheve	gn	0	0
+nde	gn	0	0
+re	gn	0	0
+ñe'e	gn	0	0
+guaranime	gn	0	0
+nde	gn	0	0
+tovatavy	gn	0	0
+,	other	0	0
+ni	es	0	b-ul
+ndere	gn	0	0
+hai	gn	0	0
+kuaai	gn	0	0
+!	other	0	0
+
+#dev167: Ombosako'i firma " Tu Super " ha oime Municipalidad local .
+Ombosako'i	gn	0	0
+firma	es	0	b-ul
+"	other	0	0
+Tu	es	0	b-cc
+Super	es	0	i-cc
+"	other	0	0
+ha	gn	0	0
+oime	gn	0	0
+Municipalidad	es	0	b-ul
+local	es	0	i-ul
+.	other	0	0
+
+#dev168: @USER Ha'ekuera katu la ipochyva . GUACHA LES FALTA 😡😤
+@USER	ne	b-per	0
+Ha'ekuera	gn	0	0
+katu	gn	0	0
+la	es	0	b-ul
+ipochyva	gn	0	0
+.	other	0	0
+GUACHA	es	0	b-cc
+LES	es	0	i-cc
+FALTA	es	0	i-cc
+😡😤	other	0	0
+
+#dev169: Río Paraguái oguejy 60 cm peteî arapokõindýpe
+Río	ne	b-loc	0
+Paraguái	ne	i-loc	0
+oguejy	gn	0	0
+60	other	0	0
+cm	other	0	0
+peteî	gn	0	0
+arapokõindýpe	gn	0	0
+
+#dev170: @USER Nde porã katu ♥️💙♥️💙😍😍😍😍
+@USER	ne	b-per	0
+Nde	gn	0	0
+porã	gn	0	0
+katu	gn	0	0
+♥️💙♥️💙😍😍😍😍	other	0	0
+
+#dev171: @USER Ja’u Mbae sentido oreko la vida jajajaa
+@USER	ne	b-per	0
+Ja’u	gn	0	0
+Mbae	gn	0	0
+sentido	es	0	0
+oreko	gn	0	0
+la	es	0	0
+vida	es	0	0
+jajajaa	es	0	0
+
+#dev172: Ha nde ikã ndeve la mundo y yo llorando por las noches ha mba’erã ?
+Ha	gn	0	0
+nde	gn	0	0
+ikã	gn	0	0
+ndeve	gn	0	0
+la	es	0	0
+mundo	es	0	0
+y	es	0	0
+yo	es	0	0
+llorando	es	0	0
+por	es	0	0
+las	es	0	0
+noches	es	0	0
+ha	gn	0	0
+mba’erã	gn	0	0
+?	other	0	0
+
+#dev173: Ojerahajepékuri ka'irâime , mombyry mombyryeterei , Isla Margarita-pe ha upéi -isâso rire- peteî ára hapicha kolo'o oñohê hováre ytaku ha omohesatû chupe ndaje hesa rovýre .
+Ojerahajepékuri	gn	0	0
+ka'irâime	gn	0	0
+,	other	0	0
+mombyry	gn	0	0
+mombyryeterei	gn	0	0
+,	other	0	0
+Isla	ne	b-loc	0
+Margarita-pe	ne	i-loc	0
+ha	gn	0	0
+upéi	gn	0	0
+-isâso	gn	0	0
+rire-	gn	0	0
+peteî	gn	0	0
+ára	gn	0	0
+hapicha	gn	0	0
+kolo'o	gn	0	0
+oñohê	gn	0	0
+hováre	gn	0	0
+ytaku	gn	0	0
+ha	gn	0	0
+omohesatû	gn	0	0
+chupe	gn	0	0
+ndaje	gn	0	0
+hesa	gn	0	0
+rovýre	gn	0	0
+.	other	0	0
+
+#dev174: Anibal Emery , director de comunicación Ministerio de Educación , he'i martes ohsávape pe información falsa okorreva WhatsApp rupive , oñe'êva peteî supuesta extensión vacaciones de invierno ko'ã instituciones educativas péva viernes 27 ko jasýpe .
+Anibal	ne	b-per	0
+Emery	ne	i-per	0
+,	other	0	0
+director	es	0	0
+de	es	0	0
+comunicación	es	0	0
+Ministerio	ne	b-org	0
+de	ne	i-org	0
+Educación	ne	i-org	0
+,	other	0	0
+he'i	gn	0	0
+martes	es	0	0
+ohsávape	gn	0	0
+pe	gn	0	0
+información	es	0	0
+falsa	es	0	0
+okorreva	mix	0	0
+WhatsApp	ne	b-org	0
+rupive	gn	0	0
+,	other	0	0
+oñe'êva	gn	0	0
+peteî	gn	0	0
+supuesta	es	0	0
+extensión	es	0	0
+vacaciones	es	0	0
+de	es	0	0
+invierno	es	0	0
+ko'ã	gn	0	0
+instituciones	es	0	0
+educativas	es	0	0
+péva	gn	0	0
+viernes	es	0	0
+27	other	0	0
+ko	gn	0	0
+jasýpe	gn	0	0
+.	other	0	0
+
+#dev175: Umi temimbo’e Colegio Nacional San Cayetano-gua omopu’ã pe toma institución ka’aru jave .
+Umi	gn	0	0
+temimbo’e	gn	0	0
+Colegio	ne	b-org	0
+Nacional	ne	i-org	0
+San	ne	i-org	0
+Cayetano-gua	ne	i-org	0
+omopu’ã	gn	0	0
+pe	gn	0	0
+toma	es	0	0
+institución	es	0	0
+ka’aru	gn	0	0
+jave	gn	0	0
+.	other	0	0
+
+#dev176: Indert ombocháke colono japonese-kuérape
+Indert	ne	b-org	0
+ombocháke	gn	0	0
+colono	es	0	0
+japonese-kuérape	mix	0	0
+
+#dev177: Péicha concejala Nilsa Sánchez omomarandu frentista-pe iñepyrûrãme oñemanifesta palacete municipal rovái oguatávo Junta Municipal rovái upéicha kuehe ambue omotenondéma voi aty guasu ombotovéva ejecutivo municipal rembiapo ha gestión MOPC-pe ha'év ape oîva responsable ko proyecto ejecutivo metrobús , ohupytývo media calzada , lado sur , ruta Mariscal Estigarribia ome'êva ymaite guive diciembre oúva peve .
+Péicha	gn	0	0
+concejala	es	0	0
+Nilsa	ne	b-per	0
+Sánchez	ne	i-per	0
+omomarandu	gn	0	0
+frentista-pe	mix	0	0
+iñepyrûrãme	gn	0	0
+oñemanifesta	mix	0	0
+palacete	es	0	0
+municipal	es	0	0
+rovái	gn	0	0
+oguatávo	gn	0	0
+Junta	ne	b-org	0
+Municipal	ne	i-org	0
+rovái	gn	0	0
+upéicha	gn	0	0
+kuehe	gn	0	0
+ambue	gn	0	0
+omotenondéma	gn	0	0
+voi	gn	0	0
+aty	gn	0	0
+guasu	gn	0	0
+ombotovéva	gn	0	0
+ejecutivo	es	0	0
+municipal	es	0	0
+rembiapo	gn	0	0
+ha	gn	0	0
+gestión	es	0	0
+MOPC-pe	ne	b-org	0
+ha'év	gn	0	0
+ape	gn	0	0
+oîva	gn	0	0
+responsable	es	0	0
+ko	gn	0	0
+proyecto	es	0	0
+ejecutivo	es	0	0
+metrobús	es	0	0
+,	other	0	0
+ohupytývo	gn	0	0
+media	es	0	0
+calzada	es	0	0
+,	other	0	0
+lado	es	0	0
+sur	es	0	0
+,	other	0	0
+ruta	ne	b-loc	0
+Mariscal	ne	i-loc	0
+Estigarribia	ne	i-loc	0
+ome'êva	gn	0	0
+ymaite	gn	0	0
+guive	gn	0	0
+diciembre	es	0	0
+oúva	gn	0	0
+peve	gn	0	0
+.	other	0	0
+
+#dev178: Policía omboguatáma sumario ojehúvape ha oñeme'ê Ministerio Público .
+Policía	es	0	0
+omboguatáma	gn	0	0
+sumario	es	0	0
+ojehúvape	gn	0	0
+ha	gn	0	0
+oñeme'ê	gn	0	0
+Ministerio	ne	b-org	0
+Público	ne	i-org	0
+.	other	0	0
+
+#dev179: “ Oha'ãrõva hikuái ko tendápe , oimehápe seis kilómetros centro comunidad , oiporúva mbohupa ovy'a ha oguata haguã , péicha avei oikuaávo mba'éicha ha araka'épa heñói ko distrito ” , he'i intendente Gil Amarilla ( ANR)-gua .
+“	other	0	0
+Oha'ãrõva	gn	0	0
+hikuái	gn	0	0
+ko	gn	0	0
+tendápe	gn	0	0
+,	other	0	0
+oimehápe	gn	0	0
+seis	es	0	0
+kilómetros	es	0	0
+centro	es	0	0
+comunidad	es	0	0
+,	other	0	0
+oiporúva	gn	0	0
+mbohupa	gn	0	0
+ovy'a	gn	0	0
+ha	gn	0	0
+oguata	gn	0	0
+haguã	gn	0	0
+,	other	0	0
+péicha	gn	0	0
+avei	gn	0	0
+oikuaávo	gn	0	0
+mba'éicha	gn	0	0
+ha	gn	0	0
+araka'épa	gn	0	0
+heñói	gn	0	0
+ko	gn	0	0
+distrito	es	0	0
+”	other	0	0
+,	other	0	0
+he'i	gn	0	0
+intendente	es	0	0
+Gil	ne	b-per	0
+Amarilla	ne	i-per	0
+(	other	0	0
+ANR)-gua	ne	b-org	0
+.	other	0	0
+
+#dev180: Iporaite ko ñe'epoty rehaivaekue Mboehara David . @USER
+Iporaite	gn	0	0
+ko	gn	0	0
+ñe'epoty	gn	0	0
+rehaivaekue	gn	0	0
+Mboehara	gn	0	0
+David	ne	b-per	0
+.	other	0	0
+@USER	ne	b-org	0

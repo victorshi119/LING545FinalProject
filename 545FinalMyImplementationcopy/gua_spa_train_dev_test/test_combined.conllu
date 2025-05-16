@@ -1,0 +1,3216 @@
+#test1: Igusto ñañe'ẽ guaranime ha avei japurahéi umi polka ha guarania
+Igusto	_	_	_
+ñañe'ẽ	_	_	_
+guaranime	_	_	_
+ha	_	_	_
+avei	_	_	_
+japurahéi	_	_	_
+umi	_	_	_
+polka	_	_	_
+ha	_	_	_
+guarania	_	_	_
+
+#test2: @USER Buenas buenas mbaeichapa nde ko'ē kuña guapa feliz sábado para ti Melly vaaaaamoooos queeeeeee fuerza
+@USER	_	_	_
+Buenas	_	_	_
+buenas	_	_	_
+mbaeichapa	_	_	_
+nde	_	_	_
+ko'ē	_	_	_
+kuña	_	_	_
+guapa	_	_	_
+feliz	_	_	_
+sábado	_	_	_
+para	_	_	_
+ti	_	_	_
+Melly	_	_	_
+vaaaaamoooos	_	_	_
+queeeeeee	_	_	_
+fuerza	_	_	_
+
+#test3: Idioma-Guarani : LA ESPIRITUALIDAD Y LA COSMOVISIÓN DEL MUNDO GUARA ... URL
+Idioma-Guarani	_	_	_
+:	_	_	_
+LA	_	_	_
+ESPIRITUALIDAD	_	_	_
+Y	_	_	_
+LA	_	_	_
+COSMOVISIÓN	_	_	_
+DEL	_	_	_
+MUNDO	_	_	_
+GUARA	_	_	_
+...	_	_	_
+URL	_	_	_
+
+#test4: Upévare ojapo ko atropello al Estado de Derecho , ha péva peteî acuerdo político “ Ndikatúi ningo ley omopyenda reglamentación oîva Constitución Nacional-pe .
+Upévare	_	_	_
+ojapo	_	_	_
+ko	_	_	_
+atropello	_	_	_
+al	_	_	_
+Estado	_	_	_
+de	_	_	_
+Derecho	_	_	_
+,	_	_	_
+ha	_	_	_
+péva	_	_	_
+peteî	_	_	_
+acuerdo	_	_	_
+político	_	_	_
+“	_	_	_
+Ndikatúi	_	_	_
+ningo	_	_	_
+ley	_	_	_
+omopyenda	_	_	_
+reglamentación	_	_	_
+oîva	_	_	_
+Constitución	_	_	_
+Nacional-pe	_	_	_
+.	_	_	_
+
+#test5: “ Ndikatúiva omonéî asesores jurídicos Itaipu ýrõ Yasyretã millonario salario ohekáva opytávo viru pueblo odestináva salud , educación ha desarrollo de las comunidades ” , omoañete .
+“	_	_	_
+Ndikatúiva	_	_	_
+omonéî	_	_	_
+asesores	_	_	_
+jurídicos	_	_	_
+Itaipu	_	_	_
+ýrõ	_	_	_
+Yasyretã	_	_	_
+millonario	_	_	_
+salario	_	_	_
+ohekáva	_	_	_
+opytávo	_	_	_
+viru	_	_	_
+pueblo	_	_	_
+odestináva	_	_	_
+salud	_	_	_
+,	_	_	_
+educación	_	_	_
+ha	_	_	_
+desarrollo	_	_	_
+de	_	_	_
+las	_	_	_
+comunidades	_	_	_
+”	_	_	_
+,	_	_	_
+omoañete	_	_	_
+.	_	_	_
+
+#test6: Noimei planeado pe reubicación ” , he'i Gladys Mancuello , comerciante Fernando de la Mora .
+Noimei	_	_	_
+planeado	_	_	_
+pe	_	_	_
+reubicación	_	_	_
+”	_	_	_
+,	_	_	_
+he'i	_	_	_
+Gladys	_	_	_
+Mancuello	_	_	_
+,	_	_	_
+comerciante	_	_	_
+Fernando	_	_	_
+de	_	_	_
+la	_	_	_
+Mora	_	_	_
+.	_	_	_
+
+#test7: Oime conductor omoañetévo nativo okobra “ peaje ” ohasávo hikuái .
+Oime	_	_	_
+conductor	_	_	_
+omoañetévo	_	_	_
+nativo	_	_	_
+okobra	_	_	_
+“	_	_	_
+peaje	_	_	_
+”	_	_	_
+ohasávo	_	_	_
+hikuái	_	_	_
+.	_	_	_
+
+#test8: Ko programa ohupyty 916 temimbo’épe ko’ã mbo’ehaópe tendáre .
+Ko	_	_	_
+programa	_	_	_
+ohupyty	_	_	_
+916	_	_	_
+temimbo’épe	_	_	_
+ko’ã	_	_	_
+mbo’ehaópe	_	_	_
+tendáre	_	_	_
+.	_	_	_
+
+#test9: @USER El verdadero la Tavy nda Nde jukai pero Nde reko asy
+@USER	_	_	_
+El	_	_	_
+verdadero	_	_	_
+la	_	_	_
+Tavy	_	_	_
+nda	_	_	_
+Nde	_	_	_
+jukai	_	_	_
+pero	_	_	_
+Nde	_	_	_
+reko	_	_	_
+asy	_	_	_
+
+#test10: Oî ko hova´atâva ko´arupi ... ambopororóta hina umi hovakuera tovajepetepe ! peha´arônteke sapy´aitemi #ñaaaa
+Oî	_	_	_
+ko	_	_	_
+hova´atâva	_	_	_
+ko´arupi	_	_	_
+...	_	_	_
+ambopororóta	_	_	_
+hina	_	_	_
+umi	_	_	_
+hovakuera	_	_	_
+tovajepetepe	_	_	_
+!	_	_	_
+peha´arônteke	_	_	_
+sapy´aitemi	_	_	_
+#ñaaaa	_	_	_
+
+#test11: @USER Ekambuna hese nde tuja'i
+@USER	_	_	_
+Ekambuna	_	_	_
+hese	_	_	_
+nde	_	_	_
+tuja'i	_	_	_
+
+#test12: Ha ha'e ohendu jave ko'ã , oñemo'i mbyasy eterei , ypyrehe ha'e ha'éva'ekue poky eterei . Lucas 0.765972222222222
+Ha	_	_	_
+ha'e	_	_	_
+ohendu	_	_	_
+jave	_	_	_
+ko'ã	_	_	_
+,	_	_	_
+oñemo'i	_	_	_
+mbyasy	_	_	_
+eterei	_	_	_
+,	_	_	_
+ypyrehe	_	_	_
+ha'e	_	_	_
+ha'éva'ekue	_	_	_
+poky	_	_	_
+eterei	_	_	_
+.	_	_	_
+Lucas	_	_	_
+0.765972222222222	_	_	_
+
+#test13: Tribunal Electoral Pilar-gua omoherakuã concejal pyahu departamental , ojeporavóva comicios generales ha departamental 22 de abril ohasava'ekuépe .
+Tribunal	_	_	_
+Electoral	_	_	_
+Pilar-gua	_	_	_
+omoherakuã	_	_	_
+concejal	_	_	_
+pyahu	_	_	_
+departamental	_	_	_
+,	_	_	_
+ojeporavóva	_	_	_
+comicios	_	_	_
+generales	_	_	_
+ha	_	_	_
+departamental	_	_	_
+22	_	_	_
+de	_	_	_
+abril	_	_	_
+ohasava'ekuépe	_	_	_
+.	_	_	_
+
+#test14: Upéicha avei oñeme'ê chupe heta ambue jehechakuaa ha pyti'ajegua , Inglaterra ha heta ambue tetâme .
+Upéicha	_	_	_
+avei	_	_	_
+oñeme'ê	_	_	_
+chupe	_	_	_
+heta	_	_	_
+ambue	_	_	_
+jehechakuaa	_	_	_
+ha	_	_	_
+pyti'ajegua	_	_	_
+,	_	_	_
+Inglaterra	_	_	_
+ha	_	_	_
+heta	_	_	_
+ambue	_	_	_
+tetâme	_	_	_
+.	_	_	_
+
+#test15: Temimbo'e oikuaa mba'éichapa oiporuva'erã ipirapire
+Temimbo'e	_	_	_
+oikuaa	_	_	_
+mba'éichapa	_	_	_
+oiporuva'erã	_	_	_
+ipirapire	_	_	_
+
+#test16: @USER q mufa son uds !! Tyeraku ! Para la albirro Q vuelva claro y el gordo sanchez ! Y en Cerro Personal ! Aplazados en servicios tb !!
+@USER	_	_	_
+q	_	_	_
+mufa	_	_	_
+son	_	_	_
+uds	_	_	_
+!!	_	_	_
+Tyeraku	_	_	_
+!	_	_	_
+Para	_	_	_
+la	_	_	_
+albirro	_	_	_
+Q	_	_	_
+vuelva	_	_	_
+claro	_	_	_
+y	_	_	_
+el	_	_	_
+gordo	_	_	_
+sanchez	_	_	_
+!	_	_	_
+Y	_	_	_
+en	_	_	_
+Cerro	_	_	_
+Personal	_	_	_
+!	_	_	_
+Aplazados	_	_	_
+en	_	_	_
+servicios	_	_	_
+tb	_	_	_
+!!	_	_	_
+
+#test17: @USER va funcionar pio la señal !!!!!!!
+@USER	_	_	_
+va	_	_	_
+funcionar	_	_	_
+pio	_	_	_
+la	_	_	_
+señal	_	_	_
+!!!!!!!	_	_	_
+
+#test18: Mbo'ehára Elva he'i ary 2009 jave intendente Saturnino Bogado ome'ê ichupe ha ikypy'ýpe orden de ocupación mokõi terreno , peteî hérape ha ambue ambuépe .
+Mbo'ehára	_	_	_
+Elva	_	_	_
+he'i	_	_	_
+ary	_	_	_
+2009	_	_	_
+jave	_	_	_
+intendente	_	_	_
+Saturnino	_	_	_
+Bogado	_	_	_
+ome'ê	_	_	_
+ichupe	_	_	_
+ha	_	_	_
+ikypy'ýpe	_	_	_
+orden	_	_	_
+de	_	_	_
+ocupación	_	_	_
+mokõi	_	_	_
+terreno	_	_	_
+,	_	_	_
+peteî	_	_	_
+hérape	_	_	_
+ha	_	_	_
+ambue	_	_	_
+ambuépe	_	_	_
+.	_	_	_
+
+#test19: @USER Ani nde pochy Ivan 🤣🤣🤣🤣 En serio va sin mala onda jajaja
+@USER	_	_	_
+Ani	_	_	_
+nde	_	_	_
+pochy	_	_	_
+Ivan	_	_	_
+🤣🤣🤣🤣	_	_	_
+En	_	_	_
+serio	_	_	_
+va	_	_	_
+sin	_	_	_
+mala	_	_	_
+onda	_	_	_
+jajaja	_	_	_
+
+#test20: Omoañete haihára , mbo'ehára ojevela salón Memorial avenida Mariscal López ha oñeñotýta táva Villarrica-pe .
+Omoañete	_	_	_
+haihára	_	_	_
+,	_	_	_
+mbo'ehára	_	_	_
+ojevela	_	_	_
+salón	_	_	_
+Memorial	_	_	_
+avenida	_	_	_
+Mariscal	_	_	_
+López	_	_	_
+ha	_	_	_
+oñeñotýta	_	_	_
+táva	_	_	_
+Villarrica-pe	_	_	_
+.	_	_	_
+
+#test21: @USER Nde yeuma pico , anda jugar free mbae
+@USER	_	_	_
+Nde	_	_	_
+yeuma	_	_	_
+pico	_	_	_
+,	_	_	_
+anda	_	_	_
+jugar	_	_	_
+free	_	_	_
+mbae	_	_	_
+
+#test22: LEONARDO LEDESMA HE'I PETEÎ ÑE'ÊPOTY : URL vía @USER
+LEONARDO	_	_	_
+LEDESMA	_	_	_
+HE'I	_	_	_
+PETEÎ	_	_	_
+ÑE'ÊPOTY	_	_	_
+:	_	_	_
+URL	_	_	_
+vía	_	_	_
+@USER	_	_	_
+
+#test23: Ha'éva Mitâmi Hesu
+Ha'éva	_	_	_
+Mitâmi	_	_	_
+Hesu	_	_	_
+
+#test24: @USER que logro " cuenta verificada " para festejar regalen saldo mba'e
+@USER	_	_	_
+que	_	_	_
+logro	_	_	_
+"	_	_	_
+cuenta	_	_	_
+verificada	_	_	_
+"	_	_	_
+para	_	_	_
+festejar	_	_	_
+regalen	_	_	_
+saldo	_	_	_
+mba'e	_	_	_
+
+#test25: @USER Omarcha upea , che ko'e ave.i , quiero un puesto en Itaipú hendy ape tobatime , mbae eremi la puesto mi itaipupe
+@USER	_	_	_
+Omarcha	_	_	_
+upea	_	_	_
+,	_	_	_
+che	_	_	_
+ko'e	_	_	_
+ave.i	_	_	_
+,	_	_	_
+quiero	_	_	_
+un	_	_	_
+puesto	_	_	_
+en	_	_	_
+Itaipú	_	_	_
+hendy	_	_	_
+ape	_	_	_
+tobatime	_	_	_
+,	_	_	_
+mbae	_	_	_
+eremi	_	_	_
+la	_	_	_
+puesto	_	_	_
+mi	_	_	_
+itaipupe	_	_	_
+
+#test26: Ñañe'êmiena la avañe'ême ( ? JAAALAAA
+Ñañe'êmiena	_	_	_
+la	_	_	_
+avañe'ême	_	_	_
+(	_	_	_
+?	_	_	_
+JAAALAAA	_	_	_
+
+#test27: 8 de marzo , Diputado omonéî uso obligatorio pulsera electrónica umi kuimba'e denunciado oinupãva ipareja o expareja , ohapejokóvo feminicidio .
+8	_	_	_
+de	_	_	_
+marzo	_	_	_
+,	_	_	_
+Diputado	_	_	_
+omonéî	_	_	_
+uso	_	_	_
+obligatorio	_	_	_
+pulsera	_	_	_
+electrónica	_	_	_
+umi	_	_	_
+kuimba'e	_	_	_
+denunciado	_	_	_
+oinupãva	_	_	_
+ipareja	_	_	_
+o	_	_	_
+expareja	_	_	_
+,	_	_	_
+ohapejokóvo	_	_	_
+feminicidio	_	_	_
+.	_	_	_
+
+#test28: Ko estructura Central Hidroeléctrica Yasyretã- ombohape 24 jasypoapy jave 2019 – oiporúva 33,576 oñembotývo jasypateî jave ojekuaa reporte rupive EBY .
+Ko	_	_	_
+estructura	_	_	_
+Central	_	_	_
+Hidroeléctrica	_	_	_
+Yasyretã-	_	_	_
+ombohape	_	_	_
+24	_	_	_
+jasypoapy	_	_	_
+jave	_	_	_
+2019	_	_	_
+–	_	_	_
+oiporúva	_	_	_
+33,576	_	_	_
+oñembotývo	_	_	_
+jasypateî	_	_	_
+jave	_	_	_
+ojekuaa	_	_	_
+reporte	_	_	_
+rupive	_	_	_
+EBY	_	_	_
+.	_	_	_
+
+#test29: Péicha oime umi asistente funcionario capacitado , orekóva insumo de bioseguridad pertinente .
+Péicha	_	_	_
+oime	_	_	_
+umi	_	_	_
+asistente	_	_	_
+funcionario	_	_	_
+capacitado	_	_	_
+,	_	_	_
+orekóva	_	_	_
+insumo	_	_	_
+de	_	_	_
+bioseguridad	_	_	_
+pertinente	_	_	_
+.	_	_	_
+
+#test30: CON EDILBERTO VARGAS EN PURAHÉI RORY POR RADIO CÁRITAS URL
+CON	_	_	_
+EDILBERTO	_	_	_
+VARGAS	_	_	_
+EN	_	_	_
+PURAHÉI	_	_	_
+RORY	_	_	_
+POR	_	_	_
+RADIO	_	_	_
+CÁRITAS	_	_	_
+URL	_	_	_
+
+#test31: Peteî akâ osê he'i “ So'o ” ha ambuéva avei he'i “ So'o ” .
+Peteî	_	_	_
+akâ	_	_	_
+osê	_	_	_
+he'i	_	_	_
+“	_	_	_
+So'o	_	_	_
+”	_	_	_
+ha	_	_	_
+ambuéva	_	_	_
+avei	_	_	_
+he'i	_	_	_
+“	_	_	_
+So'o	_	_	_
+”	_	_	_
+.	_	_	_
+
+#test32: Imandu'a orekóva mercadería Aduana-pe , péva chequeo ha intervención oikóva , oha'ãrõva oguahëvo a destino .
+Imandu'a	_	_	_
+orekóva	_	_	_
+mercadería	_	_	_
+Aduana-pe	_	_	_
+,	_	_	_
+péva	_	_	_
+chequeo	_	_	_
+ha	_	_	_
+intervención	_	_	_
+oikóva	_	_	_
+,	_	_	_
+oha'ãrõva	_	_	_
+oguahëvo	_	_	_
+a	_	_	_
+destino	_	_	_
+.	_	_	_
+
+#test33: Omyesakã día lunes oikóva omoañete ko'ã representante coalición oîva okaháre .
+Omyesakã	_	_	_
+día	_	_	_
+lunes	_	_	_
+oikóva	_	_	_
+omoañete	_	_	_
+ko'ã	_	_	_
+representante	_	_	_
+coalición	_	_	_
+oîva	_	_	_
+okaháre	_	_	_
+.	_	_	_
+
+#test34: Te preocupas en ganar plata nomás hei jajaajajja y de amor co no se vive nde itavya
+Te	_	_	_
+preocupas	_	_	_
+en	_	_	_
+ganar	_	_	_
+plata	_	_	_
+nomás	_	_	_
+hei	_	_	_
+jajaajajja	_	_	_
+y	_	_	_
+de	_	_	_
+amor	_	_	_
+co	_	_	_
+no	_	_	_
+se	_	_	_
+vive	_	_	_
+nde	_	_	_
+itavya	_	_	_
+
+#test35: Municipalidad ombotove Contraloría he’íva imandúpe
+Municipalidad	_	_	_
+ombotove	_	_	_
+Contraloría	_	_	_
+he’íva	_	_	_
+imandúpe	_	_	_
+
+#test36: Propuesta orekova deuda pyahu Itaipúpe , ko’ágã de manera informal , oipyhýva Gobierno Mario Abdo Benítez oiméva plan de acción ombohováivo consecuencia crisis económica oipyhýva pandemia .
+Propuesta	_	_	_
+orekova	_	_	_
+deuda	_	_	_
+pyahu	_	_	_
+Itaipúpe	_	_	_
+,	_	_	_
+ko’ágã	_	_	_
+de	_	_	_
+manera	_	_	_
+informal	_	_	_
+,	_	_	_
+oipyhýva	_	_	_
+Gobierno	_	_	_
+Mario	_	_	_
+Abdo	_	_	_
+Benítez	_	_	_
+oiméva	_	_	_
+plan	_	_	_
+de	_	_	_
+acción	_	_	_
+ombohováivo	_	_	_
+consecuencia	_	_	_
+crisis	_	_	_
+económica	_	_	_
+oipyhýva	_	_	_
+pandemia	_	_	_
+.	_	_	_
+
+#test37: @USER haces bien una porqueria es el ñembo hd de @USER
+@USER	_	_	_
+haces	_	_	_
+bien	_	_	_
+una	_	_	_
+porqueria	_	_	_
+es	_	_	_
+el	_	_	_
+ñembo	_	_	_
+hd	_	_	_
+de	_	_	_
+@USER	_	_	_
+
+#test38: Son unos inutiles de 1ra @USER hee ? ... En un sábado bastante kaigue me dejan sin Internet y Cable TV .
+Son	_	_	_
+unos	_	_	_
+inutiles	_	_	_
+de	_	_	_
+1ra	_	_	_
+@USER	_	_	_
+hee	_	_	_
+?	_	_	_
+...	_	_	_
+En	_	_	_
+un	_	_	_
+sábado	_	_	_
+bastante	_	_	_
+kaigue	_	_	_
+me	_	_	_
+dejan	_	_	_
+sin	_	_	_
+Internet	_	_	_
+y	_	_	_
+Cable	_	_	_
+TV	_	_	_
+.	_	_	_
+
+#test39: Así que amigos , desde hoy por favor todos háblenme en guaraní pls . Háke , peñe'emi chéve guaraníme plz .
+Así	_	_	_
+que	_	_	_
+amigos	_	_	_
+,	_	_	_
+desde	_	_	_
+hoy	_	_	_
+por	_	_	_
+favor	_	_	_
+todos	_	_	_
+háblenme	_	_	_
+en	_	_	_
+guaraní	_	_	_
+pls	_	_	_
+.	_	_	_
+Háke	_	_	_
+,	_	_	_
+peñe'emi	_	_	_
+chéve	_	_	_
+guaraníme	_	_	_
+plz	_	_	_
+.	_	_	_
+
+#test40: Nderakore , aparte de ser el cuerno nde pesada jey
+Nderakore	_	_	_
+,	_	_	_
+aparte	_	_	_
+de	_	_	_
+ser	_	_	_
+el	_	_	_
+cuerno	_	_	_
+nde	_	_	_
+pesada	_	_	_
+jey	_	_	_
+
+#test41: @USER : Usuarios de Tigo , no es gua'u cierto esto . Cc : @USER URL @USER
+@USER	_	_	_
+:	_	_	_
+Usuarios	_	_	_
+de	_	_	_
+Tigo	_	_	_
+,	_	_	_
+no	_	_	_
+es	_	_	_
+gua'u	_	_	_
+cierto	_	_	_
+esto	_	_	_
+.	_	_	_
+Cc	_	_	_
+:	_	_	_
+@USER	_	_	_
+URL	_	_	_
+@USER	_	_	_
+
+#test42: @USER ustedes me van a matar cheraa
+@USER	_	_	_
+ustedes	_	_	_
+me	_	_	_
+van	_	_	_
+a	_	_	_
+matar	_	_	_
+cheraa	_	_	_
+
+#test43: Oî luto-pe hikuái Asociación de Músicos del Paraguay .
+Oî	_	_	_
+luto-pe	_	_	_
+hikuái	_	_	_
+Asociación	_	_	_
+de	_	_	_
+Músicos	_	_	_
+del	_	_	_
+Paraguay	_	_	_
+.	_	_	_
+
+#test44: Umi organización Juventud en Contramano omotenonde hikuái sentata calle Oliva ári , oikéva protesta disposición Poder Ejecutivo orekóva ko arangépe .
+Umi	_	_	_
+organización	_	_	_
+Juventud	_	_	_
+en	_	_	_
+Contramano	_	_	_
+omotenonde	_	_	_
+hikuái	_	_	_
+sentata	_	_	_
+calle	_	_	_
+Oliva	_	_	_
+ári	_	_	_
+,	_	_	_
+oikéva	_	_	_
+protesta	_	_	_
+disposición	_	_	_
+Poder	_	_	_
+Ejecutivo	_	_	_
+orekóva	_	_	_
+ko	_	_	_
+arangépe	_	_	_
+.	_	_	_
+
+#test45: @USER Marco prieto no es nuestro jugador nde ? Jaja qué hacía la propaganda de Yak
+@USER	_	_	_
+Marco	_	_	_
+prieto	_	_	_
+no	_	_	_
+es	_	_	_
+nuestro	_	_	_
+jugador	_	_	_
+nde	_	_	_
+?	_	_	_
+Jaja	_	_	_
+qué	_	_	_
+hacía	_	_	_
+la	_	_	_
+propaganda	_	_	_
+de	_	_	_
+Yak	_	_	_
+
+#test46: Ambue hovápe oguereko mokôi korasô Hesu ha María mba'e , tai M , ojuasáva peteî kurusúre ha 12 mbyjáre ñanemomandu'áva umi 12 Hesu Remimondóre .
+Ambue	_	_	_
+hovápe	_	_	_
+oguereko	_	_	_
+mokôi	_	_	_
+korasô	_	_	_
+Hesu	_	_	_
+ha	_	_	_
+María	_	_	_
+mba'e	_	_	_
+,	_	_	_
+tai	_	_	_
+M	_	_	_
+,	_	_	_
+ojuasáva	_	_	_
+peteî	_	_	_
+kurusúre	_	_	_
+ha	_	_	_
+12	_	_	_
+mbyjáre	_	_	_
+ñanemomandu'áva	_	_	_
+umi	_	_	_
+12	_	_	_
+Hesu	_	_	_
+Remimondóre	_	_	_
+.	_	_	_
+
+#test47: @USER tigo mundaha
+@USER	_	_	_
+tigo	_	_	_
+mundaha	_	_	_
+
+#test48: “ Embajada del Paraguay oiméva Israel-pe ko pyhareve omoañete Cancillería Nacional ko'ágã Ministerio de Relaciones Exteriores Israelí ary oikévape oiketáha Paraguái upe convocatoria de becas umi profesionales , ha'eháicha ambue ary oikohaguéicha ” , he'i comunicado osêva ko cartera estatal-gui , orekphápe decisión oipyhýva umi autoridades israelíes .
+“	_	_	_
+Embajada	_	_	_
+del	_	_	_
+Paraguay	_	_	_
+oiméva	_	_	_
+Israel-pe	_	_	_
+ko	_	_	_
+pyhareve	_	_	_
+omoañete	_	_	_
+Cancillería	_	_	_
+Nacional	_	_	_
+ko'ágã	_	_	_
+Ministerio	_	_	_
+de	_	_	_
+Relaciones	_	_	_
+Exteriores	_	_	_
+Israelí	_	_	_
+ary	_	_	_
+oikévape	_	_	_
+oiketáha	_	_	_
+Paraguái	_	_	_
+upe	_	_	_
+convocatoria	_	_	_
+de	_	_	_
+becas	_	_	_
+umi	_	_	_
+profesionales	_	_	_
+,	_	_	_
+ha'eháicha	_	_	_
+ambue	_	_	_
+ary	_	_	_
+oikohaguéicha	_	_	_
+”	_	_	_
+,	_	_	_
+he'i	_	_	_
+comunicado	_	_	_
+osêva	_	_	_
+ko	_	_	_
+cartera	_	_	_
+estatal-gui	_	_	_
+,	_	_	_
+orekphápe	_	_	_
+decisión	_	_	_
+oipyhýva	_	_	_
+umi	_	_	_
+autoridades	_	_	_
+israelíes	_	_	_
+.	_	_	_
+
+#test49: Ajerúre ichupe peteî copia umi antecedente comunicaciones espontánea orekóva Ministerio Público tetã Paraguái ykére oîvagui , noñeme’êi chéve upe copia , ha che jurujái apytávo , ka’aru aikuaávo oñeallana che róga , oheka hikuái peteî supuesto bolígrafo ” , omoañete Volpe ABC Cardinal-pe upe procedimiento oñemotenondéva hógape .
+Ajerúre	_	_	_
+ichupe	_	_	_
+peteî	_	_	_
+copia	_	_	_
+umi	_	_	_
+antecedente	_	_	_
+comunicaciones	_	_	_
+espontánea	_	_	_
+orekóva	_	_	_
+Ministerio	_	_	_
+Público	_	_	_
+tetã	_	_	_
+Paraguái	_	_	_
+ykére	_	_	_
+oîvagui	_	_	_
+,	_	_	_
+noñeme’êi	_	_	_
+chéve	_	_	_
+upe	_	_	_
+copia	_	_	_
+,	_	_	_
+ha	_	_	_
+che	_	_	_
+jurujái	_	_	_
+apytávo	_	_	_
+,	_	_	_
+ka’aru	_	_	_
+aikuaávo	_	_	_
+oñeallana	_	_	_
+che	_	_	_
+róga	_	_	_
+,	_	_	_
+oheka	_	_	_
+hikuái	_	_	_
+peteî	_	_	_
+supuesto	_	_	_
+bolígrafo	_	_	_
+”	_	_	_
+,	_	_	_
+omoañete	_	_	_
+Volpe	_	_	_
+ABC	_	_	_
+Cardinal-pe	_	_	_
+upe	_	_	_
+procedimiento	_	_	_
+oñemotenondéva	_	_	_
+hógape	_	_	_
+.	_	_	_
+
+#test50: Mis amigos : Eguata porãke ani nde sy nde pilla eka'uha Yo : URL
+Mis	_	_	_
+amigos	_	_	_
+:	_	_	_
+Eguata	_	_	_
+porãke	_	_	_
+ani	_	_	_
+nde	_	_	_
+sy	_	_	_
+nde	_	_	_
+pilla	_	_	_
+eka'uha	_	_	_
+Yo	_	_	_
+:	_	_	_
+URL	_	_	_
+
+#test51: Omoherakuã novedad candidatura Ulises Quintana
+Omoherakuã	_	_	_
+novedad	_	_	_
+candidatura	_	_	_
+Ulises	_	_	_
+Quintana	_	_	_
+
+#test52: Sanmiguelino apesâ chemoirû kopyhareve , ko'emboyve . Peipirû jahapa hagua Festival Ovecharaguepe ..
+Sanmiguelino	_	_	_
+apesâ	_	_	_
+chemoirû	_	_	_
+kopyhareve	_	_	_
+,	_	_	_
+ko'emboyve	_	_	_
+.	_	_	_
+Peipirû	_	_	_
+jahapa	_	_	_
+hagua	_	_	_
+Festival	_	_	_
+Ovecharaguepe	_	_	_
+..	_	_	_
+
+#test53: Oime umi mba'e oikotevêva Gobierno orekóva memoria colectiva oitýva tukumbo ombotovévo tesaráipe .
+Oime	_	_	_
+umi	_	_	_
+mba'e	_	_	_
+oikotevêva	_	_	_
+Gobierno	_	_	_
+orekóva	_	_	_
+memoria	_	_	_
+colectiva	_	_	_
+oitýva	_	_	_
+tukumbo	_	_	_
+ombotovévo	_	_	_
+tesaráipe	_	_	_
+.	_	_	_
+
+#test54: PÑS OMOMBA’EGUASU EMPRESA PROYACK OGUENOHẼRE AO IMARANDU GUARANÍVA URL
+PÑS	_	_	_
+OMOMBA’EGUASU	_	_	_
+EMPRESA	_	_	_
+PROYACK	_	_	_
+OGUENOHẼRE	_	_	_
+AO	_	_	_
+IMARANDU	_	_	_
+GUARANÍVA	_	_	_
+URL	_	_	_
+
+#test55: Oguerovia hikuái ko situación oñenormalisa ára ouvape .
+Oguerovia	_	_	_
+hikuái	_	_	_
+ko	_	_	_
+situación	_	_	_
+oñenormalisa	_	_	_
+ára	_	_	_
+ouvape	_	_	_
+.	_	_	_
+
+#test56: @USER No puede ser que nunca escucharon la expresión : " nde mba'e rakamby abierto , kavaju calesita calesita " .
+@USER	_	_	_
+No	_	_	_
+puede	_	_	_
+ser	_	_	_
+que	_	_	_
+nunca	_	_	_
+escucharon	_	_	_
+la	_	_	_
+expresión	_	_	_
+:	_	_	_
+"	_	_	_
+nde	_	_	_
+mba'e	_	_	_
+rakamby	_	_	_
+abierto	_	_	_
+,	_	_	_
+kavaju	_	_	_
+calesita	_	_	_
+calesita	_	_	_
+"	_	_	_
+.	_	_	_
+
+#test57: Ko'ã parlamentario omboguatáva tendotakuérape , Poder Ejecutivo oñemoîva'erã acuerdo constitucional-pe .
+Ko'ã	_	_	_
+parlamentario	_	_	_
+omboguatáva	_	_	_
+tendotakuérape	_	_	_
+,	_	_	_
+Poder	_	_	_
+Ejecutivo	_	_	_
+oñemoîva'erã	_	_	_
+acuerdo	_	_	_
+constitucional-pe	_	_	_
+.	_	_	_
+
+#test58: @USER Atopa kuña eñe'ea la guaranime hahaha ha'e guaranime añe´e porave ispañolguii
+@USER	_	_	_
+Atopa	_	_	_
+kuña	_	_	_
+eñe'ea	_	_	_
+la	_	_	_
+guaranime	_	_	_
+hahaha	_	_	_
+ha'e	_	_	_
+guaranime	_	_	_
+añe´e	_	_	_
+porave	_	_	_
+ispañolguii	_	_	_
+
+#test59: Oñemoñepyrũ guarani mbo’esyry Hospital Nacional de Itauguá mba’apoharakuéra ndive URL @USER
+Oñemoñepyrũ	_	_	_
+guarani	_	_	_
+mbo’esyry	_	_	_
+Hospital	_	_	_
+Nacional	_	_	_
+de	_	_	_
+Itauguá	_	_	_
+mba’apoharakuéra	_	_	_
+ndive	_	_	_
+URL	_	_	_
+@USER	_	_	_
+
+#test60: Ko grupo , irundyha rupive , oñembyatýva mbohapy jey arapokõindýpe ha oipytyvõva empresa Nutriforma , ojapóva actividad física ha tembiapo social .
+Ko	_	_	_
+grupo	_	_	_
+,	_	_	_
+irundyha	_	_	_
+rupive	_	_	_
+,	_	_	_
+oñembyatýva	_	_	_
+mbohapy	_	_	_
+jey	_	_	_
+arapokõindýpe	_	_	_
+ha	_	_	_
+oipytyvõva	_	_	_
+empresa	_	_	_
+Nutriforma	_	_	_
+,	_	_	_
+ojapóva	_	_	_
+actividad	_	_	_
+física	_	_	_
+ha	_	_	_
+tembiapo	_	_	_
+social	_	_	_
+.	_	_	_
+
+#test61: @USER Seeee amigo oikoite ñande amiga , nde ahata Villa Halles pe hina heta la amiwis x ahi
+@USER	_	_	_
+Seeee	_	_	_
+amigo	_	_	_
+oikoite	_	_	_
+ñande	_	_	_
+amiga	_	_	_
+,	_	_	_
+nde	_	_	_
+ahata	_	_	_
+Villa	_	_	_
+Halles	_	_	_
+pe	_	_	_
+hina	_	_	_
+heta	_	_	_
+la	_	_	_
+amiwis	_	_	_
+x	_	_	_
+ahi	_	_	_
+
+#test62: @USER cada UN METRO tengo y no tengo señal .. Se pueden pio tranquilizar ya !! Se tomaron pio conmigo o que ??!!!!
+@USER	_	_	_
+cada	_	_	_
+UN	_	_	_
+METRO	_	_	_
+tengo	_	_	_
+y	_	_	_
+no	_	_	_
+tengo	_	_	_
+señal	_	_	_
+..	_	_	_
+Se	_	_	_
+pueden	_	_	_
+pio	_	_	_
+tranquilizar	_	_	_
+ya	_	_	_
+!!	_	_	_
+Se	_	_	_
+tomaron	_	_	_
+pio	_	_	_
+conmigo	_	_	_
+o	_	_	_
+que	_	_	_
+??!!!!	_	_	_
+
+#test63: Oikévo altercado , legisladora ohasa severo cuestionamiento iñirûnguéra rehe ha omoañete institución ha'éva peteî cueva de forajido , tenda oikehápe delincuente , ha omohenda iñirûnguéra tavaygua estafador ha upépe oñeikytî señal TV Cámara , ko'ã transmisión sesión parlamentaria jave .
+Oikévo	_	_	_
+altercado	_	_	_
+,	_	_	_
+legisladora	_	_	_
+ohasa	_	_	_
+severo	_	_	_
+cuestionamiento	_	_	_
+iñirûnguéra	_	_	_
+rehe	_	_	_
+ha	_	_	_
+omoañete	_	_	_
+institución	_	_	_
+ha'éva	_	_	_
+peteî	_	_	_
+cueva	_	_	_
+de	_	_	_
+forajido	_	_	_
+,	_	_	_
+tenda	_	_	_
+oikehápe	_	_	_
+delincuente	_	_	_
+,	_	_	_
+ha	_	_	_
+omohenda	_	_	_
+iñirûnguéra	_	_	_
+tavaygua	_	_	_
+estafador	_	_	_
+ha	_	_	_
+upépe	_	_	_
+oñeikytî	_	_	_
+señal	_	_	_
+TV	_	_	_
+Cámara	_	_	_
+,	_	_	_
+ko'ã	_	_	_
+transmisión	_	_	_
+sesión	_	_	_
+parlamentaria	_	_	_
+jave	_	_	_
+.	_	_	_
+
+#test64: Así 🤡🤡 quede después de que le dije a mi papá que era un amigo no más y se me salió un " chengo la anovia ndahaei nde " jajajajajajaja 😂😂😂
+Así	_	_	_
+🤡🤡	_	_	_
+quede	_	_	_
+después	_	_	_
+de	_	_	_
+que	_	_	_
+le	_	_	_
+dije	_	_	_
+a	_	_	_
+mi	_	_	_
+papá	_	_	_
+que	_	_	_
+era	_	_	_
+un	_	_	_
+amigo	_	_	_
+no	_	_	_
+más	_	_	_
+y	_	_	_
+se	_	_	_
+me	_	_	_
+salió	_	_	_
+un	_	_	_
+"	_	_	_
+chengo	_	_	_
+la	_	_	_
+anovia	_	_	_
+ndahaei	_	_	_
+nde	_	_	_
+"	_	_	_
+jajajajajajaja	_	_	_
+😂😂😂	_	_	_
+
+#test65: He’i Tupão noîrî lucha de clases ykére , pero sí ombotove mezquindad ha indolencia rico orekóva .
+He’i	_	_	_
+Tupão	_	_	_
+noîrî	_	_	_
+lucha	_	_	_
+de	_	_	_
+clases	_	_	_
+ykére	_	_	_
+,	_	_	_
+pero	_	_	_
+sí	_	_	_
+ombotove	_	_	_
+mezquindad	_	_	_
+ha	_	_	_
+indolencia	_	_	_
+rico	_	_	_
+orekóva	_	_	_
+.	_	_	_
+
+#test66: Twis en Inglés , árabe , francés , Etc . Etc . Che atwiteata Guaranime mba'e .
+Twis	_	_	_
+en	_	_	_
+Inglés	_	_	_
+,	_	_	_
+árabe	_	_	_
+,	_	_	_
+francés	_	_	_
+,	_	_	_
+Etc	_	_	_
+.	_	_	_
+Etc	_	_	_
+.	_	_	_
+Che	_	_	_
+atwiteata	_	_	_
+Guaranime	_	_	_
+mba'e	_	_	_
+.	_	_	_
+
+#test67: Ajuhu peteî número de teléfono , ha ahenói .
+Ajuhu	_	_	_
+peteî	_	_	_
+número	_	_	_
+de	_	_	_
+teléfono	_	_	_
+,	_	_	_
+ha	_	_	_
+ahenói	_	_	_
+.	_	_	_
+
+#test68: Ha'éniko upe ohecha'ypýraka'e umi tuguy aty ABO ha upévare oñeme'êkuri chupe Jopói Nobel ary 1930-pe .
+Ha'éniko	_	_	_
+upe	_	_	_
+ohecha'ypýraka'e	_	_	_
+umi	_	_	_
+tuguy	_	_	_
+aty	_	_	_
+ABO	_	_	_
+ha	_	_	_
+upévare	_	_	_
+oñeme'êkuri	_	_	_
+chupe	_	_	_
+Jopói	_	_	_
+Nobel	_	_	_
+ary	_	_	_
+1930-pe	_	_	_
+.	_	_	_
+
+#test69: Museo Casa de la Independencia oñeinauguró pyhareve peteî espacio infantil ko'ã mitãnguéra oikuaa haguã umi objeto valioso , siglo XIX guare .
+Museo	_	_	_
+Casa	_	_	_
+de	_	_	_
+la	_	_	_
+Independencia	_	_	_
+oñeinauguró	_	_	_
+pyhareve	_	_	_
+peteî	_	_	_
+espacio	_	_	_
+infantil	_	_	_
+ko'ã	_	_	_
+mitãnguéra	_	_	_
+oikuaa	_	_	_
+haguã	_	_	_
+umi	_	_	_
+objeto	_	_	_
+valioso	_	_	_
+,	_	_	_
+siglo	_	_	_
+XIX	_	_	_
+guare	_	_	_
+.	_	_	_
+
+#test70: Tetã iñapañuãi pypuku apañuãi política , umi tavaygua Jesús-gua imandu’a fundación aniversario
+Tetã	_	_	_
+iñapañuãi	_	_	_
+pypuku	_	_	_
+apañuãi	_	_	_
+política	_	_	_
+,	_	_	_
+umi	_	_	_
+tavaygua	_	_	_
+Jesús-gua	_	_	_
+imandu’a	_	_	_
+fundación	_	_	_
+aniversario	_	_	_
+
+#test71: María Auxiliadora , 120 años tetãme
+María	_	_	_
+Auxiliadora	_	_	_
+,	_	_	_
+120	_	_	_
+años	_	_	_
+tetãme	_	_	_
+
+#test72: Arriéro sin esperanza ĝuaiĝui rumby
+Arriéro	_	_	_
+sin	_	_	_
+esperanza	_	_	_
+ĝuaiĝui	_	_	_
+rumby	_	_	_
+
+#test73: A esas personas que no hablan guaraní porque dicen que es " pelada " , añe'epaiteta guaranime ha ambopy'atarovata chugui .
+A	_	_	_
+esas	_	_	_
+personas	_	_	_
+que	_	_	_
+no	_	_	_
+hablan	_	_	_
+guaraní	_	_	_
+porque	_	_	_
+dicen	_	_	_
+que	_	_	_
+es	_	_	_
+"	_	_	_
+pelada	_	_	_
+"	_	_	_
+,	_	_	_
+añe'epaiteta	_	_	_
+guaranime	_	_	_
+ha	_	_	_
+ambopy'atarovata	_	_	_
+chugui	_	_	_
+.	_	_	_
+
+#test74: Poder Judicial ha Ministerio Público ha’e peteï calamidad ha ndaha’éiva político causa añónte .
+Poder	_	_	_
+Judicial	_	_	_
+ha	_	_	_
+Ministerio	_	_	_
+Público	_	_	_
+ha’e	_	_	_
+peteï	_	_	_
+calamidad	_	_	_
+ha	_	_	_
+ndaha’éiva	_	_	_
+político	_	_	_
+causa	_	_	_
+añónte	_	_	_
+.	_	_	_
+
+#test75: ABC remiandu : OEA ha Unasur ojuavy tuicha URL Vía @USER
+ABC	_	_	_
+remiandu	_	_	_
+:	_	_	_
+OEA	_	_	_
+ha	_	_	_
+Unasur	_	_	_
+ojuavy	_	_	_
+tuicha	_	_	_
+URL	_	_	_
+Vía	_	_	_
+@USER	_	_	_
+
+#test76: Consigna orekóva endeudamiento Itaipúpe , topa oportunidad 2023-pe , ome’êva movilizaciones ciudadana Paraguaýpe ha Hernandarias .
+Consigna	_	_	_
+orekóva	_	_	_
+endeudamiento	_	_	_
+Itaipúpe	_	_	_
+,	_	_	_
+topa	_	_	_
+oportunidad	_	_	_
+2023-pe	_	_	_
+,	_	_	_
+ome’êva	_	_	_
+movilizaciones	_	_	_
+ciudadana	_	_	_
+Paraguaýpe	_	_	_
+ha	_	_	_
+Hernandarias	_	_	_
+.	_	_	_
+
+#test77: Conferencia de prensa ko jueves guive , ministro de Salud , Julio Mazzoleni , omoañete fase mbohapýha “ cuarentena inteligente ” , omoañetéva relajación oimévo etapa orekóva medida restrictiva circulación ha actividad laboral , deportiva ha entretenimiento , ko’ãva , Gobierno ojoko heta mba’e ohapejokóvo pandemia COVID-19 Paraguáipe .
+Conferencia	_	_	_
+de	_	_	_
+prensa	_	_	_
+ko	_	_	_
+jueves	_	_	_
+guive	_	_	_
+,	_	_	_
+ministro	_	_	_
+de	_	_	_
+Salud	_	_	_
+,	_	_	_
+Julio	_	_	_
+Mazzoleni	_	_	_
+,	_	_	_
+omoañete	_	_	_
+fase	_	_	_
+mbohapýha	_	_	_
+“	_	_	_
+cuarentena	_	_	_
+inteligente	_	_	_
+”	_	_	_
+,	_	_	_
+omoañetéva	_	_	_
+relajación	_	_	_
+oimévo	_	_	_
+etapa	_	_	_
+orekóva	_	_	_
+medida	_	_	_
+restrictiva	_	_	_
+circulación	_	_	_
+ha	_	_	_
+actividad	_	_	_
+laboral	_	_	_
+,	_	_	_
+deportiva	_	_	_
+ha	_	_	_
+entretenimiento	_	_	_
+,	_	_	_
+ko’ãva	_	_	_
+,	_	_	_
+Gobierno	_	_	_
+ojoko	_	_	_
+heta	_	_	_
+mba’e	_	_	_
+ohapejokóvo	_	_	_
+pandemia	_	_	_
+COVID-19	_	_	_
+Paraguáipe	_	_	_
+.	_	_	_
+
+#test78: Nde no podre beber por 10 dias hei ..
+Nde	_	_	_
+no	_	_	_
+podre	_	_	_
+beber	_	_	_
+por	_	_	_
+10	_	_	_
+dias	_	_	_
+hei	_	_	_
+..	_	_	_
+
+#test79: Dirección de Meteorología ombopyahu tormenta , omokyre’ÿvo poapy departamento centro , este , noreste región Oriental ha Chaco paraguayo .
+Dirección	_	_	_
+de	_	_	_
+Meteorología	_	_	_
+ombopyahu	_	_	_
+tormenta	_	_	_
+,	_	_	_
+omokyre’ÿvo	_	_	_
+poapy	_	_	_
+departamento	_	_	_
+centro	_	_	_
+,	_	_	_
+este	_	_	_
+,	_	_	_
+noreste	_	_	_
+región	_	_	_
+Oriental	_	_	_
+ha	_	_	_
+Chaco	_	_	_
+paraguayo	_	_	_
+.	_	_	_
+
+#test80: José Gaspar Rodríguez de Francia ” , odestecha yvytu hatã oipejúva , ha ambue táva jerére oï okukúiva óga'imi .
+José	_	_	_
+Gaspar	_	_	_
+Rodríguez	_	_	_
+de	_	_	_
+Francia	_	_	_
+”	_	_	_
+,	_	_	_
+odestecha	_	_	_
+yvytu	_	_	_
+hatã	_	_	_
+oipejúva	_	_	_
+,	_	_	_
+ha	_	_	_
+ambue	_	_	_
+táva	_	_	_
+jerére	_	_	_
+oï	_	_	_
+okukúiva	_	_	_
+óga'imi	_	_	_
+.	_	_	_
+
+#test81: Omyesakã orekóha intención oipytyvõva jeporavo peteî senador Añetete orekóva titular Congreso-gua , upéicha disidencia ojapova'erã lo propio , ome'êvo pytyvõ diputado cartista-pe .
+Omyesakã	_	_	_
+orekóha	_	_	_
+intención	_	_	_
+oipytyvõva	_	_	_
+jeporavo	_	_	_
+peteî	_	_	_
+senador	_	_	_
+Añetete	_	_	_
+orekóva	_	_	_
+titular	_	_	_
+Congreso-gua	_	_	_
+,	_	_	_
+upéicha	_	_	_
+disidencia	_	_	_
+ojapova'erã	_	_	_
+lo	_	_	_
+propio	_	_	_
+,	_	_	_
+ome'êvo	_	_	_
+pytyvõ	_	_	_
+diputado	_	_	_
+cartista-pe	_	_	_
+.	_	_	_
+
+#test82: " Umi ñomongeta ha joaju iktu ome'ê resultado iporãva ha ojehu heta mba'e omoabuéva .
+"	_	_	_
+Umi	_	_	_
+ñomongeta	_	_	_
+ha	_	_	_
+joaju	_	_	_
+iktu	_	_	_
+ome'ê	_	_	_
+resultado	_	_	_
+iporãva	_	_	_
+ha	_	_	_
+ojehu	_	_	_
+heta	_	_	_
+mba'e	_	_	_
+omoabuéva	_	_	_
+.	_	_	_
+
+#test83: Ára 14 jasypoteî ñavô arygua ojegueromandu'a TUGUY ME'ÊHÁRA ÁRA , omoheñoiva'ekue Tesâi Yvoragua Atypavê – OMS ary 2004-pe .
+Ára	_	_	_
+14	_	_	_
+jasypoteî	_	_	_
+ñavô	_	_	_
+arygua	_	_	_
+ojegueromandu'a	_	_	_
+TUGUY	_	_	_
+ME'ÊHÁRA	_	_	_
+ÁRA	_	_	_
+,	_	_	_
+omoheñoiva'ekue	_	_	_
+Tesâi	_	_	_
+Yvoragua	_	_	_
+Atypavê	_	_	_
+–	_	_	_
+OMS	_	_	_
+ary	_	_	_
+2004-pe	_	_	_
+.	_	_	_
+
+#test84: Ha guaranime teikoteero . Pero heta mba’e jajapota oñondivepa
+Ha	_	_	_
+guaranime	_	_	_
+teikoteero	_	_	_
+.	_	_	_
+Pero	_	_	_
+heta	_	_	_
+mba’e	_	_	_
+jajapota	_	_	_
+oñondivepa	_	_	_
+
+#test85: @USER Nda kiririmoai ndeve nde rygue tambor
+@USER	_	_	_
+Nda	_	_	_
+kiririmoai	_	_	_
+ndeve	_	_	_
+nde	_	_	_
+rygue	_	_	_
+tambor	_	_	_
+
+#test86: Añe'ero ndeve guaranime che raihuveta ? @USER :( No entendes guarani ? No ? Bueno :(
+Añe'ero	_	_	_
+ndeve	_	_	_
+guaranime	_	_	_
+che	_	_	_
+raihuveta	_	_	_
+?	_	_	_
+@USER	_	_	_
+:(	_	_	_
+No	_	_	_
+entendes	_	_	_
+guarani	_	_	_
+?	_	_	_
+No	_	_	_
+?	_	_	_
+Bueno	_	_	_
+:(	_	_	_
+
+#test87: @USER añe'eta ndeve guaranime osegui nio cheve petei CHOLO ivaiva rehegua !!! umia KOREKOGUA !!! jajajaja amanose feibu entero che agregapama
+@USER	_	_	_
+añe'eta	_	_	_
+ndeve	_	_	_
+guaranime	_	_	_
+osegui	_	_	_
+nio	_	_	_
+cheve	_	_	_
+petei	_	_	_
+CHOLO	_	_	_
+ivaiva	_	_	_
+rehegua	_	_	_
+!!!	_	_	_
+umia	_	_	_
+KOREKOGUA	_	_	_
+!!!	_	_	_
+jajajaja	_	_	_
+amanose	_	_	_
+feibu	_	_	_
+entero	_	_	_
+che	_	_	_
+agregapama	_	_	_
+
+#test88: Upéi , Tupâsy Maria akâ jerere ojehecha peteî mba'erendy he'ihápe “ Ha , Maria nde reko angaipa'ŷva , oñembo'emína orerehe rojeroviáva nderehe ” .
+Upéi	_	_	_
+,	_	_	_
+Tupâsy	_	_	_
+Maria	_	_	_
+akâ	_	_	_
+jerere	_	_	_
+ojehecha	_	_	_
+peteî	_	_	_
+mba'erendy	_	_	_
+he'ihápe	_	_	_
+“	_	_	_
+Ha	_	_	_
+,	_	_	_
+Maria	_	_	_
+nde	_	_	_
+reko	_	_	_
+angaipa'ŷva	_	_	_
+,	_	_	_
+oñembo'emína	_	_	_
+orerehe	_	_	_
+rojeroviáva	_	_	_
+nderehe	_	_	_
+”	_	_	_
+.	_	_	_
+
+#test89: 29 de setiembre " Batalla de Boquerón " . ¡ Ñamomba'eguasu ñande rapykuere !
+29	_	_	_
+de	_	_	_
+setiembre	_	_	_
+"	_	_	_
+Batalla	_	_	_
+de	_	_	_
+Boquerón	_	_	_
+"	_	_	_
+.	_	_	_
+¡	_	_	_
+Ñamomba'eguasu	_	_	_
+ñande	_	_	_
+rapykuere	_	_	_
+!	_	_	_
+
+#test90: Ombotove propaganda electoral extemporánea
+Ombotove	_	_	_
+propaganda	_	_	_
+electoral	_	_	_
+extemporánea	_	_	_
+
+#test91: Momarandu avei ombohasaha oñepyrûva umi procedimiento penal Sandra McLeod de Zacarías , senador rembireko , avei oime imputada ko hecho punible rehe .
+Momarandu	_	_	_
+avei	_	_	_
+ombohasaha	_	_	_
+oñepyrûva	_	_	_
+umi	_	_	_
+procedimiento	_	_	_
+penal	_	_	_
+Sandra	_	_	_
+McLeod	_	_	_
+de	_	_	_
+Zacarías	_	_	_
+,	_	_	_
+senador	_	_	_
+rembireko	_	_	_
+,	_	_	_
+avei	_	_	_
+oime	_	_	_
+imputada	_	_	_
+ko	_	_	_
+hecho	_	_	_
+punible	_	_	_
+rehe	_	_	_
+.	_	_	_
+
+#test92: @USER Muy buen día Melly mbaeichapa nde koē kuña guapa
+@USER	_	_	_
+Muy	_	_	_
+buen	_	_	_
+día	_	_	_
+Melly	_	_	_
+mbaeichapa	_	_	_
+nde	_	_	_
+koē	_	_	_
+kuña	_	_	_
+guapa	_	_	_
+
+#test93: Ha umi lista oñembohasáva ndaha'éiha .
+Ha	_	_	_
+umi	_	_	_
+lista	_	_	_
+oñembohasáva	_	_	_
+ndaha'éiha	_	_	_
+.	_	_	_
+
+#test94: @USER Yo lo que quiero saber , mbae mbaepio la orekova pe Boselli , ni kururu ningo ndo shutai 🤔🤔
+@USER	_	_	_
+Yo	_	_	_
+lo	_	_	_
+que	_	_	_
+quiero	_	_	_
+saber	_	_	_
+,	_	_	_
+mbae	_	_	_
+mbaepio	_	_	_
+la	_	_	_
+orekova	_	_	_
+pe	_	_	_
+Boselli	_	_	_
+,	_	_	_
+ni	_	_	_
+kururu	_	_	_
+ningo	_	_	_
+ndo	_	_	_
+shutai	_	_	_
+🤔🤔	_	_	_
+
+#test95: EL PAPA FRANCISCO EN PARAGUAY : 10 , 11 Y 12 DE JULIO Oîma ñane retâme , oîma ñande apytépe . Ha'e ohayhu ñane ñe'ê
+EL	_	_	_
+PAPA	_	_	_
+FRANCISCO	_	_	_
+EN	_	_	_
+PARAGUAY	_	_	_
+:	_	_	_
+10	_	_	_
+,	_	_	_
+11	_	_	_
+Y	_	_	_
+12	_	_	_
+DE	_	_	_
+JULIO	_	_	_
+Oîma	_	_	_
+ñane	_	_	_
+retâme	_	_	_
+,	_	_	_
+oîma	_	_	_
+ñande	_	_	_
+apytépe	_	_	_
+.	_	_	_
+Ha'e	_	_	_
+ohayhu	_	_	_
+ñane	_	_	_
+ñe'ê	_	_	_
+
+#test96: Ha upei los Licenciado kuera , pemoi mimi pio ?
+Ha	_	_	_
+upei	_	_	_
+los	_	_	_
+Licenciado	_	_	_
+kuera	_	_	_
+,	_	_	_
+pemoi	_	_	_
+mimi	_	_	_
+pio	_	_	_
+?	_	_	_
+
+#test97: Pya'ete romba'apóta umi centro de rehabilitación mitãrusu ha mitãkuñanguéra oñereinserta ñande sociedad-pe .
+Pya'ete	_	_	_
+romba'apóta	_	_	_
+umi	_	_	_
+centro	_	_	_
+de	_	_	_
+rehabilitación	_	_	_
+mitãrusu	_	_	_
+ha	_	_	_
+mitãkuñanguéra	_	_	_
+oñereinserta	_	_	_
+ñande	_	_	_
+sociedad-pe	_	_	_
+.	_	_	_
+
+#test98: Pomberoicha ivai ha iñaña jey . Orekopaite voi . Si nde vai al menos tenés que ser buena persona y no querer cagarle a otras personas .
+Pomberoicha	_	_	_
+ivai	_	_	_
+ha	_	_	_
+iñaña	_	_	_
+jey	_	_	_
+.	_	_	_
+Orekopaite	_	_	_
+voi	_	_	_
+.	_	_	_
+Si	_	_	_
+nde	_	_	_
+vai	_	_	_
+al	_	_	_
+menos	_	_	_
+tenés	_	_	_
+que	_	_	_
+ser	_	_	_
+buena	_	_	_
+persona	_	_	_
+y	_	_	_
+no	_	_	_
+querer	_	_	_
+cagarle	_	_	_
+a	_	_	_
+otras	_	_	_
+personas	_	_	_
+.	_	_	_
+
+#test99: Arareñóime opa mba'e iñambue
+Arareñóime	_	_	_
+opa	_	_	_
+mba'e	_	_	_
+iñambue	_	_	_
+
+#test100: Ramírez otaky confianza ministro de Educación , Eduardo Petta , orekóva capacidad sistema educativo oipyhýva sistema ojeporúva internet rupive , ko’ápe Ministerio de Educación y Ciencias ( MEC ) omokyre’ÿva plataforma educativa digital .
+Ramírez	_	_	_
+otaky	_	_	_
+confianza	_	_	_
+ministro	_	_	_
+de	_	_	_
+Educación	_	_	_
+,	_	_	_
+Eduardo	_	_	_
+Petta	_	_	_
+,	_	_	_
+orekóva	_	_	_
+capacidad	_	_	_
+sistema	_	_	_
+educativo	_	_	_
+oipyhýva	_	_	_
+sistema	_	_	_
+ojeporúva	_	_	_
+internet	_	_	_
+rupive	_	_	_
+,	_	_	_
+ko’ápe	_	_	_
+Ministerio	_	_	_
+de	_	_	_
+Educación	_	_	_
+y	_	_	_
+Ciencias	_	_	_
+(	_	_	_
+MEC	_	_	_
+)	_	_	_
+omokyre’ÿva	_	_	_
+plataforma	_	_	_
+educativa	_	_	_
+digital	_	_	_
+.	_	_	_
+
+#test101: Ko'ápe ko'ã chokokue ojoaju Ministerio de Agricultura y Ganadería ( MAG ) periodo Horacio Cartes , ome'êva comité agricultores tractores araje-pe guarã ha omokyre'ÿ pulverización ñemitÿ rehe noipytyvõiva ojeporu porã haguã yvy .
+Ko'ápe	_	_	_
+ko'ã	_	_	_
+chokokue	_	_	_
+ojoaju	_	_	_
+Ministerio	_	_	_
+de	_	_	_
+Agricultura	_	_	_
+y	_	_	_
+Ganadería	_	_	_
+(	_	_	_
+MAG	_	_	_
+)	_	_	_
+periodo	_	_	_
+Horacio	_	_	_
+Cartes	_	_	_
+,	_	_	_
+ome'êva	_	_	_
+comité	_	_	_
+agricultores	_	_	_
+tractores	_	_	_
+araje-pe	_	_	_
+guarã	_	_	_
+ha	_	_	_
+omokyre'ÿ	_	_	_
+pulverización	_	_	_
+ñemitÿ	_	_	_
+rehe	_	_	_
+noipytyvõiva	_	_	_
+ojeporu	_	_	_
+porã	_	_	_
+haguã	_	_	_
+yvy	_	_	_
+.	_	_	_
+
+#test102: Péicha umi maranduhára comunitario ogueromandu’a ha omomba’eguasu yvyramáta ha monte intacto kuaandy umi pueblo indígena-kuéra , oimeháme , ojuhúvo hi’upyrã , ohechávo umi pohã salud-pe guarã .
+Péicha	_	_	_
+umi	_	_	_
+maranduhára	_	_	_
+comunitario	_	_	_
+ogueromandu’a	_	_	_
+ha	_	_	_
+omomba’eguasu	_	_	_
+yvyramáta	_	_	_
+ha	_	_	_
+monte	_	_	_
+intacto	_	_	_
+kuaandy	_	_	_
+umi	_	_	_
+pueblo	_	_	_
+indígena-kuéra	_	_	_
+,	_	_	_
+oimeháme	_	_	_
+,	_	_	_
+ojuhúvo	_	_	_
+hi’upyrã	_	_	_
+,	_	_	_
+ohechávo	_	_	_
+umi	_	_	_
+pohã	_	_	_
+salud-pe	_	_	_
+guarã	_	_	_
+.	_	_	_
+
+#test103: Nde mbae jajapota , así es la vida .
+Nde	_	_	_
+mbae	_	_	_
+jajapota	_	_	_
+,	_	_	_
+así	_	_	_
+es	_	_	_
+la	_	_	_
+vida	_	_	_
+.	_	_	_
+
+#test104: Marito ojerúre ñemoirü Partido Colorado oguahëvo victorioso elecciones abril oúvape .
+Marito	_	_	_
+ojerúre	_	_	_
+ñemoirü	_	_	_
+Partido	_	_	_
+Colorado	_	_	_
+oguahëvo	_	_	_
+victorioso	_	_	_
+elecciones	_	_	_
+abril	_	_	_
+oúvape	_	_	_
+.	_	_	_
+
+#test105: Ko’áĝaiko mba’e ára , he’íje farra-hápe iko’êmbava’ekue .
+Ko’áĝaiko	_	_	_
+mba’e	_	_	_
+ára	_	_	_
+,	_	_	_
+he’íje	_	_	_
+farra-hápe	_	_	_
+iko’êmbava’ekue	_	_	_
+.	_	_	_
+
+#test106: El kururu ( sapo ) en la cultura Guarani y paraguaya URL
+El	_	_	_
+kururu	_	_	_
+(	_	_	_
+sapo	_	_	_
+)	_	_	_
+en	_	_	_
+la	_	_	_
+cultura	_	_	_
+Guarani	_	_	_
+y	_	_	_
+paraguaya	_	_	_
+URL	_	_	_
+
+#test107: @USER tomboguerohory nde eveni haguere al club olimpia maitei 🙏🏻 ha exito ha osali porãpa ndeve las cosas
+@USER	_	_	_
+tomboguerohory	_	_	_
+nde	_	_	_
+eveni	_	_	_
+haguere	_	_	_
+al	_	_	_
+club	_	_	_
+olimpia	_	_	_
+maitei	_	_	_
+🙏🏻	_	_	_
+ha	_	_	_
+exito	_	_	_
+ha	_	_	_
+osali	_	_	_
+porãpa	_	_	_
+ndeve	_	_	_
+las	_	_	_
+cosas	_	_	_
+
+#test108: MARANDU REÑOIHAGUE : “ Aranduka Itaju Tetâ Tavaguasu Mbo'ehaoguigua ” ohaiva'ekue tembikuaajára Angel Domingo Sosa .
+MARANDU	_	_	_
+REÑOIHAGUE	_	_	_
+:	_	_	_
+“	_	_	_
+Aranduka	_	_	_
+Itaju	_	_	_
+Tetâ	_	_	_
+Tavaguasu	_	_	_
+Mbo'ehaoguigua	_	_	_
+”	_	_	_
+ohaiva'ekue	_	_	_
+tembikuaajára	_	_	_
+Angel	_	_	_
+Domingo	_	_	_
+Sosa	_	_	_
+.	_	_	_
+
+#test109: @USER A vos pico quien te pregunto nde tembo , ekañy a tu país mbae 🙄🙄🙄🙄
+@USER	_	_	_
+A	_	_	_
+vos	_	_	_
+pico	_	_	_
+quien	_	_	_
+te	_	_	_
+pregunto	_	_	_
+nde	_	_	_
+tembo	_	_	_
+,	_	_	_
+ekañy	_	_	_
+a	_	_	_
+tu	_	_	_
+país	_	_	_
+mbae	_	_	_
+🙄🙄🙄🙄	_	_	_
+
+#test110: Ñemopotî Tekoha pyhareve guive oñepyrûvo organización civil “ Guardianes del Bosque ” .
+Ñemopotî	_	_	_
+Tekoha	_	_	_
+pyhareve	_	_	_
+guive	_	_	_
+oñepyrûvo	_	_	_
+organización	_	_	_
+civil	_	_	_
+“	_	_	_
+Guardianes	_	_	_
+del	_	_	_
+Bosque	_	_	_
+”	_	_	_
+.	_	_	_
+
+#test111: Empresa Palermo , Grupo Cartes , ombohovái cruce de llamada investigación rehegua upe 31M .
+Empresa	_	_	_
+Palermo	_	_	_
+,	_	_	_
+Grupo	_	_	_
+Cartes	_	_	_
+,	_	_	_
+ombohovái	_	_	_
+cruce	_	_	_
+de	_	_	_
+llamada	_	_	_
+investigación	_	_	_
+rehegua	_	_	_
+upe	_	_	_
+31M	_	_	_
+.	_	_	_
+
+#test112: @USER Ña môkô py ! - No lunes no es día para 🍻🍻🥃 E'a ! pea ndaha'ei jarabe emoî haguâ ichupe día y hora .
+@USER	_	_	_
+Ña	_	_	_
+môkô	_	_	_
+py	_	_	_
+!	_	_	_
+-	_	_	_
+No	_	_	_
+lunes	_	_	_
+no	_	_	_
+es	_	_	_
+día	_	_	_
+para	_	_	_
+🍻🍻🥃	_	_	_
+E'a	_	_	_
+!	_	_	_
+pea	_	_	_
+ndaha'ei	_	_	_
+jarabe	_	_	_
+emoî	_	_	_
+haguâ	_	_	_
+ichupe	_	_	_
+día	_	_	_
+y	_	_	_
+hora	_	_	_
+.	_	_	_
+
+#test113: Guarani niko yma ymaite guive ha ko’ag̃aite peve ojeporu oñeñomongeta ha ojejokupyty hag̃ua ñane retãme . Guarani niko ñane ñe’ẽ ; guarani ñane moambue ; guarani ñande apo upe ñande haichaite ... he’iséva ñanembo Paraguái reko . Ñambojajáikena akóinte ñane guarani ! @USER
+Guarani	_	_	_
+niko	_	_	_
+yma	_	_	_
+ymaite	_	_	_
+guive	_	_	_
+ha	_	_	_
+ko’ag̃aite	_	_	_
+peve	_	_	_
+ojeporu	_	_	_
+oñeñomongeta	_	_	_
+ha	_	_	_
+ojejokupyty	_	_	_
+hag̃ua	_	_	_
+ñane	_	_	_
+retãme	_	_	_
+.	_	_	_
+Guarani	_	_	_
+niko	_	_	_
+ñane	_	_	_
+ñe’ẽ	_	_	_
+;	_	_	_
+guarani	_	_	_
+ñane	_	_	_
+moambue	_	_	_
+;	_	_	_
+guarani	_	_	_
+ñande	_	_	_
+apo	_	_	_
+upe	_	_	_
+ñande	_	_	_
+haichaite	_	_	_
+...	_	_	_
+he’iséva	_	_	_
+ñanembo	_	_	_
+Paraguái	_	_	_
+reko	_	_	_
+.	_	_	_
+Ñambojajáikena	_	_	_
+akóinte	_	_	_
+ñane	_	_	_
+guarani	_	_	_
+!	_	_	_
+@USER	_	_	_
+
+#test114: @USER Ahora nde inutiletema ara para hacer de chacha . Anda estudia mbae para no andar de chacha sin sueldo
+@USER	_	_	_
+Ahora	_	_	_
+nde	_	_	_
+inutiletema	_	_	_
+ara	_	_	_
+para	_	_	_
+hacer	_	_	_
+de	_	_	_
+chacha	_	_	_
+.	_	_	_
+Anda	_	_	_
+estudia	_	_	_
+mbae	_	_	_
+para	_	_	_
+no	_	_	_
+andar	_	_	_
+de	_	_	_
+chacha	_	_	_
+sin	_	_	_
+sueldo	_	_	_
+
+#test115: Umi firma otercerisáva IPS ha'eháicha Cevima SA , omopotîva umi dependencia , ndopagái 18 mba'apohára Ciudad del Este-guápe .
+Umi	_	_	_
+firma	_	_	_
+otercerisáva	_	_	_
+IPS	_	_	_
+ha'eháicha	_	_	_
+Cevima	_	_	_
+SA	_	_	_
+,	_	_	_
+omopotîva	_	_	_
+umi	_	_	_
+dependencia	_	_	_
+,	_	_	_
+ndopagái	_	_	_
+18	_	_	_
+mba'apohára	_	_	_
+Ciudad	_	_	_
+del	_	_	_
+Este-guápe	_	_	_
+.	_	_	_
+
+#test116: Péicha ary 2016 joajúvo oheja cobertura médica-pe umi familia oikóva situación vulnerables , Ayolas jerére , ha he'íva ivaiha calidad servicio IPS oñembyaíva Centro de Salud oguahëvo .
+Péicha	_	_	_
+ary	_	_	_
+2016	_	_	_
+joajúvo	_	_	_
+oheja	_	_	_
+cobertura	_	_	_
+médica-pe	_	_	_
+umi	_	_	_
+familia	_	_	_
+oikóva	_	_	_
+situación	_	_	_
+vulnerables	_	_	_
+,	_	_	_
+Ayolas	_	_	_
+jerére	_	_	_
+,	_	_	_
+ha	_	_	_
+he'íva	_	_	_
+ivaiha	_	_	_
+calidad	_	_	_
+servicio	_	_	_
+IPS	_	_	_
+oñembyaíva	_	_	_
+Centro	_	_	_
+de	_	_	_
+Salud	_	_	_
+oguahëvo	_	_	_
+.	_	_	_
+
+#test117: Centro Creativo y Cultural para el Desarrollo Primera Infancia " Torore " oñemoherakuãta ko'êrõ 8:00 aravo jave Gobernación Departamento Central , omomoñepyrûva oisãmbyhy mitãnguéra mimi 1 a 3 año
+Centro	_	_	_
+Creativo	_	_	_
+y	_	_	_
+Cultural	_	_	_
+para	_	_	_
+el	_	_	_
+Desarrollo	_	_	_
+Primera	_	_	_
+Infancia	_	_	_
+"	_	_	_
+Torore	_	_	_
+"	_	_	_
+oñemoherakuãta	_	_	_
+ko'êrõ	_	_	_
+8:00	_	_	_
+aravo	_	_	_
+jave	_	_	_
+Gobernación	_	_	_
+Departamento	_	_	_
+Central	_	_	_
+,	_	_	_
+omomoñepyrûva	_	_	_
+oisãmbyhy	_	_	_
+mitãnguéra	_	_	_
+mimi	_	_	_
+1	_	_	_
+a	_	_	_
+3	_	_	_
+año	_	_	_
+
+#test118: Ojehecha momento delicado ocupación yvate umi tupa terapia intensiva disponible tetãme péva sumamente importante opavave roñopytyvõ romboguejy ramo ritmo de contagio .
+Ojehecha	_	_	_
+momento	_	_	_
+delicado	_	_	_
+ocupación	_	_	_
+yvate	_	_	_
+umi	_	_	_
+tupa	_	_	_
+terapia	_	_	_
+intensiva	_	_	_
+disponible	_	_	_
+tetãme	_	_	_
+péva	_	_	_
+sumamente	_	_	_
+importante	_	_	_
+opavave	_	_	_
+roñopytyvõ	_	_	_
+romboguejy	_	_	_
+ramo	_	_	_
+ritmo	_	_	_
+de	_	_	_
+contagio	_	_	_
+.	_	_	_
+
+#test119: “ Omoañete misiónoutáva Paraguáipe ha ohechauka ñe'ê añete ojeipysóva UE guive elecciones oguerovia hesakã ha ijeroviapýva tetãme ” , omoañete alta representante Política Exterior Europea , Federica Mogherini .
+“	_	_	_
+Omoañete	_	_	_
+misiónoutáva	_	_	_
+Paraguáipe	_	_	_
+ha	_	_	_
+ohechauka	_	_	_
+ñe'ê	_	_	_
+añete	_	_	_
+ojeipysóva	_	_	_
+UE	_	_	_
+guive	_	_	_
+elecciones	_	_	_
+oguerovia	_	_	_
+hesakã	_	_	_
+ha	_	_	_
+ijeroviapýva	_	_	_
+tetãme	_	_	_
+”	_	_	_
+,	_	_	_
+omoañete	_	_	_
+alta	_	_	_
+representante	_	_	_
+Política	_	_	_
+Exterior	_	_	_
+Europea	_	_	_
+,	_	_	_
+Federica	_	_	_
+Mogherini	_	_	_
+.	_	_	_
+
+#test120: Senador Luis Castiglioni , afiliado movimiento disidente , he'íva oplanea reunión bancada ohechávo “ exclusivamente ” tema Cartes renuncia .
+Senador	_	_	_
+Luis	_	_	_
+Castiglioni	_	_	_
+,	_	_	_
+afiliado	_	_	_
+movimiento	_	_	_
+disidente	_	_	_
+,	_	_	_
+he'íva	_	_	_
+oplanea	_	_	_
+reunión	_	_	_
+bancada	_	_	_
+ohechávo	_	_	_
+“	_	_	_
+exclusivamente	_	_	_
+”	_	_	_
+tema	_	_	_
+Cartes	_	_	_
+renuncia	_	_	_
+.	_	_	_
+
+#test121: Tuicha mba'e chupekuéra oñomongetávo presidente de la República dive ha ikatúva oime lucha ha ikatúva osê porã umi ára oúvape ” , omoañete ministro de Defensa .
+Tuicha	_	_	_
+mba'e	_	_	_
+chupekuéra	_	_	_
+oñomongetávo	_	_	_
+presidente	_	_	_
+de	_	_	_
+la	_	_	_
+República	_	_	_
+dive	_	_	_
+ha	_	_	_
+ikatúva	_	_	_
+oime	_	_	_
+lucha	_	_	_
+ha	_	_	_
+ikatúva	_	_	_
+osê	_	_	_
+porã	_	_	_
+umi	_	_	_
+ára	_	_	_
+oúvape	_	_	_
+”	_	_	_
+,	_	_	_
+omoañete	_	_	_
+ministro	_	_	_
+de	_	_	_
+Defensa	_	_	_
+.	_	_	_
+
+#test122: Oimehápe funcionario estatal ha privado , orekóva uumi omoheñóiva negocio jurídico ha beneficio patrimonial ” , he’i upe Fiscalía imputación .
+Oimehápe	_	_	_
+funcionario	_	_	_
+estatal	_	_	_
+ha	_	_	_
+privado	_	_	_
+,	_	_	_
+orekóva	_	_	_
+uumi	_	_	_
+omoheñóiva	_	_	_
+negocio	_	_	_
+jurídico	_	_	_
+ha	_	_	_
+beneficio	_	_	_
+patrimonial	_	_	_
+”	_	_	_
+,	_	_	_
+he’i	_	_	_
+upe	_	_	_
+Fiscalía	_	_	_
+imputación	_	_	_
+.	_	_	_
+
+#test123: Mba'e ñe'ẽ guaraníme pehayhuve ? ¿ Cuál es su palabra favorita en guaraní ?
+Mba'e	_	_	_
+ñe'ẽ	_	_	_
+guaraníme	_	_	_
+pehayhuve	_	_	_
+?	_	_	_
+¿	_	_	_
+Cuál	_	_	_
+es	_	_	_
+su	_	_	_
+palabra	_	_	_
+favorita	_	_	_
+en	_	_	_
+guaraní	_	_	_
+?	_	_	_
+
+#test124: Pedime nomas , ajapota avei ndeve . URL
+Pedime	_	_	_
+nomas	_	_	_
+,	_	_	_
+ajapota	_	_	_
+avei	_	_	_
+ndeve	_	_	_
+.	_	_	_
+URL	_	_	_
+
+#test125: Anike oñembo puntos mba'e Bolivia ñande rehe 😴
+Anike	_	_	_
+oñembo	_	_	_
+puntos	_	_	_
+mba'e	_	_	_
+Bolivia	_	_	_
+ñande	_	_	_
+rehe	_	_	_
+😴	_	_	_
+
+#test126: Murga ha'ete voi “ añao ” osê odefende haguã ita'ýra , senador cartista , oñeinvestigáva ko'ágã evasión de impuesto rehe
+Murga	_	_	_
+ha'ete	_	_	_
+voi	_	_	_
+“	_	_	_
+añao	_	_	_
+”	_	_	_
+osê	_	_	_
+odefende	_	_	_
+haguã	_	_	_
+ita'ýra	_	_	_
+,	_	_	_
+senador	_	_	_
+cartista	_	_	_
+,	_	_	_
+oñeinvestigáva	_	_	_
+ko'ágã	_	_	_
+evasión	_	_	_
+de	_	_	_
+impuesto	_	_	_
+rehe	_	_	_
+
+#test127: Che aipota avei :(
+Che	_	_	_
+aipota	_	_	_
+avei	_	_	_
+:(	_	_	_
+
+#test128: Ipôraiterei Arevalos ..! Pojopy ndeve güârâ ..!
+Ipôraiterei	_	_	_
+Arevalos	_	_	_
+..!	_	_	_
+Pojopy	_	_	_
+ndeve	_	_	_
+güârâ	_	_	_
+..!	_	_	_
+
+#test129: Tojahu hikuái nde ratypykuápe upe ka'aru …. Tengo el placer de entender el guarani
+Tojahu	_	_	_
+hikuái	_	_	_
+nde	_	_	_
+ratypykuápe	_	_	_
+upe	_	_	_
+ka'aru	_	_	_
+….	_	_	_
+Tengo	_	_	_
+el	_	_	_
+placer	_	_	_
+de	_	_	_
+entender	_	_	_
+el	_	_	_
+guarani	_	_	_
+
+#test130: Ndaikuaai mba'erepa otî lo mitá oñe'ehagûa guaranime . Ñande nio paraguaigua .
+Ndaikuaai	_	_	_
+mba'erepa	_	_	_
+otî	_	_	_
+lo	_	_	_
+mitá	_	_	_
+oñe'ehagûa	_	_	_
+guaranime	_	_	_
+.	_	_	_
+Ñande	_	_	_
+nio	_	_	_
+paraguaigua	_	_	_
+.	_	_	_
+
+#test131: Péicha cuestionamiento Senad orekóva microtraficante , oîva jeguata upe jerére tetã pukukue .
+Péicha	_	_	_
+cuestionamiento	_	_	_
+Senad	_	_	_
+orekóva	_	_	_
+microtraficante	_	_	_
+,	_	_	_
+oîva	_	_	_
+jeguata	_	_	_
+upe	_	_	_
+jerére	_	_	_
+tetã	_	_	_
+pukukue	_	_	_
+.	_	_	_
+
+#test132: Mborayhu niko tembipuru imbaretevéva
+Mborayhu	_	_	_
+niko	_	_	_
+tembipuru	_	_	_
+imbaretevéva	_	_	_
+
+#test133: Ojeguerohory kuña okaraygua ára URL
+Ojeguerohory	_	_	_
+kuña	_	_	_
+okaraygua	_	_	_
+ára	_	_	_
+URL	_	_	_
+
+#test134: Viva mi general he'i 🤣 ni ndoikuai jepe chupe 😳🤣
+Viva	_	_	_
+mi	_	_	_
+general	_	_	_
+he'i	_	_	_
+🤣	_	_	_
+ni	_	_	_
+ndoikuai	_	_	_
+jepe	_	_	_
+chupe	_	_	_
+😳🤣	_	_	_
+
+#test135: Mba'eichapa oje'e guaraníme " carpeta creativa " ?? 🤔🤔 #tavaranduara URL
+Mba'eichapa	_	_	_
+oje'e	_	_	_
+guaraníme	_	_	_
+"	_	_	_
+carpeta	_	_	_
+creativa	_	_	_
+"	_	_	_
+??	_	_	_
+🤔🤔	_	_	_
+#tavaranduara	_	_	_
+URL	_	_	_
+
+#test136: “ Ojerurévo omohenda haguã umi comerciante Mercado 4 kóva upe pasillo ohechaukáva noïrîha organizado .
+“	_	_	_
+Ojerurévo	_	_	_
+omohenda	_	_	_
+haguã	_	_	_
+umi	_	_	_
+comerciante	_	_	_
+Mercado	_	_	_
+4	_	_	_
+kóva	_	_	_
+upe	_	_	_
+pasillo	_	_	_
+ohechaukáva	_	_	_
+noïrîha	_	_	_
+organizado	_	_	_
+.	_	_	_
+
+#test137: Ko’ã mejora ohupyty US$ 3.5 millones ha upe aty propagandarante ovale .
+Ko’ã	_	_	_
+mejora	_	_	_
+ohupyty	_	_	_
+US$	_	_	_
+3.5	_	_	_
+millones	_	_	_
+ha	_	_	_
+upe	_	_	_
+aty	_	_	_
+propagandarante	_	_	_
+ovale	_	_	_
+.	_	_	_
+
+#test138: Ko’ã propuesta oreko consensuada peteî grupo senadores bancada hetavéva .
+Ko’ã	_	_	_
+propuesta	_	_	_
+oreko	_	_	_
+consensuada	_	_	_
+peteî	_	_	_
+grupo	_	_	_
+senadores	_	_	_
+bancada	_	_	_
+hetavéva	_	_	_
+.	_	_	_
+
+#test139: Obispo ohenói omombarete haguã fe ha odefende haguã tekove
+Obispo	_	_	_
+ohenói	_	_	_
+omombarete	_	_	_
+haguã	_	_	_
+fe	_	_	_
+ha	_	_	_
+odefende	_	_	_
+haguã	_	_	_
+tekove	_	_	_
+
+#test140: PÑS-PE OÑEMBOJOPÓI ÑE’ẼRYRU GUARANÍME TEKOJOJARÃ REHEGUA URL
+PÑS-PE	_	_	_
+OÑEMBOJOPÓI	_	_	_
+ÑE’ẼRYRU	_	_	_
+GUARANÍME	_	_	_
+TEKOJOJARÃ	_	_	_
+REHEGUA	_	_	_
+URL	_	_	_
+
+#test141: @USER nde pico nderequi mbae pe escrbina guaranime mbae ani la inglepe guau pe nee cuaaiterei la inglepe
+@USER	_	_	_
+nde	_	_	_
+pico	_	_	_
+nderequi	_	_	_
+mbae	_	_	_
+pe	_	_	_
+escrbina	_	_	_
+guaranime	_	_	_
+mbae	_	_	_
+ani	_	_	_
+la	_	_	_
+inglepe	_	_	_
+guau	_	_	_
+pe	_	_	_
+nee	_	_	_
+cuaaiterei	_	_	_
+la	_	_	_
+inglepe	_	_	_
+
+#test142: Minibuses pasajero oguapýva .
+Minibuses	_	_	_
+pasajero	_	_	_
+oguapýva	_	_	_
+.	_	_	_
+
+#test143: Jepopete Têtâ sambyhyharape ..! Peina ñanemoramduma : YAPYTAPAITETA ÑANDE ROGAPE , 12 ABRIL PEVE ..! Maymaiteva , ikatuhaicha , ñaipytyvô umi ñande rapicha oikoteveape . Ikatu guive tojapo tembi'u hetapôrâ , ha tome'e mita , kuñakarai ha karai mboriahupe .. Ta'upeicha ..!
+Jepopete	_	_	_
+Têtâ	_	_	_
+sambyhyharape	_	_	_
+..!	_	_	_
+Peina	_	_	_
+ñanemoramduma	_	_	_
+:	_	_	_
+YAPYTAPAITETA	_	_	_
+ÑANDE	_	_	_
+ROGAPE	_	_	_
+,	_	_	_
+12	_	_	_
+ABRIL	_	_	_
+PEVE	_	_	_
+..!	_	_	_
+Maymaiteva	_	_	_
+,	_	_	_
+ikatuhaicha	_	_	_
+,	_	_	_
+ñaipytyvô	_	_	_
+umi	_	_	_
+ñande	_	_	_
+rapicha	_	_	_
+oikoteveape	_	_	_
+.	_	_	_
+Ikatu	_	_	_
+guive	_	_	_
+tojapo	_	_	_
+tembi'u	_	_	_
+hetapôrâ	_	_	_
+,	_	_	_
+ha	_	_	_
+tome'e	_	_	_
+mita	_	_	_
+,	_	_	_
+kuñakarai	_	_	_
+ha	_	_	_
+karai	_	_	_
+mboriahupe	_	_	_
+..	_	_	_
+Ta'upeicha	_	_	_
+..!	_	_	_
+
+#test144: Oikove jey Evelyn
+Oikove	_	_	_
+jey	_	_	_
+Evelyn	_	_	_
+
+#test145: Por cuota mba'e piko ejapo la nde lista
+Por	_	_	_
+cuota	_	_	_
+mba'e	_	_	_
+piko	_	_	_
+ejapo	_	_	_
+la	_	_	_
+nde	_	_	_
+lista	_	_	_
+
+#test146: @USER Terere hei JAJAJAJAJAJA esos 4 sándwich que comprábamos 😭
+@USER	_	_	_
+Terere	_	_	_
+hei	_	_	_
+JAJAJAJAJAJA	_	_	_
+esos	_	_	_
+4	_	_	_
+sándwich	_	_	_
+que	_	_	_
+comprábamos	_	_	_
+😭	_	_	_
+
+#test147: Hetama aka'u nde rerape 🍻
+Hetama	_	_	_
+aka'u	_	_	_
+nde	_	_	_
+rerape	_	_	_
+🍻	_	_	_
+
+#test148: Upéicha ára 7 jasypoteî ary 1917-pe , táva Chicago , Estados Unidos-pe ; oñemboajékuri Leô Atyha ha jasypa upe aryguápe táva Dallas , Texas-pe oñemboajékuri upe atyha rekoguataha ha rekombojojaha ha upéicha avei ijehupytyrâ ha tekopotî mbohapeha .
+Upéicha	_	_	_
+ára	_	_	_
+7	_	_	_
+jasypoteî	_	_	_
+ary	_	_	_
+1917-pe	_	_	_
+,	_	_	_
+táva	_	_	_
+Chicago	_	_	_
+,	_	_	_
+Estados	_	_	_
+Unidos-pe	_	_	_
+;	_	_	_
+oñemboajékuri	_	_	_
+Leô	_	_	_
+Atyha	_	_	_
+ha	_	_	_
+jasypa	_	_	_
+upe	_	_	_
+aryguápe	_	_	_
+táva	_	_	_
+Dallas	_	_	_
+,	_	_	_
+Texas-pe	_	_	_
+oñemboajékuri	_	_	_
+upe	_	_	_
+atyha	_	_	_
+rekoguataha	_	_	_
+ha	_	_	_
+rekombojojaha	_	_	_
+ha	_	_	_
+upéicha	_	_	_
+avei	_	_	_
+ijehupytyrâ	_	_	_
+ha	_	_	_
+tekopotî	_	_	_
+mbohapeha	_	_	_
+.	_	_	_
+
+#test149: @USER jajajajajajja M O O P I O españolita jajajaja eikuaasepa mba'eicha ojescribi guaranime ? EUKUAASEPA ?
+@USER	_	_	_
+jajajajajajja	_	_	_
+M	_	_	_
+O	_	_	_
+O	_	_	_
+P	_	_	_
+I	_	_	_
+O	_	_	_
+españolita	_	_	_
+jajajaja	_	_	_
+eikuaasepa	_	_	_
+mba'eicha	_	_	_
+ojescribi	_	_	_
+guaranime	_	_	_
+?	_	_	_
+EUKUAASEPA	_	_	_
+?	_	_	_
+
+#test150: ¿ Ña tî jahai haguâ guaranime ? Terâ guarani ñe´e ndaha´ei " tecnológico " ?
+¿	_	_	_
+Ña	_	_	_
+tî	_	_	_
+jahai	_	_	_
+haguâ	_	_	_
+guaranime	_	_	_
+?	_	_	_
+Terâ	_	_	_
+guarani	_	_	_
+ñe´e	_	_	_
+ndaha´ei	_	_	_
+"	_	_	_
+tecnológico	_	_	_
+"	_	_	_
+?	_	_	_
+
+#test151: @USER Eme'ê nde retépe vy'a Makarena ... (8)
+@USER	_	_	_
+Eme'ê	_	_	_
+nde	_	_	_
+retépe	_	_	_
+vy'a	_	_	_
+Makarena	_	_	_
+...	_	_	_
+(8)	_	_	_
+
+#test152: Péva ogueraha mitãpyahu 15 a 29 ary , ha móto ári que son los principales protagonistas de
+Péva	_	_	_
+ogueraha	_	_	_
+mitãpyahu	_	_	_
+15	_	_	_
+a	_	_	_
+29	_	_	_
+ary	_	_	_
+,	_	_	_
+ha	_	_	_
+móto	_	_	_
+ári	_	_	_
+que	_	_	_
+son	_	_	_
+los	_	_	_
+principales	_	_	_
+protagonistas	_	_	_
+de	_	_	_
+
+#test153: @USER Aguante Ara katu
+@USER	_	_	_
+Aguante	_	_	_
+Ara	_	_	_
+katu	_	_	_
+
+#test154: Fiscal general del Estado Javier Díaz Verón , omoherakuã “ ojeruré permiso ” oñemboyke ha titularidad Ministerio Público “ bienestar de su familia ” , ohekávo investigación en su contra .
+Fiscal	_	_	_
+general	_	_	_
+del	_	_	_
+Estado	_	_	_
+Javier	_	_	_
+Díaz	_	_	_
+Verón	_	_	_
+,	_	_	_
+omoherakuã	_	_	_
+“	_	_	_
+ojeruré	_	_	_
+permiso	_	_	_
+”	_	_	_
+oñemboyke	_	_	_
+ha	_	_	_
+titularidad	_	_	_
+Ministerio	_	_	_
+Público	_	_	_
+“	_	_	_
+bienestar	_	_	_
+de	_	_	_
+su	_	_	_
+familia	_	_	_
+”	_	_	_
+,	_	_	_
+ohekávo	_	_	_
+investigación	_	_	_
+en	_	_	_
+su	_	_	_
+contra	_	_	_
+.	_	_	_
+
+#test155: Ko'ápe , ha pya'ete discurso , Horacio Cartes omoañete ndaha'éiha tiempo de revanchismo ha péicha omba'apova'erã lista 1 rehe .
+Ko'ápe	_	_	_
+,	_	_	_
+ha	_	_	_
+pya'ete	_	_	_
+discurso	_	_	_
+,	_	_	_
+Horacio	_	_	_
+Cartes	_	_	_
+omoañete	_	_	_
+ndaha'éiha	_	_	_
+tiempo	_	_	_
+de	_	_	_
+revanchismo	_	_	_
+ha	_	_	_
+péicha	_	_	_
+omba'apova'erã	_	_	_
+lista	_	_	_
+1	_	_	_
+rehe	_	_	_
+.	_	_	_
+
+#test156: Oñepyrûva jornada omotenondéva celebración religiosa oisãmbyhýva monseñor Mario Melanio Medina , upéi , pobladores omoirûva procesión orekóva santa imagen .
+Oñepyrûva	_	_	_
+jornada	_	_	_
+omotenondéva	_	_	_
+celebración	_	_	_
+religiosa	_	_	_
+oisãmbyhýva	_	_	_
+monseñor	_	_	_
+Mario	_	_	_
+Melanio	_	_	_
+Medina	_	_	_
+,	_	_	_
+upéi	_	_	_
+,	_	_	_
+pobladores	_	_	_
+omoirûva	_	_	_
+procesión	_	_	_
+orekóva	_	_	_
+santa	_	_	_
+imagen	_	_	_
+.	_	_	_
+
+#test157: @USER Te falto el clásico de la lupa , llorón !!! Anda lava tu tanga mbae nde drogadicto !!!
+@USER	_	_	_
+Te	_	_	_
+falto	_	_	_
+el	_	_	_
+clásico	_	_	_
+de	_	_	_
+la	_	_	_
+lupa	_	_	_
+,	_	_	_
+llorón	_	_	_
+!!!	_	_	_
+Anda	_	_	_
+lava	_	_	_
+tu	_	_	_
+tanga	_	_	_
+mbae	_	_	_
+nde	_	_	_
+drogadicto	_	_	_
+!!!	_	_	_
+
+#test158: Ñamokõva'erã “ kururu ” pero ndaha'éi péicha .
+Ñamokõva'erã	_	_	_
+“	_	_	_
+kururu	_	_	_
+”	_	_	_
+pero	_	_	_
+ndaha'éi	_	_	_
+péicha	_	_	_
+.	_	_	_
+
+#test159: PÑS mba'apohára pyahu jeporavorã - Llamado a Concurso de la SPL .
+PÑS	_	_	_
+mba'apohára	_	_	_
+pyahu	_	_	_
+jeporavorã	_	_	_
+-	_	_	_
+Llamado	_	_	_
+a	_	_	_
+Concurso	_	_	_
+de	_	_	_
+la	_	_	_
+SPL	_	_	_
+.	_	_	_
+
+#test160: Nde bolsillo rasy mba’e pío profe . Eguenohena la tarjeta che papá 🙄🙄
+Nde	_	_	_
+bolsillo	_	_	_
+rasy	_	_	_
+mba’e	_	_	_
+pío	_	_	_
+profe	_	_	_
+.	_	_	_
+Eguenohena	_	_	_
+la	_	_	_
+tarjeta	_	_	_
+che	_	_	_
+papá	_	_	_
+🙄🙄	_	_	_
+
+#test161: Mario Abdo oguahê mbohupárõ Tañarandýpe
+Mario	_	_	_
+Abdo	_	_	_
+oguahê	_	_	_
+mbohupárõ	_	_	_
+Tañarandýpe	_	_	_
+
+#test162: “ Karai , eho nde rógape ” , dirá la policía a los que vayan a Caacupé URL
+“	_	_	_
+Karai	_	_	_
+,	_	_	_
+eho	_	_	_
+nde	_	_	_
+rógape	_	_	_
+”	_	_	_
+,	_	_	_
+dirá	_	_	_
+la	_	_	_
+policía	_	_	_
+a	_	_	_
+los	_	_	_
+que	_	_	_
+vayan	_	_	_
+a	_	_	_
+Caacupé	_	_	_
+URL	_	_	_
+
+#test163: Estudiantes de Fenaes ombosako’i movilización oñeikotevêgui mbo’ehára
+Estudiantes	_	_	_
+de	_	_	_
+Fenaes	_	_	_
+ombosako’i	_	_	_
+movilización	_	_	_
+oñeikotevêgui	_	_	_
+mbo’ehára	_	_	_
+
+#test164: Péicha , Fleitas ojepytaso presupuesto ojeguerekóva umi becakuéra oïva rehe umi temimbo'e imboriahuvéva rehe ha ojoajúo umi centros de estudiantes ha umi firma privada oike haguã omba'apo .
+Péicha	_	_	_
+,	_	_	_
+Fleitas	_	_	_
+ojepytaso	_	_	_
+presupuesto	_	_	_
+ojeguerekóva	_	_	_
+umi	_	_	_
+becakuéra	_	_	_
+oïva	_	_	_
+rehe	_	_	_
+umi	_	_	_
+temimbo'e	_	_	_
+imboriahuvéva	_	_	_
+rehe	_	_	_
+ha	_	_	_
+ojoajúo	_	_	_
+umi	_	_	_
+centros	_	_	_
+de	_	_	_
+estudiantes	_	_	_
+ha	_	_	_
+umi	_	_	_
+firma	_	_	_
+privada	_	_	_
+oike	_	_	_
+haguã	_	_	_
+omba'apo	_	_	_
+.	_	_	_
+
+#test165: Oñemoherakuãva grupo piribebuiense “ Tercera Capital ” omotenonde emotivo homenaje opavave túva hi'arape .
+Oñemoherakuãva	_	_	_
+grupo	_	_	_
+piribebuiense	_	_	_
+“	_	_	_
+Tercera	_	_	_
+Capital	_	_	_
+”	_	_	_
+omotenonde	_	_	_
+emotivo	_	_	_
+homenaje	_	_	_
+opavave	_	_	_
+túva	_	_	_
+hi'arape	_	_	_
+.	_	_	_
+
+#test166: Cuando todo está peor ... más debemos insistir ! Opaite mba'e oho vaive jave ... ñañeha'âvéva'erâ !
+Cuando	_	_	_
+todo	_	_	_
+está	_	_	_
+peor	_	_	_
+...	_	_	_
+más	_	_	_
+debemos	_	_	_
+insistir	_	_	_
+!	_	_	_
+Opaite	_	_	_
+mba'e	_	_	_
+oho	_	_	_
+vaive	_	_	_
+jave	_	_	_
+...	_	_	_
+ñañeha'âvéva'erâ	_	_	_
+!	_	_	_
+
+#test167: Juez Amarilla oiko imputación Ferreiro Paz ha Ferreiro Ayala fiscal omombe’úva “ sucintamente el o los hechos ” penales oñeme’êva , péva ohai ko’ã grupo Telegram ojapóva red de recaudación paralela , ome’ê ÿre detalle modus operandi .
+Juez	_	_	_
+Amarilla	_	_	_
+oiko	_	_	_
+imputación	_	_	_
+Ferreiro	_	_	_
+Paz	_	_	_
+ha	_	_	_
+Ferreiro	_	_	_
+Ayala	_	_	_
+fiscal	_	_	_
+omombe’úva	_	_	_
+“	_	_	_
+sucintamente	_	_	_
+el	_	_	_
+o	_	_	_
+los	_	_	_
+hechos	_	_	_
+”	_	_	_
+penales	_	_	_
+oñeme’êva	_	_	_
+,	_	_	_
+péva	_	_	_
+ohai	_	_	_
+ko’ã	_	_	_
+grupo	_	_	_
+Telegram	_	_	_
+ojapóva	_	_	_
+red	_	_	_
+de	_	_	_
+recaudación	_	_	_
+paralela	_	_	_
+,	_	_	_
+ome’ê	_	_	_
+ÿre	_	_	_
+detalle	_	_	_
+modus	_	_	_
+operandi	_	_	_
+.	_	_	_
+
+#test168: @USER Nde porã katu
+@USER	_	_	_
+Nde	_	_	_
+porã	_	_	_
+katu	_	_	_
+
+#test169: @USER corre lejos katu de ese hospital , ani te contagias loca
+@USER	_	_	_
+corre	_	_	_
+lejos	_	_	_
+katu	_	_	_
+de	_	_	_
+ese	_	_	_
+hospital	_	_	_
+,	_	_	_
+ani	_	_	_
+te	_	_	_
+contagias	_	_	_
+loca	_	_	_
+
+#test170: Umi genuino alberdeño , opa ohóvo mbeguekatúpe
+Umi	_	_	_
+genuino	_	_	_
+alberdeño	_	_	_
+,	_	_	_
+opa	_	_	_
+ohóvo	_	_	_
+mbeguekatúpe	_	_	_
+
+#test171: Aikese che r .. kuápe
+Aikese	_	_	_
+che	_	_	_
+r	_	_	_
+..	_	_	_
+kuápe	_	_	_
+
+#test172: @USER Ovya ha'e por demostrar ignorancia , la tavy ndandejukai pero nde reko asy .
+@USER	_	_	_
+Ovya	_	_	_
+ha'e	_	_	_
+por	_	_	_
+demostrar	_	_	_
+ignorancia	_	_	_
+,	_	_	_
+la	_	_	_
+tavy	_	_	_
+ndandejukai	_	_	_
+pero	_	_	_
+nde	_	_	_
+reko	_	_	_
+asy	_	_	_
+.	_	_	_
+
+#test173: Ojerúre pytyvõ pueblo indígena oimehápe ko territorio .
+Ojerúre	_	_	_
+pytyvõ	_	_	_
+pueblo	_	_	_
+indígena	_	_	_
+oimehápe	_	_	_
+ko	_	_	_
+territorio	_	_	_
+.	_	_	_
+
+#test174: #ParaguáiMarandu @USER ohechakuaa ñe’ê guaraní ymaguare . @USER
+#ParaguáiMarandu	_	_	_
+@USER	_	_	_
+ohechakuaa	_	_	_
+ñe’ê	_	_	_
+guaraní	_	_	_
+ymaguare	_	_	_
+.	_	_	_
+@USER	_	_	_
+
+#test175: Gobierno Juan Carlos Wasmosy oñepresenta peteî maqueta ha oñemohenda ita fundacional zona Botánico .
+Gobierno	_	_	_
+Juan	_	_	_
+Carlos	_	_	_
+Wasmosy	_	_	_
+oñepresenta	_	_	_
+peteî	_	_	_
+maqueta	_	_	_
+ha	_	_	_
+oñemohenda	_	_	_
+ita	_	_	_
+fundacional	_	_	_
+zona	_	_	_
+Botánico	_	_	_
+.	_	_	_
+
+#test176: Asociación de Vendedores Ambulantes del Paraguay omoherakuã convocatoria general oipysóva 8:30 viaducto Calle Última guýre .
+Asociación	_	_	_
+de	_	_	_
+Vendedores	_	_	_
+Ambulantes	_	_	_
+del	_	_	_
+Paraguay	_	_	_
+omoherakuã	_	_	_
+convocatoria	_	_	_
+general	_	_	_
+oipysóva	_	_	_
+8:30	_	_	_
+viaducto	_	_	_
+Calle	_	_	_
+Última	_	_	_
+guýre	_	_	_
+.	_	_	_
+
+#test177: Mburuvicha guasu ha’ete oho oñomongeta hendivekuéra “ mba’apohára ” , ogueraháva pytyvõ incondicional ichupe ha ohasávo “ osepilla ” ministra de Trabajo , Carla Bacigalupo-pe , ohenóiva’ekue chupekuéra “ protesta jave ” ombotovévo juicio político , ojeipysóva upe tendáre .
+Mburuvicha	_	_	_
+guasu	_	_	_
+ha’ete	_	_	_
+oho	_	_	_
+oñomongeta	_	_	_
+hendivekuéra	_	_	_
+“	_	_	_
+mba’apohára	_	_	_
+”	_	_	_
+,	_	_	_
+ogueraháva	_	_	_
+pytyvõ	_	_	_
+incondicional	_	_	_
+ichupe	_	_	_
+ha	_	_	_
+ohasávo	_	_	_
+“	_	_	_
+osepilla	_	_	_
+”	_	_	_
+ministra	_	_	_
+de	_	_	_
+Trabajo	_	_	_
+,	_	_	_
+Carla	_	_	_
+Bacigalupo-pe	_	_	_
+,	_	_	_
+ohenóiva’ekue	_	_	_
+chupekuéra	_	_	_
+“	_	_	_
+protesta	_	_	_
+jave	_	_	_
+”	_	_	_
+ombotovévo	_	_	_
+juicio	_	_	_
+político	_	_	_
+,	_	_	_
+ojeipysóva	_	_	_
+upe	_	_	_
+tendáre	_	_	_
+.	_	_	_
+
+#test178: @USER nde porã es pero acepto , nde nde porã avei
+@USER	_	_	_
+nde	_	_	_
+porã	_	_	_
+es	_	_	_
+pero	_	_	_
+acepto	_	_	_
+,	_	_	_
+nde	_	_	_
+nde	_	_	_
+porã	_	_	_
+avei	_	_	_
+
+#test179: Unidad de Delitos Económicos Fiscalía omotenondéva kuehe poapy allanamiento Itapúa -pe .
+Unidad	_	_	_
+de	_	_	_
+Delitos	_	_	_
+Económicos	_	_	_
+Fiscalía	_	_	_
+omotenondéva	_	_	_
+kuehe	_	_	_
+poapy	_	_	_
+allanamiento	_	_	_
+Itapúa	_	_	_
+-pe	_	_	_
+.	_	_	_
+
+#test180: Ani ejavy la nde rape
+Ani	_	_	_
+ejavy	_	_	_
+la	_	_	_
+nde	_	_	_
+rape	_	_	_
